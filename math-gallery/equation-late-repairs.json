@@ -1,0 +1,40 @@
+{
+  "169": {
+    "keepSourceIndexes": [
+      500,
+      501,
+      502,
+      503,
+      504,
+      505,
+      506,
+      507,
+      508,
+      509,
+      510,
+      511,
+      512,
+      513,
+      514,
+      515,
+      516,
+      517,
+      518,
+      519,
+      520,
+      521,
+      522,
+      523,
+      524
+    ],
+    "reason": "source 0–499 are narrow neighboring-page p168 bleed, not the p169 sine family."
+  },
+  "182": {
+    "dropSourceIndexes": [
+      340,
+      341,
+      342
+    ],
+    "reason": "Typeset formula masks and glyphs retained outside the mathematical heart illustration."
+  }
+}

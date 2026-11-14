@@ -1,0 +1,29 @@
+# Rebuildable output and local checks
+/dist/
+/math-gallery/dist/
+/tmp/
+/math-gallery/tmp/
+/math-gallery/check-semantic.js
+/math-gallery/semantic-data.json
+/math-gallery/semantic-specs.json
+/math-gallery/review-cleanup-applied.json
+/数学奇妙笔记本_全书动态版_离线.html
+/数学奇妙笔记本_全书动态版_离线_v*.html
+# Local environment and caches
+.DS_Store
+__pycache__/
+*.pyc
+node_modules/
+.venv/
+.env
+.env.*
+!.env.example
+# Original reference material and extraction caches stay in the full handoff package.
+# They are not needed by the current offline build.
+/source/*.pdf
+/source/book-vectors.json
+/source/vectors-optimized.json
+/source/allpages/
+/source/chapter1/
+/source/notes/
+/source/originals/

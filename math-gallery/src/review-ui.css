@@ -1,0 +1,88 @@
+/* Equations follow the canvas and controls; their text cannot push the canvas. */
+html{overflow-anchor:none;scrollbar-gutter:stable}
+.gallery{overflow-anchor:none;align-items:start}
+.motion{align-self:start}
+.version-badge{font-size:10px;color:var(--green);white-space:nowrap;align-self:center}
+.live-equation{
+ height:auto;min-height:0;max-height:none;
+ display:grid;grid-template-rows:none;grid-auto-rows:auto;row-gap:6px;
+ padding:11px 16px;overflow:visible;overflow-anchor:none;
+ border:1px solid var(--line);margin-top:14px;
+}
+.live-equation .formula-label{height:12px;line-height:12px;margin:0;white-space:nowrap}
+#currentParameter{margin:0;min-height:0;overflow:visible;line-height:25px}
+#currentParameter:empty,#liveMath:empty,#parameterInfo:empty{display:none}
+#liveMath{min-height:0;max-height:none;overflow-x:auto;scrollbar-width:thin}
+#liveMath .katex-display{margin:.25em 0}
+#parameterInfo{min-height:0;margin:0;line-height:16px;overflow:visible}
+.canvas-wrap{flex:none;overflow-anchor:none}
+.canvas-readout{height:auto;min-height:0;max-height:none;overflow-anchor:none}
+@media(max-width:700px){
+ .live-equation{padding:10px}
+ #currentParameter{font-size:16px;line-height:25px}
+}
+/* v15: compact phone directory; all desktop directory rules stay unchanged. */
+.toc-mobile-picker{display:none}
+@media(max-width:700px){
+ .toc-intro,.toc-chapters,.toc-content h3{display:none}
+ .toc-mobile-picker{display:block;margin:0 0 16px;font-size:12px;color:var(--green)}
+ .toc-mobile-picker select{display:block;width:100%;min-height:46px;margin-top:7px;padding:10px 12px;font-family:inherit;font-size:16px;line-height:1.4;color:var(--ink);background:var(--paper);border:1px solid var(--line);border-radius:5px}
+ .toc-layout{width:calc(92vw - 50px);max-width:100%;grid-template-columns:minmax(0,1fr);gap:0}
+ .toc-count{margin:0 0 12px}
+ .toc-content .toc-list{max-height:max(80px,calc(76vh - 170px));max-height:max(80px,calc(76dvh - 170px));overscroll-behavior:contain}
+ .toc-list button{min-height:72px;padding:12px 14px}
+ .toc-list b{font-size:20px}
+}
+
+/* v17: only close the phone chapter chooser after selection. */
+@media(max-width:700px){
+ .toc-mobile-picker{position:relative}
+ .toc-mobile-label{display:block;margin-bottom:7px}
+ .toc-mobile-dropdown{padding:0;border:0;font-size:16px}
+ .toc-mobile-dropdown summary{display:flex;justify-content:space-between;align-items:center;gap:10px;min-height:46px;padding:10px 12px;list-style:none;border:1px solid var(--line);border-radius:5px;background:var(--paper);font-size:15px;line-height:1.4;color:var(--ink)}
+ .toc-mobile-dropdown summary::-webkit-details-marker{display:none}
+ .toc-mobile-options{position:absolute;top:100%;left:0;right:0;z-index:5;max-height:48vh;overflow:auto;padding:6px;background:var(--paper);border:1px solid var(--line);border-radius:5px;box-shadow:0 8px 20px #103c3220;overscroll-behavior:contain}
+ .toc-mobile-options button{display:block;width:100%;min-height:44px;text-align:left;padding:10px;font-size:14px;border:0;background:transparent}
+ .toc-mobile-options button[aria-pressed=true]{background:var(--ink);color:var(--paper)}
+}
+
+/* v19: navigation beside the printed page number; chapter name beside footer samples. */
+.heading{gap:24px}
+.heading-actions{display:flex;align-items:center;gap:24px;flex-shrink:0}
+.figure-navigation{display:flex;gap:8px;align-items:center}
+.figure-navigation .prevnext{font-size:12px;padding:9px 13px;min-height:40px;white-space:nowrap}
+.heading-actions .page-marker{white-space:nowrap}
+.navigation{display:grid;grid-template-columns:minmax(150px,210px) minmax(0,1fr);gap:24px;align-items:start}
+.footer-chapter{font-family:"Songti SC","STSong",serif;font-size:15px;line-height:1.7;color:var(--green);padding:6px 0}
+.navigation .samples{max-width:none;min-width:0;width:100%}
+@media(max-width:700px){
+ .heading{flex-wrap:wrap;gap:16px}
+ .heading-actions{width:100%;justify-content:space-between;gap:12px}
+ .figure-navigation .prevnext{padding:9px 11px;min-height:44px}
+ .heading-actions .page-marker{font-size:19px}
+ .navigation{grid-template-columns:minmax(0,1fr);gap:8px}
+ .footer-chapter{font-size:14px;padding:0}
+}
+
+/* v20: chapter heading, artwork choices, then a second pair of turn controls. */
+footer .navigation{grid-template-columns:minmax(0,1fr);gap:16px;padding-top:2px}
+.footer-chapter-head{display:flex;align-items:center;justify-content:space-between;gap:20px}
+.footer-label{font-size:10px;letter-spacing:.16em;color:var(--muted);margin-bottom:5px}
+.footer-chapter-head .footer-chapter{margin:0;padding:0;font-size:19px;font-weight:500;line-height:1.5}
+.chapter-position{font:italic 14px Georgia,"Songti SC",serif;color:var(--gold);white-space:nowrap}
+.navigation .samples{display:flex;flex-wrap:wrap;overflow:visible;gap:8px;padding:0;justify-content:flex-start}
+.navigation .samples button{min-width:0;min-height:40px;padding:9px 13px;white-space:normal;line-height:1.5;text-align:left;border:1px solid var(--line);border-radius:4px;background:transparent;color:var(--muted);font-size:12px}
+.navigation .samples button[aria-current=true]{background:var(--green);border-color:var(--green);color:var(--paper)}
+.navigation .samples button[aria-current=true] b{color:#e6cf9d}
+.navigation .samples b{display:inline-block;white-space:nowrap;margin-right:7px}
+.footer-turning{display:flex;justify-content:space-between;gap:16px;border-top:1px solid var(--line);padding-top:16px}
+.footer-turning .prevnext{min-width:128px;min-height:44px;padding:10px 18px;font-size:13px}
+@media(max-width:700px){
+ footer .navigation{gap:14px}
+ .footer-chapter-head{align-items:flex-end;gap:12px}
+ .footer-chapter-head .footer-chapter{font-size:17px}
+ .chapter-position{font-size:12px;padding-bottom:3px}
+ .navigation .samples{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:7px}
+ .navigation .samples button{width:100%;min-height:44px;padding:10px;font-size:12px}
+ .footer-turning .prevnext{flex:1;min-width:0}
+}

@@ -1,0 +1,259 @@
+{
+  "150": {
+    "tex": "\\begin{aligned}x&=t-\\sin t\\\\y&=1-\\cos t+c\\end{aligned}",
+    "description": "改变 c，逐条绘制平移后的摆线。",
+    "mode": "curve",
+    "parameter": "t 为曲线参数；c 为竖直平移量。"
+  },
+  "151": {
+    "tex": "\\begin{aligned}x&=\\sin t\\left[e^{\\cos t}-2\\cos(4t)-\\sin^5\\!\\left(\\frac{t}{12}\\right)\\right]\\\\y&=\\cos t\\left[e^{\\cos t}-2\\cos(4t)-\\sin^5\\!\\left(\\frac{t}{12}\\right)\\right]\\end{aligned}",
+    "description": "按参数方程绘制蝴蝶曲线，向上和向右平移。",
+    "mode": "curve",
+    "parameter": "t 为沿蝴蝶曲线运动的参数。",
+    "range": "0≤t≤12π"
+  },
+  "152": {
+    "tex": "\\begin{aligned}x&=\\frac12\\sin(20t)\\\\y&=\\sin^2(20t)\\cos(7t)\\end{aligned}",
+    "description": "按参数方程绘制曲线，向上和向左平移。",
+    "mode": "curve",
+    "parameter": "t 为曲线参数。",
+    "range": "0≤t≤2π"
+  },
+  "153": {
+    "tex": "\\begin{aligned}x&=4\\pi\\left[t+\\cos(80\\pi t)-\\cos(2\\pi t)\\right]\\\\y&=\\cos(4\\pi t)+4\\pi\\left[\\sin(80\\pi t)-\\sin(2\\pi t)\\right]\\end{aligned}",
+    "description": "按参数方程绘制弹簧圈，缩小并向上和向右平移。",
+    "mode": "curve",
+    "parameter": "t 为曲线参数。",
+    "range": "0≤t≤1"
+  },
+  "154": {
+    "tex": "\\begin{aligned}x&=16\\sin^3 t\\\\y&=13\\cos t-5\\cos(2t)-2\\cos(3t)-\\cos(4t)\\end{aligned}",
+    "description": "绘制爱心曲线，向上和向左平移，并缩放到不同大小。",
+    "mode": "curve",
+    "parameter": "t 为爱心曲线参数；各条曲线采用不同缩放比例。",
+    "range": "0≤t≤2π"
+  },
+  "155": {
+    "tex": "\\begin{aligned}x&=\\frac{\\cos t}{1+\\sin^2 t}\\\\y&=\\frac{\\sin t\\cos t}{1+\\sin^2 t}\\end{aligned}",
+    "description": "先按参数方程绘制曲线，再旋转并向上和向右平移。",
+    "mode": "rotation",
+    "parameter": "t 为曲线参数；各条曲线采用不同旋转角。",
+    "range": "0≤t≤2π"
+  },
+  "156": {
+    "tex": "\\begin{aligned}x&=2\\cos^2(6.1t)\\sin\\!\\left[\\sin(7.6t)\\right]\\\\y&=2\\sin(6.1t)\\cos\\!\\left[\\cos(7.6t)\\right]\\end{aligned}",
+    "description": "按参数方程绘制曲线，将原点移至页面中央。",
+    "mode": "curve",
+    "parameter": "t 为曲线参数。",
+    "range": "−8≤t≤8"
+  },
+  "157": {
+    "tex": "\\begin{gathered}y=c\\\\x=\\frac{16\\sin^3 t}{6.5}+\\frac{5.5}{2}\\\\y=\\frac{13\\cos t-5\\cos(2t)-2\\cos(3t)-\\cos(4t)}{6.5}+4\\end{gathered}",
+    "description": "先绘制水平直线 y=c，再用参数方程描绘的白色爱心覆盖。",
+    "mode": "mask",
+    "parameter": "c 为水平直线的高度；t 为白色爱心边界的参数。",
+    "range": "爱心：0≤t≤2π"
+  },
+  "158": {
+    "tex": "\\begin{aligned}a&=\\frac{1}{4.5+c},\\qquad b=\\frac{10}{4.5+c}\\\\x&=(a+b)\\cos t-a\\cos\\!\\left(\\frac{t(a+b)}a\\right)-\\frac{5.5}{2}\\\\y&=(a+b)\\sin t-a\\sin\\!\\left(\\frac{t(a+b)}a\\right)+\\frac{8.5}{2}\\end{aligned}",
+    "description": "改变 c，由 a、b 决定各条外摆线的大小，依次按参数方程绘制。",
+    "mode": "curve",
+    "parameter": "t 为外摆线参数；c 同时控制 a 和 b。",
+    "range": "0≤t≤2π"
+  },
+  "159": {
+    "tex": "\\begin{aligned}x&=t+\\frac{\\cos(14t)}t\\\\y&=t+\\frac{\\sin(14t)}t\\end{aligned}\\qquad y=x",
+    "description": "按参数方程绘制循环曲线，向上和向右平移，并绘制直线 y=x。原书给出的参数区间为 0≤t≤20；因分母含 t，实际计算跳过未定义的 t=0。",
+    "mode": "curve",
+    "parameter": "t 为曲线参数；y=x 为图中的辅助直线。",
+    "range": "原书：0≤t≤20；计算时 t>0"
+  },
+  "160": {
+    "tex": "\\begin{aligned}x&=2\\sin(13\\pi t)\\\\y&=3.5\\cos(\\pi t)\\end{aligned}",
+    "description": "按参数方程绘制花边曲线，向右和向上平移。",
+    "mode": "curve",
+    "parameter": "t 为曲线参数。",
+    "range": "0≤t≤2"
+  },
+  "161": {
+    "tex": "\\begin{aligned}x&=2\\sin(13\\pi t)\\\\y&=3.5\\cos(3\\pi t)\\end{aligned}",
+    "description": "按参数方程绘制花边曲线，向右和向上平移。",
+    "mode": "curve",
+    "parameter": "t 为曲线参数。",
+    "range": "0≤t≤2"
+  },
+  "162": {
+    "tex": "\\begin{aligned}x&=2\\sin(13\\pi t)\\\\y&=3.5\\cos(5\\pi t)\\end{aligned}",
+    "description": "按参数方程绘制花边曲线，向右和向上平移。",
+    "mode": "curve",
+    "parameter": "t 为曲线参数。",
+    "range": "0≤t≤2"
+  },
+  "163": {
+    "tex": "\\begin{aligned}x&=2\\sin(13\\pi t)\\\\y&=3.5\\cos(7\\pi t)\\end{aligned}",
+    "description": "按参数方程绘制花边曲线，向右和向上平移。",
+    "mode": "curve",
+    "parameter": "t 为曲线参数。",
+    "range": "0≤t≤2"
+  },
+  "164": {
+    "tex": "\\begin{aligned}x&=-\\cos\\!\\left(2.01t-\\frac\\pi2\\right)e^{-0.00085t}-\\cos\\!\\left(3t-\\frac\\pi{16}\\right)\\\\y&=-\\sin(3t)e^{-0.0065t}-\\sin(2t)\\end{aligned}",
+    "description": "按参数方程绘制谐波记录器轨迹，将原点移至页面中央。两个方向分别按各自公式运动，共同形成曲线。",
+    "mode": "curve",
+    "parameter": "t 为谐波记录器的运动参数。",
+    "range": "0≤t≤250"
+  },
+  "166": {
+    "tex": "A=(0,c),\\qquad B=\\text{页面左侧的随机点}",
+    "description": "连接点 (0,c) 与页面左侧的随机点。",
+    "mode": "random",
+    "parameter": "c 决定一个端点的高度；另一端点在页面左侧随机选取。"
+  },
+  "167": {
+    "tex": "y=\\frac c2",
+    "description": "先画 3 个圆；在直线未穿过圆的地方画水平线 y=c/2；当直线与圆相交时，画竖线。",
+    "mode": "construction",
+    "parameter": "c 为水平线的位置参数；圆内改画竖线。"
+  },
+  "168": {
+    "tex": "\\text{随机旋转中心；随机旋转角}",
+    "description": "围绕页面上的某个随机点，按随机角度旋转。",
+    "mode": "random",
+    "parameter": "每次选取一个随机旋转中心和随机旋转角。"
+  },
+  "169": {
+    "tex": "y=\\sin(2x)+c,\\qquad 0\\le x\\le1.5\\sin(2c)+3.5",
+    "description": "改变 c，按各自的横坐标范围绘制正弦曲线。",
+    "mode": "curve",
+    "parameter": "c 同时控制曲线高度和右端点位置。",
+    "range": "0≤x≤1.5sin(2c)+3.5"
+  },
+  "170": {
+    "tex": "y=mx+c,\\qquad -0.3\\le m\\le0.3",
+    "description": "每条直线使用一个介于 −0.3 和 0.3 之间的随机斜率 m。",
+    "mode": "random",
+    "parameter": "m 为随机斜率；c 为纵截距。",
+    "range": "−0.3≤m≤0.3"
+  },
+  "171": {
+    "tex": "\\theta\\in\\{90^\\circ,180^\\circ,270^\\circ\\}",
+    "description": "随意选取页面上的一个矩形区域，将其随机旋转 90°、180° 或 270°。",
+    "mode": "rotation",
+    "parameter": "θ 为所选矩形区域的旋转角。",
+    "range": "θ=90°、180° 或 270°"
+  },
+  "172": {
+    "tex": "\\begin{gathered}y=c\\\\y=e^{0.2x}\\sin(-2x)+\\sin(-3x)\\end{gathered}",
+    "description": "先绘制水平直线 y=c，再用 y=e^(0.2x)sin(−2x)+sin(−3x) 制造“融化”的效果。",
+    "mode": "construction",
+    "parameter": "c 为水平线高度；第二个函数决定局部的融化变形。"
+  },
+  "173": {
+    "tex": "\\begin{gathered}y=c\\\\y=\\sin x,\\qquad y=-\\sin x\\\\0.1\\le\\ell\\le0.4\\end{gathered}",
+    "description": "在水平直线 y=c 上随机选择位置，填充 y=sin x 与 y=−sin x 之间的部分；填充区间长度取 0.1 和 0.4 之间的随机值。",
+    "mode": "random",
+    "parameter": "c 为水平线高度；ℓ 为随机填充区间长度。",
+    "range": "0.1≤ℓ≤0.4"
+  },
+  "174": {
+    "tex": "\\begin{gathered}b=5.5\\sin\\!\\left(\\arccos\\frac c{5.5}\\right)\\\\(0,c)\\longleftrightarrow(-b,0)\\\\\\text{或}\\quad(-5.5,c)\\longleftrightarrow(-5.5+b,0)\\end{gathered}",
+    "description": "按给定公式求 b，再连接两组指定端点中的一组。",
+    "mode": "construction",
+    "parameter": "c 决定竖边端点高度；b 决定横边端点位置。"
+  },
+  "175": {
+    "tex": "y=0.1\\sin(10x)+0.05\\sin(80kx)+c,\\qquad 0\\le k\\le1",
+    "description": "每条曲线选取一个介于 0 和 1 之间的随机数 k，按公式绘制随机波。",
+    "mode": "random",
+    "parameter": "k 为随机频率参数；c 为竖直平移量。",
+    "range": "0≤k≤1"
+  },
+  "176": {
+    "tex": "y=7.25",
+    "description": "先画 12 条随机水平线和 13 条随机竖直线，最后在 y=7.25 处画一条黑线。",
+    "mode": "random",
+    "parameter": "水平线和竖直线的位置随机选取；黑线高度固定为 7.25。"
+  },
+  "178": {
+    "tex": "\\begin{aligned}-1\\le x\\le0:\\quad &(5,8.5)\\longleftrightarrow(-1,c)\\\\-5.5\\le x\\le-1:\\quad &(-1,c)\\longleftrightarrow(-13.5,8.5)\\end{aligned}",
+    "description": "在 −1≤x≤0 时，用直线段连接纸外的点 (5,8.5) 与点 (−1,c)；在 −5.5≤x≤−1 时，用直线段连接点 (−1,c) 与纸外的点 (−13.5,8.5)。",
+    "mode": "construction",
+    "parameter": "c 为两段直线在 x=−1 处的共同端点高度。",
+    "range": "−5.5≤x≤0，在 x=−1 处分段"
+  },
+  "179": {
+    "tex": "x=(y-c)^2-c",
+    "description": "改变 c 绘制横向抛物线，并向右平移。",
+    "mode": "curve",
+    "parameter": "c 同时改变抛物线顶点的横坐标和纵坐标。"
+  },
+  "180": {
+    "tex": "y=-(\\sec^2 c)x+\\tan c-c\\sec^2 c+3",
+    "description": "改变 c，逐条绘制给定直线，并向左平移。",
+    "mode": "curve",
+    "parameter": "c 同时决定直线斜率和纵截距；计算时避开 cos c=0。"
+  },
+  "181": {
+    "tex": "\\begin{gathered}y=\\frac c2\\\\\\left(x-\\frac{5.5}{2}\\right)^2+\\left(y-\\frac{7.55}{2}\\right)^2=4\\end{gathered}",
+    "description": "先绘制水平线 y=c/2；当直线与给定圆相交时，在圆内部画一条抛物线。",
+    "mode": "construction",
+    "parameter": "c 为水平线高度；圆内采用抛物线连接。"
+  },
+  "182": {
+    "tex": "\\begin{gathered}y=c\\\\15^2-\\left(|x|-\\frac y2\\right)^2-y^2=0\\\\\\cos\\!\\left(-2x-2y-\\sqrt{15^2-\\left(|x|-\\frac y2\\right)^2-y^2}\\right)=0\\end{gathered}",
+    "description": "绘制水平线 y=c，遇到给定爱心边界时停止，整体向上和向左平移；在爱心内部绘制给定隐式曲线，并作相同平移。",
+    "mode": "mask",
+    "parameter": "c 为外部水平线高度；内部曲线由余弦等式的零点构成。"
+  },
+  "183": {
+    "tex": "\\begin{aligned}x&=5\\left(\\frac{-2t(t^2-1)}{(1+t^2)(1+t^2)}\\right)+2.6\\\\y&=2.5\\left(\\frac{-(0.1t^2c-1)}{1+t^2}\\right)+5.9\\end{aligned}",
+    "description": "改变 c，依次按给定参数方程绘制曲线。",
+    "mode": "curve",
+    "parameter": "t 为曲线参数；c 控制纵坐标中的变化项。"
+  },
+  "184": {
+    "tex": "\\begin{gathered}s=0.9\\\\\\theta=+5.7^\\circ\\quad(6\\text{次})\\\\\\theta=-5.7^\\circ\\quad(6\\text{次})\\end{gathered}",
+    "description": "将黑色正方形缩小 10%；然后每次缩小 10% 并逆时针旋转 5.7°，重复 6 次；继续每次缩小 10%，改为顺时针旋转 5.7°，再重复 6 次。",
+    "mode": "iteration",
+    "parameter": "s=0.9 为每次缩放比例；前 6 次逆时针旋转，后 6 次顺时针旋转。",
+    "range": "每次缩小 10%；逆时针 5.7°×6 次，再顺时针 5.7°×6 次"
+  },
+  "185": {
+    "tex": "y=0.5(x-2.75)^{\\frac23}+c,\\qquad x=2.75,\\qquad\\theta=7.5^\\circ",
+    "description": "绘制给定曲线族以及竖线 x=2.75，然后整体逆时针旋转 7.5°。",
+    "mode": "rotation",
+    "parameter": "c 为竖直平移量；整体旋转角固定为逆时针 7.5°。",
+    "range": "逆时针旋转 7.5°"
+  },
+  "186": {
+    "tex": "(0,3.625)\\longrightarrow(-2.75,c)\\longrightarrow(-5.5,3.625)",
+    "description": "用线段依次连接点 (0,3.625)、(−2.75,c) 和 (−5.5,3.625)。",
+    "mode": "construction",
+    "parameter": "c 为中央折点的高度。"
+  },
+  "187": {
+    "tex": "y=\\ln\\!\\left(-\\frac{cx}{10}+5\\right)+c",
+    "description": "改变 c，按给定对数函数绘制曲线。",
+    "mode": "curve",
+    "parameter": "c 同时改变对数项和竖直平移量；仅在对数真数为正的区域绘制。"
+  },
+  "188": {
+    "tex": "y=c\\left(e^{0.25\\frac xc}+e^{-0.25\\frac xc}\\right)+c,\\qquad x\\le0",
+    "description": "在 x≤0 的范围内，改变 c 绘制给定曲线。",
+    "mode": "curve",
+    "parameter": "c 为曲线族参数；因分母含 c，计算时 c≠0。",
+    "range": "x≤0"
+  },
+  "189": {
+    "tex": "z=\\cos^2 x+\\sin^2 y",
+    "description": "绘制函数 z=cos²x+sin²y 的等高线图。",
+    "mode": "curve",
+    "parameter": "每条路径对应一个固定高度 z 的等高线。"
+  },
+  "190": {
+    "tex": "\\Delta x=1,\\qquad\\Delta y=-1",
+    "description": "底部每一级台阶向右和向下各移动一个单位，顶部台阶同样逐级向右和向下各移动一个单位。按这些台阶连接上下轮廓，形成施罗德阶梯。",
+    "mode": "construction",
+    "parameter": "每一级的位移均为向右 1 个单位、向下 1 个单位。"
+  }
+}

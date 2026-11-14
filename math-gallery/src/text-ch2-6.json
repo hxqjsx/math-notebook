@@ -1,0 +1,478 @@
+{
+  "23": {
+    "tex": "y=x^2+c",
+    "description": "取不同的 c 画抛物线，再向左平移。",
+    "mode": "curve",
+    "parameter": "c：抛物线的纵向平移量"
+  },
+  "24": {
+    "tex": "\\begin{aligned}y&=(x+c)(x-c),&&y<0\\\\y&=-(x+c)(x-c),&&y>0\\end{aligned}",
+    "description": "分别保留两组抛物线位于横轴下方、上方的部分；将原点移至页面中央。",
+    "mode": "curve",
+    "parameter": "c：抛物线与横轴交点的横坐标大小"
+  },
+  "25": {
+    "tex": "-x=y^2+c",
+    "description": "取不同的 c 画开口向左的抛物线，再向上平移。",
+    "mode": "curve",
+    "parameter": "c：抛物线的横向平移参数"
+  },
+  "26": {
+    "tex": "y=x^2,\\qquad y=-x^2",
+    "description": "将两条抛物线向右平移。若横线与抛物线相交，则画一条切线；否则画水平线。原书译者注：方程还要加一个常数，才能与图形匹配。",
+    "mode": "construction",
+    "parameter": "横线位置；与抛物线相交时改为切线"
+  },
+  "27": {
+    "tex": "y=a(x+2.75)^2+c,\\qquad 0<a\\le 2",
+    "description": "改变 a 和 c，画出开口宽窄、上下位置不同的抛物线。",
+    "mode": "curve",
+    "parameter": "a：开口大小；c：纵向平移量",
+    "range": "0<a≤2"
+  },
+  "28": {
+    "tex": "x=-\\left(y+\\frac c4\\right)^2+c",
+    "description": "取不同的 c 画抛物线，再向上平移。",
+    "mode": "curve",
+    "parameter": "c：同时改变抛物线的水平与竖直位置"
+  },
+  "29": {
+    "tex": "\\begin{aligned}y&=x^2+c,&y&=-x^2-c\\\\x&=y^2+c,&x&=-y^2-c\\end{aligned}",
+    "description": "按四个方程画抛物线族，并将原点移至页面中央。",
+    "mode": "curve",
+    "parameter": "c：四组抛物线的共同位置参数"
+  },
+  "30": {
+    "tex": "y=\\begin{cases}c,&0\\le x<1\\\\(x-1)^2+c,&x\\ge1\\end{cases}",
+    "description": "每条曲线先画水平线，在 x=1 处接上抛物线。",
+    "mode": "curve",
+    "parameter": "c：整条分段曲线的高度",
+    "range": "x≥0；连接位置 x=1"
+  },
+  "31": {
+    "tex": "y=x^2+c,\\qquad y=-x^2-c",
+    "description": "分别画上下两组抛物线，将原点移至页面中央。",
+    "mode": "curve",
+    "parameter": "c：上下两组抛物线的位置参数"
+  },
+  "32": {
+    "tex": "\\text{让黑色抛物线沿螺线旋转}",
+    "description": "以黑色抛物线为起始曲线，使它沿螺线依次旋转并留下各个位置的曲线。原书没有给出螺线或旋转角的数值公式。",
+    "mode": "rotation",
+    "parameter": "抛物线沿螺线的位置与旋转角"
+  },
+  "33": {
+    "tex": "x=(y-c)^2-c",
+    "description": "取不同的 c，画出顶点同时沿水平和竖直方向移动的抛物线。",
+    "mode": "curve",
+    "parameter": "c：抛物线顶点的位置参数"
+  },
+  "34": {
+    "tex": "\\text{无空气阻力时，抛射轨迹为抛物线}",
+    "description": "无空气阻力时，抛出的球沿抛物线运动。逐条呈现书中的抛射轨迹；原书还提出迎风抛出时轨迹如何变化的问题，没有给出具体方程。",
+    "mode": "construction",
+    "parameter": "各条抛射轨迹；原书未给速度或重力参数"
+  },
+  "35": {
+    "tex": "\\text{由 9 行分段多项式构成的拼接图}",
+    "description": "逐行画出分段多项式，共 9 行，形成拼接图。原书未列出各段的多项式系数。",
+    "mode": "tiling",
+    "parameter": "行数：9",
+    "range": "9 行"
+  },
+  "36": {
+    "tex": "\\text{由 18 行分段多项式构成的拼接图}",
+    "description": "逐行画出分段多项式，共 18 行，形成拼接图。原书未列出各段的多项式系数。",
+    "mode": "tiling",
+    "parameter": "行数：18",
+    "range": "18 行"
+  },
+  "37": {
+    "tex": "\\text{由 34 行分段多项式构成的拼接图}",
+    "description": "逐行画出分段多项式，共 34 行，形成拼接图。原书未列出各段的多项式系数。",
+    "mode": "tiling",
+    "parameter": "行数：34",
+    "range": "34 行"
+  },
+  "38": {
+    "tex": "\\text{由 70 行分段多项式构成的拼接图}",
+    "description": "逐行画出分段多项式，共 70 行，形成拼接图。原书未列出各段的多项式系数。",
+    "mode": "tiling",
+    "parameter": "行数：70",
+    "range": "70 行"
+  },
+  "39": {
+    "tex": "y=\\frac{e^x+e^{-x}}2+c",
+    "description": "取不同的 c 画悬链线，再向左平移。悬挂链条形成的是悬链线；公式中的双曲余弦不是二次多项式。",
+    "mode": "curve",
+    "parameter": "c：悬链线的纵向平移量"
+  },
+  "42": {
+    "tex": "\\text{3 个旋转的半页}",
+    "description": "将半页的线条图案复制并旋转，共形成 3 个方向的半页。原书未给出旋转角的数值。",
+    "mode": "rotation",
+    "parameter": "半页的旋转角；共 3 个方向"
+  },
+  "43": {
+    "tex": "\\text{5 个旋转的半页}",
+    "description": "将半页的线条图案复制并旋转，共形成 5 个方向的半页。原书未给出旋转角的数值。",
+    "mode": "rotation",
+    "parameter": "半页的旋转角；共 5 个方向"
+  },
+  "44": {
+    "tex": "\\text{7 个旋转的半页}",
+    "description": "将半页的线条图案复制并旋转，共形成 7 个方向的半页。原书未给出旋转角的数值。",
+    "mode": "rotation",
+    "parameter": "半页的旋转角；共 7 个方向"
+  },
+  "45": {
+    "tex": "\\text{外围黑线由 999 条线段首尾相接}",
+    "description": "将线段依次首尾相接；线段越多，整体轮廓越平滑。外围的黑色轮廓由 999 条线段组成。",
+    "mode": "construction",
+    "parameter": "依次连接的线段；外围共 999 条",
+    "range": "外围 999 条线段"
+  },
+  "46": {
+    "tex": "\\text{旋转 3 个三角形}",
+    "description": "依次复制并旋转三角形，共 3 个。",
+    "mode": "rotation",
+    "parameter": "三角形的旋转位置；共 3 个"
+  },
+  "47": {
+    "tex": "\\text{旋转 10 个三角形}",
+    "description": "依次复制并旋转三角形，共 10 个。",
+    "mode": "rotation",
+    "parameter": "三角形的旋转位置；共 10 个"
+  },
+  "48": {
+    "tex": "\\text{旋转 30 个三角形}",
+    "description": "依次复制并旋转三角形，共 30 个。",
+    "mode": "rotation",
+    "parameter": "三角形的旋转位置；共 30 个"
+  },
+  "49": {
+    "tex": "\\text{旋转 90 个三角形}",
+    "description": "依次复制并旋转三角形，共 90 个。原书说明最终图形称为外摆线，并在第 10 章再次出现。",
+    "mode": "rotation",
+    "parameter": "三角形的旋转位置；共 90 个"
+  },
+  "50": {
+    "tex": "\\text{以等边三角形为起点}",
+    "description": "先画等边三角形。原书将这个起始图形称为“第 1 次迭代”。",
+    "mode": "iteration",
+    "parameter": "第 1 次迭代：等边三角形"
+  },
+  "51": {
+    "tex": "\\text{删去每条边的中间 }\\frac13\\text{，用等边三角形的两条边替代}",
+    "description": "在上一页图形的每条线段上，删去中间三分之一，并用向外的等边三角形的两条边替代。这是原书的第 2 次迭代。",
+    "mode": "iteration",
+    "parameter": "第 2 次迭代：对上一图形的每条边作同一替换"
+  },
+  "52": {
+    "tex": "\\text{删去每条边的中间 }\\frac13\\text{，用等边三角形的两条边替代}",
+    "description": "在上一页图形的每条线段上，删去中间三分之一，并用向外的等边三角形的两条边替代。这是原书的第 3 次迭代。",
+    "mode": "iteration",
+    "parameter": "第 3 次迭代：对上一图形的每条边作同一替换"
+  },
+  "53": {
+    "tex": "\\text{删去每条边的中间 }\\frac13\\text{，用等边三角形的两条边替代}",
+    "description": "在上一页图形的每条线段上，删去中间三分之一，并用向外的等边三角形的两条边替代。这是原书的第 4 次迭代。",
+    "mode": "iteration",
+    "parameter": "第 4 次迭代：对上一图形的每条边作同一替换"
+  },
+  "54": {
+    "tex": "\\text{反复替换每条线段的中间 }\\frac13",
+    "description": "在上一页图形的每条线段上，反复删去中间三分之一，并用等边三角形的两条边替代，逐层形成科赫雪花。",
+    "mode": "iteration",
+    "parameter": "迭代层数；每层对全部线段作相同替换"
+  },
+  "56": {
+    "tex": "\\Delta\\theta=120^\\circ,\\qquad N=3",
+    "description": "先画一个圆，以图中的黑点为旋转中心，每次旋转 120°，重复 3 次回到起始位置。",
+    "mode": "rotation",
+    "parameter": "每步旋转 120°；共 3 个圆",
+    "range": "Δθ=120°；N=3"
+  },
+  "57": {
+    "tex": "\\Delta\\theta=60^\\circ,\\qquad N=6",
+    "description": "先画一个圆，以图中的黑点为旋转中心，每次旋转 60°，重复 6 次回到起始位置。",
+    "mode": "rotation",
+    "parameter": "每步旋转 60°；共 6 个圆",
+    "range": "Δθ=60°；N=6"
+  },
+  "58": {
+    "tex": "\\Delta\\theta=30^\\circ,\\qquad N=12",
+    "description": "先画一个圆，以图中的黑点为旋转中心，每次旋转 30°，重复 12 次回到起始位置。",
+    "mode": "rotation",
+    "parameter": "每步旋转 30°；共 12 个圆",
+    "range": "Δθ=30°；N=12"
+  },
+  "59": {
+    "tex": "\\Delta\\theta=11.25^\\circ,\\qquad N=32",
+    "description": "先画一个圆，以图中的黑点为旋转中心，每次旋转 11.25°，重复 32 次回到起始位置。",
+    "mode": "rotation",
+    "parameter": "每步旋转 11.25°；共 32 个圆",
+    "range": "Δθ=11.25°；N=32"
+  },
+  "60": {
+    "tex": "y=\\sqrt{c^2-x^2},\\qquad x\\le0",
+    "description": "取不同的 c，画出各圆位于左上方的四分之一圆弧。",
+    "mode": "curve",
+    "parameter": "|c|：圆弧半径",
+    "range": "−|c|≤x≤0"
+  },
+  "61": {
+    "tex": "\\begin{aligned}y&=c,&&0\\le x\\le0.194k\\\\(x-0.194k)^2+(y-c+0.14)^2&=(0.14)^2\\end{aligned}",
+    "description": "先画到 x=0.194k 为止的水平线，再画与这条线相接、半径为 0.14 的圆。逐行改变 c 和 k。",
+    "mode": "construction",
+    "parameter": "c：横线高度；k：圆的序号",
+    "range": "0≤k≤圆的数量；半径 0.14"
+  },
+  "62": {
+    "tex": "\\Delta r=0.28\\text{ 英寸}",
+    "description": "分别以页面右下角和左上角为圆心，逐个画圆；相邻圆的半径相差一个标准行高，即 0.28 英寸。",
+    "mode": "construction",
+    "parameter": "圆心位置；相邻半径差 0.28 英寸"
+  },
+  "63": {
+    "tex": "y=c;\\qquad r_1=1.75,\\ r_2=1.75,\\ r_3=2.5",
+    "description": "先画 y=c 的横线，再画三个白色圆，半径分别为 1.75、1.75 和 2.5，以白圆覆盖相应横线。",
+    "mode": "mask",
+    "parameter": "c：横线高度；三个白圆的半径"
+  },
+  "64": {
+    "tex": "\\theta=90^\\circ,\\qquad N=3",
+    "description": "从标准页面中心复制一个圆形区域，把区域内的线条旋转 90°，共复制三份。",
+    "mode": "mask",
+    "parameter": "圆形复制区域；旋转 90°；共三份"
+  },
+  "65": {
+    "tex": "k\\ne13:\\quad y=c",
+    "description": "逐行画横线；第 13 条将 y=c 的两端与一个略偏中心的低点连接，形成弯折线；最后在弯折线上方画白圆。",
+    "mode": "mask",
+    "parameter": "k：横线序号；第 13 条弯折并添加白圆"
+  },
+  "66": {
+    "tex": "r=3h\\quad\\text{（}h\\text{ 为行高）}",
+    "description": "用半径为三倍行高的四分之一圆，连接两条水平线。",
+    "mode": "construction",
+    "parameter": "四分之一圆半径：三倍行高"
+  },
+  "67": {
+    "tex": "\\text{4 组同心圆；中央以白色正方形覆盖}",
+    "description": "先画四组同心圆，再在中间叠加白色正方形，遮住正方形内部的圆弧。",
+    "mode": "mask",
+    "parameter": "四组同心圆及中央白色正方形"
+  },
+  "68": {
+    "tex": "\\text{中心圆；圆心上下各移 1 倍行高的半圆}",
+    "description": "先以页面中心为圆心画圆，再以上方和下方各一倍行高处的点为圆心画半圆。",
+    "mode": "construction",
+    "parameter": "三个圆心：页面中心及上下各一倍行高处"
+  },
+  "69": {
+    "tex": "\\text{从黑圆开始，逐步旋转并放大}",
+    "description": "从黑色圆开始，之后每一步都将上一步的圆进行旋转并放大，保留各步得到的圆。原书没有给出旋转角和放大倍数。",
+    "mode": "iteration",
+    "parameter": "每一步圆的旋转角和放大比例"
+  },
+  "70": {
+    "tex": "r_k=1.1k+0.3,\\qquad O=(-1,c)",
+    "description": "以 (−1,c) 为圆心，画半径为 1.1k+0.3 的半圆；当半圆与第 k 条直线相交时，延长这条直线。",
+    "mode": "construction",
+    "parameter": "k：半圆与直线序号；c：圆心高度"
+  },
+  "71": {
+    "tex": "\\text{从黑圆开始，逐步旋转并放大}",
+    "description": "从黑色圆开始，之后每一步都将上一步的圆进行旋转并放大，保留各步得到的圆。原书没有给出旋转角和放大倍数。",
+    "mode": "iteration",
+    "parameter": "每一步圆的旋转角和放大比例"
+  },
+  "72": {
+    "tex": "\\text{等边三角形；以各顶点为圆心、边长为半径画劣弧}",
+    "description": "先画等边三角形，再分别以每个顶点为圆心、边长为半径，画劣弧连接另外两个顶点，使三条弧闭合。",
+    "mode": "construction",
+    "parameter": "三个圆心为三角形顶点；圆弧半径等于边长"
+  },
+  "74": {
+    "tex": "y=c\\quad\\text{上的交替上半圆与下半圆}",
+    "description": "沿 y=c 这条直线，依次交替画上半圆和下半圆。",
+    "mode": "construction",
+    "parameter": "c：基线高度；半圆依次上下交替"
+  },
+  "75": {
+    "tex": "y\\in\\{c,\\ c+0.3\\}",
+    "description": "在主轴上均匀选取 x 坐标，纵坐标交替取 c 和 c+0.3；对每个 c，依次用直线段连接这些点。",
+    "mode": "construction",
+    "parameter": "c：下方高度；相邻顶点的纵坐标交替相差 0.3"
+  },
+  "76": {
+    "tex": "y=\\sin x+c",
+    "description": "取不同的 c，依次画竖直平移的正弦曲线。",
+    "mode": "curve",
+    "parameter": "c：正弦曲线的纵向平移量"
+  },
+  "77": {
+    "tex": "y=e^{-(x-2)^2}\\cos\\!\\left[30(x-2)-6.5(x-2)^2\\right]",
+    "description": "将这条曲线复制四份，并分别向上和向右平移。",
+    "mode": "curve",
+    "parameter": "四份曲线的水平与竖直平移量"
+  },
+  "78": {
+    "tex": "\\begin{aligned}y&=\\sin x+c\\\\y&=\\sin\\left(x-\\frac\\pi3\\right)+c\\\\y&=\\sin\\left(x-\\frac{2\\pi}3\\right)+c\\end{aligned}",
+    "description": "对每个 c 依次画三条水平相位不同的正弦曲线。",
+    "mode": "curve",
+    "parameter": "c：共同高度；相位差依次为 0、π/3、2π/3"
+  },
+  "79": {
+    "tex": "y=0.4\\sin(0.2cx)+0.3c",
+    "description": "逐次改变 c；它同时改变波的横向频率与纵向位置。",
+    "mode": "curve",
+    "parameter": "c：控制角频率 0.2c 和纵向位置 0.3c"
+  },
+  "80": {
+    "tex": "y=\\sin(2x)\\ln(-0.5x)+c",
+    "description": "取不同的 c 画曲线；对数因子改变振幅，曲线只在 x<0 时有实数值。",
+    "mode": "curve",
+    "parameter": "c：纵向平移量",
+    "range": "x<0"
+  },
+  "81": {
+    "tex": "y=0.18cx+\\sin(2x)",
+    "description": "取不同的 c 画正弦曲线与斜直线的叠加，再向上和向右平移。",
+    "mode": "curve",
+    "parameter": "c：改变线性项的斜率 0.18c"
+  },
+  "82": {
+    "tex": "\\frac{\\cos(x+y)}{20}-\\cos x-\\cos y=0",
+    "description": "画出满足隐式方程的曲线，再缩小。",
+    "mode": "curve",
+    "parameter": "隐式曲线上的点 (x,y)；整体缩放"
+  },
+  "83": {
+    "tex": "y=\\sin x+c,\\qquad y=\\cos x+c",
+    "description": "取不同的 c，交替画正弦曲线和余弦曲线。",
+    "mode": "curve",
+    "parameter": "c：两组曲线的纵向平移量"
+  },
+  "84": {
+    "tex": "y=\\sin(2x)e^{0.25x}+c",
+    "description": "画出振幅随 x 增大的正弦曲线族，模拟弹簧上下弹跳的高度。",
+    "mode": "curve",
+    "parameter": "c：纵向平移量；振幅为 e^{0.25x}"
+  },
+  "85": {
+    "tex": "\\begin{aligned}y&=c\\\\y&=\\frac c2,\\qquad 0\\le x\\le1+\\frac{\\sin c}{2}\\end{aligned}",
+    "description": "先画 y=c，再画指定范围内的 y=c/2，依次交替。原书译者注说明第一式 y=c 是对原文 y=c/2 的修订。",
+    "mode": "construction",
+    "parameter": "c：横线高度参数；短横线终点 1+sin(c)/2",
+    "range": "第二式：0≤x≤1+sin(c)/2"
+  },
+  "86": {
+    "tex": "y=\\sin(2kx)+c",
+    "description": "原书以 k 表示音符的赫兹值，中央 C 约为 262 Hz；每条曲线对应《玛丽有只小羊羔》中的一个音符，假设各音符时长和音量相同。此处方程按原书保留。",
+    "mode": "curve",
+    "parameter": "k：原书标示的音符频率参数；c：各音符所在行的高度"
+  },
+  "88": {
+    "tex": "y=c,\\qquad c_1=0.28,\\qquad y_{\\mathrm{limit}}=7.25",
+    "description": "第一条横线取 c=0.28，后续横线依次取前一条横线与 y=7.25 之间的中间位置，使到目标横线的距离逐次减半。",
+    "mode": "iteration",
+    "parameter": "c：横线高度；到 y=7.25 的距离每步减半",
+    "range": "首条 c=0.28；趋近 y=7.25"
+  },
+  "89": {
+    "tex": "y^2=x^2\\sin^2(15x)",
+    "description": "画出满足该式的上下两支曲线，再向上和向右平移。",
+    "mode": "curve",
+    "parameter": "x：沿曲线变化；y 取正、负两支"
+  },
+  "90": {
+    "tex": "y=-\\frac1{x+1}+c",
+    "description": "取不同的 c，画以 x=−1 为竖直渐近线的双曲线；跨过渐近线时分别绘制两侧分支。",
+    "mode": "curve",
+    "parameter": "c：纵向平移量",
+    "range": "x≠−1"
+  },
+  "91": {
+    "tex": "x=\\sin\\frac1y",
+    "description": "先按方程画黑色曲线，再在两条黑色曲线之间画水平线。",
+    "mode": "construction",
+    "parameter": "y：黑色曲线的参数；随后补齐曲线间的横线",
+    "range": "y≠0"
+  },
+  "92": {
+    "tex": "y=\\begin{cases}\\ln(-x-1)+c,&x<-1\\\\\\ln(x+1)+c,&x>-1\\end{cases}",
+    "description": "分别画 x=−1 左右两侧的对数曲线，不跨越未定义的渐近线。",
+    "mode": "curve",
+    "parameter": "c：两侧曲线的纵向平移量",
+    "range": "x≠−1"
+  },
+  "93": {
+    "tex": "y=\\begin{cases}\\dfrac1{1-x}+c,&x<1\\\\\\sin(x)\\dfrac{1-x}{(x-1)^2}+c,&x>1\\end{cases}",
+    "description": "分别画 x=1 左右的两段函数；两侧的竖直渐近线都是 x=1。",
+    "mode": "curve",
+    "parameter": "c：纵向平移量",
+    "range": "x≠1"
+  },
+  "94": {
+    "tex": "y=\\frac{x^2-4}{x+2.75}+c",
+    "description": "取不同的 c，分别绘制分母为零的位置两侧的曲线。",
+    "mode": "curve",
+    "parameter": "c：纵向平移量",
+    "range": "x≠−2.75"
+  },
+  "95": {
+    "tex": "x=\\sin\\frac1y,\\qquad y=c",
+    "description": "先画 x=sin(1/y)，再向上和向右平移。在页面靠下部分，将 (0,c) 和 (5.5,c) 分别用直线段连到平移后曲线的极小值点和极大值点；其余部分画 y=c。",
+    "mode": "construction",
+    "parameter": "c：横线高度；下部横线的端点改连曲线极值点"
+  },
+  "96": {
+    "tex": "y=-\\tan x+c",
+    "description": "取不同的 c，逐支画正切函数；在渐近线处断开。",
+    "mode": "curve",
+    "parameter": "c：纵向平移量",
+    "range": "x≠π/2+nπ，n 为整数"
+  },
+  "97": {
+    "tex": "\\begin{aligned}y&=\\frac{x+c}{3x+2},\\quad c\\ge2.5\\\\y_{\\mathrm{lowest}}&=\\frac{x+2.5}{3x+2}+\\frac{11}{12}\\\\y_{\\mathrm{black}}&=\\frac54\\end{aligned}",
+    "description": "取 c≥2.5 画有理函数曲线族。原书还标出黑色直线 y=5/4，并问最下方灰线 y=(x+2.5)/(3x+2)+11/12 是否会与它相碰。",
+    "mode": "curve",
+    "parameter": "c：曲线族的参数",
+    "range": "c≥2.5；x≠−2/3"
+  },
+  "98": {
+    "tex": "r=\\frac{0.2}{\\theta}",
+    "description": "画极坐标螺线，不断向上和向左平移；另外通过旋转和平移画出一个大旋涡。",
+    "mode": "rotation",
+    "parameter": "θ：极角；螺线的旋转和平移",
+    "range": "θ≠0"
+  },
+  "99": {
+    "tex": "y=\\frac1{1+e^{-4x}}+c",
+    "description": "取不同的 c 画逻辑函数曲线，再向右平移。基本曲线左右分别趋近 0 和 1；加上 c 后分别趋近 c 和 c+1。",
+    "mode": "curve",
+    "parameter": "c：纵向平移量"
+  },
+  "100": {
+    "tex": "x=-e^{cy/12},\\qquad x=-e^{-cy/12},\\qquad c=1,2,\\ldots,26",
+    "description": "对每个 c 画两条关于横轴对称的指数曲线，再向上平移。",
+    "mode": "curve",
+    "parameter": "c：指数变化速度",
+    "range": "c=1,2,…,26"
+  },
+  "101": {
+    "tex": "y=\\begin{cases}x+c,&x<b\\\\x+c-0.125,&x\\ge b\\end{cases}",
+    "description": "每条线的 b 在 0.5 到 4.5 之间随机选取；画完 x<b 的线段后，在 x=b 处下移 0.125，再继续画后一段。这里是跳跃间断点，两段之间不补竖直连线。",
+    "mode": "curve",
+    "parameter": "b：跳跃位置；c：直线的高度",
+    "range": "0.5≤b≤4.5；跳跃高度 0.125"
+  },
+  "102": {
+    "tex": "y=x-\\frac{x^3}{6}+\\frac{x^5}{120}-\\frac{x^7}{5040}+c",
+    "description": "取不同的 c 画多项式曲线，再向左平移；它是 y=sin x+c 的多项式近似。分母 6、120、5040 分别为 3!、5!、7!。",
+    "mode": "curve",
+    "parameter": "c：纵向平移量"
+  }
+}

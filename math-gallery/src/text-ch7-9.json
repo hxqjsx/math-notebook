@@ -1,0 +1,266 @@
+{
+  "104": {
+    "tex": "\\text{黑色圆}\\ \\xrightarrow{\\text{旋转、放大}}\\ \\text{更多的圆}",
+    "description": "从一个黑色的圆开始，不断旋转、放大，生成更多的圆。原书没有给出固定旋转角或放大倍数。",
+    "mode": "rotation",
+    "parameter": "旋转角与圆的大小逐次变化"
+  },
+  "105": {
+    "tex": "R=0.3\\,\\text{英寸}",
+    "description": "黑色正方形绕半径为0.3英寸的圆旋转；圆心位于页面中央。",
+    "mode": "rotation",
+    "parameter": "旋转角；绕行圆半径为0.3英寸"
+  },
+  "106": {
+    "tex": "R=1.2\\,\\text{英寸}",
+    "description": "正方形绕半径为1.2英寸的圆旋转；圆心位于页面中央。",
+    "mode": "rotation",
+    "parameter": "旋转角；绕行圆半径为1.2英寸"
+  },
+  "107": {
+    "tex": "\\text{正方形}\\ \\xrightarrow{\\text{绕页面中心旋转、放大}}\\ \\text{下一层正方形}",
+    "description": "正方形绕页面中心旋转，每旋转一次，正方形随之变大。",
+    "mode": "rotation",
+    "parameter": "旋转角与正方形边长逐次变化"
+  },
+  "108": {
+    "tex": "\\alpha=90^\\circ;\\quad\\text{白色直角三角形遮盖}",
+    "description": "将页面左上角旋转90°并摆放到原图位置，再用一个白色直角三角形遮住其左上角。",
+    "mode": "mask",
+    "parameter": "先旋转90°，再以白色直角三角形遮盖"
+  },
+  "109": {
+    "tex": "\\begin{aligned}x&=1&& (y>7.25),\\\\ y&=-\\frac{7.25}{4}(x-5)&& (y\\le7.25).\\end{aligned}",
+    "description": "以所列两段直线构成黑色边界，相应旋转黑线左侧的部分。黑色边界也属于完整图案。",
+    "mode": "rotation",
+    "parameter": "分段边界及其左侧图形的旋转"
+  },
+  "110": {
+    "tex": "y=c;\\qquad\\alpha=26.5^\\circ",
+    "description": "先画水平线y=c；中间部分顺时针旋转26.5°，底部向左平移。",
+    "mode": "rotation",
+    "parameter": "c为水平线高度；中间部分顺时针旋转26.5°"
+  },
+  "111": {
+    "tex": "\\alpha\\in\\{30^\\circ,120^\\circ,210^\\circ,300^\\circ\\}",
+    "description": "绕页面中心分别顺时针旋转30°、120°、210°和300°。",
+    "mode": "rotation",
+    "parameter": "绕页面中心的顺时针旋转角",
+    "range": "30°、120°、210°、300°"
+  },
+  "112": {
+    "tex": "\\alpha=135^\\circ",
+    "description": "绕页面中心顺时针旋转135°。",
+    "mode": "rotation",
+    "parameter": "绕页面中心顺时针旋转135°"
+  },
+  "113": {
+    "tex": "\\alpha_k=(30k)^\\circ,\\qquad k=0,1,2,3,4,5",
+    "description": "以左侧边缘的中点为旋转中心，顺时针依次旋转(30k)°，其中k=0、1、2、3、4、5。",
+    "mode": "rotation",
+    "parameter": "k为旋转副本编号",
+    "range": "k=0、1、2、3、4、5"
+  },
+  "114": {
+    "tex": "\\begin{aligned}y&=c&&(-2.75\\le x\\le0,\\ y>6),\\\\x&=-c&&(0\\le y\\le6,\\ x<-2.75).\\end{aligned}",
+    "description": "在−2.75≤x≤0且y>6的区域画y=c；在0≤y≤6且x<−2.75的区域画x=−c。",
+    "mode": "construction",
+    "parameter": "c控制水平线与竖直线的位置"
+  },
+  "115": {
+    "tex": "\\text{翻转}\\ \\longrightarrow\\ \\text{逆时针旋转 }90^\\circ",
+    "description": "将标准页面翻转，再逆时针旋转90°。",
+    "mode": "rotation",
+    "parameter": "先翻转，再逆时针旋转90°"
+  },
+  "116": {
+    "tex": "\\text{爬行动物图形的旋转与重复铺排}",
+    "description": "用不断旋转、重复的爬行动物图形铺排成图。原书这一页介绍埃舍尔的创作思想，没有给出数值公式或具体旋转角。",
+    "mode": "tiling",
+    "parameter": "爬行动物图形的旋转方向与铺排位置"
+  },
+  "118": {
+    "tex": "s=2.5",
+    "description": "将页面放大至原来的2.5倍。",
+    "mode": "construction",
+    "parameter": "s为整体缩放倍数；s=2.5"
+  },
+  "119": {
+    "tex": "s=\\frac12",
+    "description": "将标准页面缩小为原来的一半，并居中放置。",
+    "mode": "construction",
+    "parameter": "s为整体缩放倍数；s=1/2"
+  },
+  "120": {
+    "tex": "s=\\frac12;\\qquad 2\\times2\\ \\text{网格}",
+    "description": "将标准页面缩小为原来的一半，排列成2×2的网格。",
+    "mode": "tiling",
+    "parameter": "每个副本缩小至1/2；依次放入2×2网格"
+  },
+  "121": {
+    "tex": "s_y=\\frac1{40}",
+    "description": "将页面的垂直比例缩小为原来的1/40。",
+    "mode": "construction",
+    "parameter": "s_y为垂直方向缩放倍数；s_y=1/40"
+  },
+  "122": {
+    "tex": "s=0.8;\\qquad\\text{缩小、居中，反复进行}",
+    "description": "从标准页面开始，每次将当前页面缩小为原来的80%，并居中放置；重复此操作。",
+    "mode": "iteration",
+    "parameter": "每轮缩小至上一轮的80%，并居中"
+  },
+  "123": {
+    "tex": "s=0.7;\\qquad\\alpha=180^\\circ",
+    "description": "从标准页面开始，每次将当前页面缩小为原来的70%，旋转180°，放在左上角；重复此操作。",
+    "mode": "iteration",
+    "parameter": "每轮缩小至70%、旋转180°、置于左上角"
+  },
+  "124": {
+    "tex": "N=15\\ \\text{列圆}",
+    "description": "用15列圆进行镶嵌。",
+    "mode": "tiling",
+    "parameter": "逐列铺排圆；共15列"
+  },
+  "125": {
+    "tex": "N=20\\ \\text{列圆}",
+    "description": "用20列圆进行镶嵌。",
+    "mode": "tiling",
+    "parameter": "逐列铺排圆；共20列"
+  },
+  "126": {
+    "tex": "N=33\\ \\text{列圆}",
+    "description": "用33列圆进行镶嵌。",
+    "mode": "tiling",
+    "parameter": "逐列铺排圆；共33列"
+  },
+  "127": {
+    "tex": "N=42\\ \\text{列圆}",
+    "description": "用42列圆进行镶嵌。",
+    "mode": "tiling",
+    "parameter": "逐列铺排圆；共42列"
+  },
+  "128": {
+    "tex": "y=c;\\qquad\\frac{w}{w_0}\\in\\{0.5,1,3,5\\};\\qquad\\text{透明度}=50\\%",
+    "description": "在y=c处分别采用标准线宽的0.5倍、1倍、3倍和5倍，透明度均为50%。",
+    "mode": "curve",
+    "parameter": "c为线的高度；w/w₀为线宽倍数"
+  },
+  "131": {
+    "tex": "\\theta=c,\\qquad\\pi\\le\\theta\\le\\frac{3\\pi}{2}",
+    "description": "画极角θ=c的射线，极角从π变到3π/2；极点移至(0,7.25)。",
+    "mode": "curve",
+    "parameter": "c为射线的极角",
+    "range": "π≤θ≤3π/2；极点(0,7.25)"
+  },
+  "132": {
+    "tex": "r=\\cos(4\\theta)+\\sin^2(4\\theta)+c,\\qquad0\\le\\theta\\le2\\pi",
+    "description": "以不同的c绘制极坐标曲线r=cos(4θ)+sin²(4θ)+c；极点移至页面中央。",
+    "mode": "curve",
+    "parameter": "c为曲线族参数；θ为当前极角",
+    "range": "0≤θ≤2π"
+  },
+  "133": {
+    "tex": "y=c;\\qquad r=\\sqrt{\\frac{1}{\\frac\\pi2-\\theta}},\\qquad-25\\pi\\le\\theta<\\frac\\pi2",
+    "description": "先画水平线y=c；竖直方向的螺线为连锁螺线，按所列极坐标方程绘制，极点移至页面中央。θ=π/2不在取值范围内。",
+    "mode": "construction",
+    "parameter": "c为水平线高度；θ为连锁螺线的极角",
+    "range": "−25π≤θ<π/2；极点在页面中央"
+  },
+  "134": {
+    "tex": "r=\\sqrt\\theta\\quad\\text{与}\\quad r=-\\sqrt\\theta,\\qquad0\\le\\theta\\le12\\pi",
+    "description": "分别绘制r=√θ和r=−√θ两条螺线；极点移至(2.75,3.4)。",
+    "mode": "curve",
+    "parameter": "θ为极角；两支分别取正、负平方根",
+    "range": "0≤θ≤12π；极点(2.75,3.4)"
+  },
+  "135": {
+    "tex": "r=c\\cos\\theta\\cos(2\\theta),\\qquad0\\le\\theta\\le\\pi",
+    "description": "以不同的c绘制r=c cosθ cos(2θ)，图形经过旋转和平移。",
+    "mode": "curve",
+    "parameter": "c为曲线大小参数；θ为当前极角",
+    "range": "0≤θ≤π"
+  },
+  "136": {
+    "tex": "r=4.25\\cos(12\\theta),\\qquad0\\le\\theta\\le2\\pi",
+    "description": "按r=4.25 cos(12θ)绘制玫瑰线；极点移至书脊中央。这是原书第136—137页跨页图的左半部分。",
+    "mode": "curve",
+    "parameter": "θ为极角；极点在两页之间的书脊中央",
+    "range": "0≤θ≤2π"
+  },
+  "137": {
+    "tex": "r=4.25\\cos(12\\theta),\\qquad0\\le\\theta\\le2\\pi",
+    "description": "与第136页组成同一幅跨页图：按r=4.25 cos(12θ)绘制玫瑰线，极点移至书脊中央。本页显示跨页图的右半部分。",
+    "mode": "curve",
+    "parameter": "θ为极角；延续第136页同一条玫瑰线",
+    "range": "0≤θ≤2π"
+  },
+  "138": {
+    "tex": "y=c;\\qquad r=\\theta,\\qquad0\\le\\theta\\le24\\pi",
+    "description": "先取不同的c，逐条生成水平线y=c；随后用粗白色螺线r=θ覆盖水平线，极点移至页面中央。两个阶段由同一次播放连续完成。",
+    "mode": "mask",
+    "parameter": "第一阶段：c为横线高度；第二阶段：θ为白色螺线极角",
+    "range": "白色螺线：0≤θ≤24π"
+  },
+  "139": {
+    "tex": "N=12;\\quad\\Delta\\alpha=30^\\circ;\\quad P_k\\longrightarrow P_{2k},\\quad P_{j+N}=P_j",
+    "description": "先画圆，从0°开始逆时针每隔30°标记一点，共12点，依次编号1到12。再按k号连接2k号的规则逐条画线，编号超出12时沿圆周循环。这是曲线缝纫法；圆周也属于完整图案。",
+    "mode": "construction",
+    "parameter": "k为起点编号；终点编号为2k，按12循环",
+    "range": "k=1,…,12；圆周等分12份"
+  },
+  "140": {
+    "tex": "N=24;\\quad\\Delta\\alpha=15^\\circ;\\quad P_k\\longrightarrow P_{2k},\\quad P_{j+N}=P_j",
+    "description": "先画圆，从0°开始逆时针每隔15°标记一点，共24点，依次编号1到24。再按k号连接2k号的规则逐条画线，编号超出24时沿圆周循环。这是曲线缝纫法；圆周也属于完整图案。",
+    "mode": "construction",
+    "parameter": "k为起点编号；终点编号为2k，按24循环",
+    "range": "k=1,…,24；圆周等分24份"
+  },
+  "141": {
+    "tex": "N=72;\\quad\\Delta\\alpha=5^\\circ;\\quad P_k\\longrightarrow P_{2k},\\quad P_{j+N}=P_j",
+    "description": "先画圆，从0°开始逆时针每隔5°标记一点，共72点，依次编号1到72。再按k号连接2k号的规则逐条画线，编号超出72时沿圆周循环。这是曲线缝纫法；圆周也属于完整图案。",
+    "mode": "construction",
+    "parameter": "k为起点编号；终点编号为2k，按72循环",
+    "range": "k=1,…,72；圆周等分72份"
+  },
+  "142": {
+    "tex": "r=c(1+\\cos\\theta),\\qquad c>0,\\quad0\\le\\theta\\le2\\pi",
+    "description": "改变c，绘制不同大小的心脏线r=c(1+cosθ)；原点向上且略向右平移。",
+    "mode": "curve",
+    "parameter": "c为心脏线大小参数；θ为当前极角",
+    "range": "c>0；0≤θ≤2π"
+  },
+  "143": {
+    "tex": "r=-\\theta\\cos(3\\theta),\\qquad-3\\pi-\\frac\\pi2\\le\\theta\\le14\\pi-\\frac\\pi2",
+    "description": "按r=−θ cos(3θ)绘制极坐标曲线，缩放后适配页面，并向右和向上平移。",
+    "mode": "curve",
+    "parameter": "θ为极角，同时影响曲线半径",
+    "range": "−3π−π/2≤θ≤14π−π/2"
+  },
+  "144": {
+    "tex": "r=\\theta+2\\sin(2\\pi\\theta),\\qquad0\\le\\theta\\le14\\pi-\\frac\\pi2",
+    "description": "按r=θ+2 sin(2πθ)绘制极坐标曲线，极点移至页面中央。",
+    "mode": "curve",
+    "parameter": "θ为当前极角",
+    "range": "0≤θ≤14π−π/2"
+  },
+  "145": {
+    "tex": "y=c;\\qquad r=5.2\\cos\\!\\bigl[\\sin(4\\theta)\\bigr]+0.15\\sin(80\\theta)",
+    "description": "先画水平线y=c；用白色填充所列极坐标曲线的内部，再通过缩放、旋转和平移得到四片叶子。",
+    "mode": "mask",
+    "parameter": "先生成不同c的横线，再填充并摆放四片叶子"
+  },
+  "146": {
+    "tex": "\\begin{gathered}r=2+\\frac{0.5\\cos(12\\theta)}{1.5+|\\sin(12\\theta)|},\\\\r=1.5+0.25\\cos(6\\theta),\\qquad r=1.25,\\\\0\\le\\theta\\le2\\pi.\\end{gathered}",
+    "description": "按所列三种极坐标曲线构成图案；极点移至页面中央。第一条曲线分母中的sin(12θ)取绝对值。",
+    "mode": "curve",
+    "parameter": "当前曲线及其极角θ",
+    "range": "0≤θ≤2π"
+  },
+  "147": {
+    "tex": "r=c\\sin\\frac\\theta2,\\qquad0\\le\\theta\\le4\\pi",
+    "description": "以不同的c绘制丢勒叶形线r=c sin(θ/2)，极点移至页面中央。",
+    "mode": "curve",
+    "parameter": "c为曲线大小参数；θ为当前极角",
+    "range": "0≤θ≤4π"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "85": {
+    "dropSourceIndexes": [
+      52
+    ],
+    "reason": "Translator footnote separator, not part of the mathematical illustration."
+  },
+  "114": {
+    "dropSourceIndexes": [
+      17
+    ],
+    "reason": "Adjacent page horizontal line extends from x=395.5 to x=801.5 and leaves only page-edge bleed."
+  }
+}

@@ -1,0 +1,4203 @@
+{
+  "138": {
+    "records": {
+      "25": {
+        "text": "c = 0.28",
+        "c": 0.28,
+        "approximate": false
+      },
+      "24": {
+        "text": "c = 0.56",
+        "c": 0.56,
+        "approximate": false
+      },
+      "23": {
+        "text": "c = 0.84",
+        "c": 0.84,
+        "approximate": false
+      },
+      "22": {
+        "text": "c = 1.12",
+        "c": 1.12,
+        "approximate": false
+      },
+      "21": {
+        "text": "c = 1.4",
+        "c": 1.4,
+        "approximate": false
+      },
+      "20": {
+        "text": "c = 1.68",
+        "c": 1.68,
+        "approximate": false
+      },
+      "19": {
+        "text": "c = 1.96",
+        "c": 1.96,
+        "approximate": false
+      },
+      "18": {
+        "text": "c = 2.24",
+        "c": 2.24,
+        "approximate": false
+      },
+      "17": {
+        "text": "c = 2.52",
+        "c": 2.52,
+        "approximate": false
+      },
+      "16": {
+        "text": "c = 2.8",
+        "c": 2.8,
+        "approximate": false
+      },
+      "15": {
+        "text": "c = 3.08",
+        "c": 3.08,
+        "approximate": false
+      },
+      "14": {
+        "text": "c = 3.36",
+        "c": 3.36,
+        "approximate": false
+      },
+      "13": {
+        "text": "c = 3.64",
+        "c": 3.64,
+        "approximate": false
+      },
+      "12": {
+        "text": "c = 3.92",
+        "c": 3.92,
+        "approximate": false
+      },
+      "11": {
+        "text": "c = 4.2",
+        "c": 4.2,
+        "approximate": false
+      },
+      "10": {
+        "text": "c = 4.48",
+        "c": 4.48,
+        "approximate": false
+      },
+      "9": {
+        "text": "c = 4.76",
+        "c": 4.76,
+        "approximate": false
+      },
+      "8": {
+        "text": "c = 5.04",
+        "c": 5.04,
+        "approximate": false
+      },
+      "7": {
+        "text": "c = 5.32",
+        "c": 5.32,
+        "approximate": false
+      },
+      "6": {
+        "text": "c = 5.6",
+        "c": 5.6,
+        "approximate": false
+      },
+      "5": {
+        "text": "c = 5.88",
+        "c": 5.88,
+        "approximate": false
+      },
+      "4": {
+        "text": "c = 6.16",
+        "c": 6.16,
+        "approximate": false
+      },
+      "3": {
+        "text": "c = 6.44",
+        "c": 6.44,
+        "approximate": false
+      },
+      "2": {
+        "text": "c = 6.72",
+        "c": 6.72,
+        "approximate": false
+      },
+      "1": {
+        "text": "c = 7",
+        "c": 7.0,
+        "approximate": false
+      },
+      "0": {
+        "text": "c = 7.28",
+        "c": 7.28,
+        "approximate": false
+      }
+    },
+    "note": "26条标准横线取c=0.28,0.56,…,7.28，按原书第192、195—196页；已按原图高度排序对应。"
+  },
+  "145": {
+    "records": {
+      "0": {
+        "text": "c = 0.28",
+        "c": 0.28,
+        "approximate": false
+      },
+      "1": {
+        "text": "c = 0.56",
+        "c": 0.56,
+        "approximate": false
+      },
+      "2": {
+        "text": "c = 0.84",
+        "c": 0.84,
+        "approximate": false
+      },
+      "3": {
+        "text": "c = 1.12",
+        "c": 1.12,
+        "approximate": false
+      },
+      "4": {
+        "text": "c = 1.4",
+        "c": 1.4,
+        "approximate": false
+      },
+      "5": {
+        "text": "c = 1.68",
+        "c": 1.68,
+        "approximate": false
+      },
+      "6": {
+        "text": "c = 1.96",
+        "c": 1.96,
+        "approximate": false
+      },
+      "7": {
+        "text": "c = 2.24",
+        "c": 2.24,
+        "approximate": false
+      },
+      "8": {
+        "text": "c = 2.52",
+        "c": 2.52,
+        "approximate": false
+      },
+      "9": {
+        "text": "c = 2.8",
+        "c": 2.8,
+        "approximate": false
+      },
+      "10": {
+        "text": "c = 3.08",
+        "c": 3.08,
+        "approximate": false
+      },
+      "11": {
+        "text": "c = 3.36",
+        "c": 3.36,
+        "approximate": false
+      },
+      "12": {
+        "text": "c = 3.64",
+        "c": 3.64,
+        "approximate": false
+      },
+      "13": {
+        "text": "c = 3.92",
+        "c": 3.92,
+        "approximate": false
+      },
+      "14": {
+        "text": "c = 4.2",
+        "c": 4.2,
+        "approximate": false
+      },
+      "15": {
+        "text": "c = 4.48",
+        "c": 4.48,
+        "approximate": false
+      },
+      "16": {
+        "text": "c = 4.76",
+        "c": 4.76,
+        "approximate": false
+      },
+      "17": {
+        "text": "c = 5.04",
+        "c": 5.04,
+        "approximate": false
+      },
+      "18": {
+        "text": "c = 5.32",
+        "c": 5.32,
+        "approximate": false
+      },
+      "19": {
+        "text": "c = 5.6",
+        "c": 5.6,
+        "approximate": false
+      },
+      "20": {
+        "text": "c = 5.88",
+        "c": 5.88,
+        "approximate": false
+      },
+      "21": {
+        "text": "c = 6.16",
+        "c": 6.16,
+        "approximate": false
+      },
+      "22": {
+        "text": "c = 6.44",
+        "c": 6.44,
+        "approximate": false
+      },
+      "23": {
+        "text": "c = 6.72",
+        "c": 6.72,
+        "approximate": false
+      },
+      "24": {
+        "text": "c = 7",
+        "c": 7.0,
+        "approximate": false
+      },
+      "25": {
+        "text": "c = 7.28",
+        "c": 7.28,
+        "approximate": false
+      }
+    },
+    "note": "26条标准横线取c=0.28,0.56,…,7.28，按原书第192、195—196页；已按原图高度排序对应。"
+  },
+  "166": {
+    "records": {
+      "0": {
+        "text": "c = 0.28",
+        "c": 0.28,
+        "approximate": false
+      },
+      "1": {
+        "text": "c = 0.56",
+        "c": 0.56,
+        "approximate": false
+      },
+      "2": {
+        "text": "c = 0.84",
+        "c": 0.84,
+        "approximate": false
+      },
+      "3": {
+        "text": "c = 1.12",
+        "c": 1.12,
+        "approximate": false
+      },
+      "4": {
+        "text": "c = 1.4",
+        "c": 1.4,
+        "approximate": false
+      },
+      "5": {
+        "text": "c = 1.68",
+        "c": 1.68,
+        "approximate": false
+      },
+      "6": {
+        "text": "c = 1.96",
+        "c": 1.96,
+        "approximate": false
+      },
+      "7": {
+        "text": "c = 2.24",
+        "c": 2.24,
+        "approximate": false
+      },
+      "8": {
+        "text": "c = 2.52",
+        "c": 2.52,
+        "approximate": false
+      },
+      "9": {
+        "text": "c = 2.8",
+        "c": 2.8,
+        "approximate": false
+      },
+      "10": {
+        "text": "c = 3.08",
+        "c": 3.08,
+        "approximate": false
+      },
+      "11": {
+        "text": "c = 3.36",
+        "c": 3.36,
+        "approximate": false
+      },
+      "12": {
+        "text": "c = 3.64",
+        "c": 3.64,
+        "approximate": false
+      },
+      "13": {
+        "text": "c = 3.92",
+        "c": 3.92,
+        "approximate": false
+      },
+      "14": {
+        "text": "c = 4.2",
+        "c": 4.2,
+        "approximate": false
+      },
+      "15": {
+        "text": "c = 4.48",
+        "c": 4.48,
+        "approximate": false
+      },
+      "16": {
+        "text": "c = 4.76",
+        "c": 4.76,
+        "approximate": false
+      },
+      "17": {
+        "text": "c = 5.04",
+        "c": 5.04,
+        "approximate": false
+      },
+      "18": {
+        "text": "c = 5.32",
+        "c": 5.32,
+        "approximate": false
+      },
+      "19": {
+        "text": "c = 5.6",
+        "c": 5.6,
+        "approximate": false
+      },
+      "20": {
+        "text": "c = 5.88",
+        "c": 5.88,
+        "approximate": false
+      },
+      "21": {
+        "text": "c = 6.16",
+        "c": 6.16,
+        "approximate": false
+      },
+      "22": {
+        "text": "c = 6.44",
+        "c": 6.44,
+        "approximate": false
+      },
+      "23": {
+        "text": "c = 6.72",
+        "c": 6.72,
+        "approximate": false
+      },
+      "24": {
+        "text": "c = 7",
+        "c": 7.0,
+        "approximate": false
+      },
+      "25": {
+        "text": "c = 7.28",
+        "c": 7.28,
+        "approximate": false
+      }
+    },
+    "note": "26条标准横线取c=0.28,0.56,…,7.28，按原书第192、195—196页；已按原图高度排序对应。"
+  },
+  "170": {
+    "records": {
+      "0": {
+        "text": "c = 0.28",
+        "c": 0.28,
+        "approximate": false
+      },
+      "1": {
+        "text": "c = 0.56",
+        "c": 0.56,
+        "approximate": false
+      },
+      "2": {
+        "text": "c = 0.84",
+        "c": 0.84,
+        "approximate": false
+      },
+      "3": {
+        "text": "c = 1.12",
+        "c": 1.12,
+        "approximate": false
+      },
+      "4": {
+        "text": "c = 1.4",
+        "c": 1.4,
+        "approximate": false
+      },
+      "5": {
+        "text": "c = 1.68",
+        "c": 1.68,
+        "approximate": false
+      },
+      "6": {
+        "text": "c = 1.96",
+        "c": 1.96,
+        "approximate": false
+      },
+      "7": {
+        "text": "c = 2.24",
+        "c": 2.24,
+        "approximate": false
+      },
+      "8": {
+        "text": "c = 2.52",
+        "c": 2.52,
+        "approximate": false
+      },
+      "9": {
+        "text": "c = 2.8",
+        "c": 2.8,
+        "approximate": false
+      },
+      "10": {
+        "text": "c = 3.08",
+        "c": 3.08,
+        "approximate": false
+      },
+      "11": {
+        "text": "c = 3.36",
+        "c": 3.36,
+        "approximate": false
+      },
+      "12": {
+        "text": "c = 3.64",
+        "c": 3.64,
+        "approximate": false
+      },
+      "13": {
+        "text": "c = 3.92",
+        "c": 3.92,
+        "approximate": false
+      },
+      "14": {
+        "text": "c = 4.2",
+        "c": 4.2,
+        "approximate": false
+      },
+      "15": {
+        "text": "c = 4.48",
+        "c": 4.48,
+        "approximate": false
+      },
+      "16": {
+        "text": "c = 4.76",
+        "c": 4.76,
+        "approximate": false
+      },
+      "17": {
+        "text": "c = 5.04",
+        "c": 5.04,
+        "approximate": false
+      },
+      "18": {
+        "text": "c = 5.32",
+        "c": 5.32,
+        "approximate": false
+      },
+      "19": {
+        "text": "c = 5.6",
+        "c": 5.6,
+        "approximate": false
+      },
+      "20": {
+        "text": "c = 5.88",
+        "c": 5.88,
+        "approximate": false
+      },
+      "21": {
+        "text": "c = 6.16",
+        "c": 6.16,
+        "approximate": false
+      },
+      "22": {
+        "text": "c = 6.44",
+        "c": 6.44,
+        "approximate": false
+      },
+      "23": {
+        "text": "c = 6.72",
+        "c": 6.72,
+        "approximate": false
+      },
+      "24": {
+        "text": "c = 7",
+        "c": 7.0,
+        "approximate": false
+      },
+      "25": {
+        "text": "c = 7.28",
+        "c": 7.28,
+        "approximate": false
+      }
+    },
+    "note": "26条标准横线取c=0.28,0.56,…,7.28，按原书第192、195—196页；已按原图高度排序对应。"
+  },
+  "175": {
+    "records": {
+      "0": {
+        "text": "c = 0.28",
+        "c": 0.28,
+        "approximate": false
+      },
+      "1": {
+        "text": "c = 0.56",
+        "c": 0.56,
+        "approximate": false
+      },
+      "2": {
+        "text": "c = 0.84",
+        "c": 0.84,
+        "approximate": false
+      },
+      "3": {
+        "text": "c = 1.12",
+        "c": 1.12,
+        "approximate": false
+      },
+      "4": {
+        "text": "c = 1.4",
+        "c": 1.4,
+        "approximate": false
+      },
+      "5": {
+        "text": "c = 1.68",
+        "c": 1.68,
+        "approximate": false
+      },
+      "6": {
+        "text": "c = 1.96",
+        "c": 1.96,
+        "approximate": false
+      },
+      "7": {
+        "text": "c = 2.24",
+        "c": 2.24,
+        "approximate": false
+      },
+      "8": {
+        "text": "c = 2.52",
+        "c": 2.52,
+        "approximate": false
+      },
+      "9": {
+        "text": "c = 2.8",
+        "c": 2.8,
+        "approximate": false
+      },
+      "10": {
+        "text": "c = 3.08",
+        "c": 3.08,
+        "approximate": false
+      },
+      "11": {
+        "text": "c = 3.36",
+        "c": 3.36,
+        "approximate": false
+      },
+      "12": {
+        "text": "c = 3.64",
+        "c": 3.64,
+        "approximate": false
+      },
+      "13": {
+        "text": "c = 3.92",
+        "c": 3.92,
+        "approximate": false
+      },
+      "14": {
+        "text": "c = 4.2",
+        "c": 4.2,
+        "approximate": false
+      },
+      "15": {
+        "text": "c = 4.48",
+        "c": 4.48,
+        "approximate": false
+      },
+      "16": {
+        "text": "c = 4.76",
+        "c": 4.76,
+        "approximate": false
+      },
+      "17": {
+        "text": "c = 5.04",
+        "c": 5.04,
+        "approximate": false
+      },
+      "18": {
+        "text": "c = 5.32",
+        "c": 5.32,
+        "approximate": false
+      },
+      "19": {
+        "text": "c = 5.6",
+        "c": 5.6,
+        "approximate": false
+      },
+      "20": {
+        "text": "c = 5.88",
+        "c": 5.88,
+        "approximate": false
+      },
+      "21": {
+        "text": "c = 6.16",
+        "c": 6.16,
+        "approximate": false
+      },
+      "22": {
+        "text": "c = 6.44",
+        "c": 6.44,
+        "approximate": false
+      },
+      "23": {
+        "text": "c = 6.72",
+        "c": 6.72,
+        "approximate": false
+      },
+      "24": {
+        "text": "c = 7",
+        "c": 7.0,
+        "approximate": false
+      },
+      "25": {
+        "text": "c = 7.28",
+        "c": 7.28,
+        "approximate": false
+      }
+    },
+    "note": "26条标准横线取c=0.28,0.56,…,7.28，按原书第192、195—196页；已按原图高度排序对应。"
+  },
+  "185": {
+    "records": {
+      "0": {
+        "text": "c = 0.28",
+        "c": 0.28,
+        "approximate": false
+      },
+      "1": {
+        "text": "c = 0.56",
+        "c": 0.56,
+        "approximate": false
+      },
+      "2": {
+        "text": "c = 0.84",
+        "c": 0.84,
+        "approximate": false
+      },
+      "3": {
+        "text": "c = 1.12",
+        "c": 1.12,
+        "approximate": false
+      },
+      "4": {
+        "text": "c = 1.4",
+        "c": 1.4,
+        "approximate": false
+      },
+      "5": {
+        "text": "c = 1.68",
+        "c": 1.68,
+        "approximate": false
+      },
+      "6": {
+        "text": "c = 1.96",
+        "c": 1.96,
+        "approximate": false
+      },
+      "7": {
+        "text": "c = 2.24",
+        "c": 2.24,
+        "approximate": false
+      },
+      "8": {
+        "text": "c = 2.52",
+        "c": 2.52,
+        "approximate": false
+      },
+      "9": {
+        "text": "c = 2.8",
+        "c": 2.8,
+        "approximate": false
+      },
+      "10": {
+        "text": "c = 3.08",
+        "c": 3.08,
+        "approximate": false
+      },
+      "11": {
+        "text": "c = 3.36",
+        "c": 3.36,
+        "approximate": false
+      },
+      "12": {
+        "text": "c = 3.64",
+        "c": 3.64,
+        "approximate": false
+      },
+      "13": {
+        "text": "c = 3.92",
+        "c": 3.92,
+        "approximate": false
+      },
+      "14": {
+        "text": "c = 4.2",
+        "c": 4.2,
+        "approximate": false
+      },
+      "15": {
+        "text": "c = 4.48",
+        "c": 4.48,
+        "approximate": false
+      },
+      "16": {
+        "text": "c = 4.76",
+        "c": 4.76,
+        "approximate": false
+      },
+      "17": {
+        "text": "c = 5.04",
+        "c": 5.04,
+        "approximate": false
+      },
+      "18": {
+        "text": "c = 5.32",
+        "c": 5.32,
+        "approximate": false
+      },
+      "19": {
+        "text": "c = 5.6",
+        "c": 5.6,
+        "approximate": false
+      },
+      "20": {
+        "text": "c = 5.88",
+        "c": 5.88,
+        "approximate": false
+      },
+      "21": {
+        "text": "c = 6.16",
+        "c": 6.16,
+        "approximate": false
+      },
+      "22": {
+        "text": "c = 6.44",
+        "c": 6.44,
+        "approximate": false
+      },
+      "23": {
+        "text": "c = 6.72",
+        "c": 6.72,
+        "approximate": false
+      },
+      "24": {
+        "text": "c = 7",
+        "c": 7.0,
+        "approximate": false
+      },
+      "25": {
+        "text": "c = 7.28",
+        "c": 7.28,
+        "approximate": false
+      }
+    },
+    "note": "26条标准横线取c=0.28,0.56,…,7.28，按原书第192、195—196页；已按原图高度排序对应。"
+  },
+  "114": {
+    "records": {
+      "0": {
+        "text": "c = 6.16",
+        "c": 6.16,
+        "approximate": false
+      },
+      "1": {
+        "text": "c = 6.44",
+        "c": 6.44,
+        "approximate": false
+      },
+      "2": {
+        "text": "c = 6.72",
+        "c": 6.72,
+        "approximate": false
+      },
+      "3": {
+        "text": "c = 7",
+        "c": 7.0,
+        "approximate": false
+      },
+      "4": {
+        "text": "c = 7.28",
+        "c": 7.28,
+        "approximate": false
+      },
+      "5": {
+        "text": "c ≈ 2.75",
+        "c": 2.75,
+        "approximate": true
+      },
+      "6": {
+        "text": "c ≈ 3.03",
+        "c": 3.03,
+        "approximate": true
+      },
+      "7": {
+        "text": "c ≈ 3.31",
+        "c": 3.31,
+        "approximate": true
+      },
+      "8": {
+        "text": "c ≈ 3.59",
+        "c": 3.59,
+        "approximate": true
+      },
+      "9": {
+        "text": "c ≈ 3.87",
+        "c": 3.87,
+        "approximate": true
+      },
+      "10": {
+        "text": "c ≈ 4.15",
+        "c": 4.15,
+        "approximate": true
+      },
+      "11": {
+        "text": "c ≈ 4.43",
+        "c": 4.43,
+        "approximate": true
+      },
+      "12": {
+        "text": "c ≈ 4.71",
+        "c": 4.71,
+        "approximate": true
+      },
+      "13": {
+        "text": "c ≈ 4.99",
+        "c": 4.99,
+        "approximate": true
+      },
+      "14": {
+        "text": "c ≈ 5.27",
+        "c": 5.27,
+        "approximate": true
+      }
+    },
+    "note": "水平线为标准页最上5行；竖线从x=-2.75起，原图等间隔约0.28。"
+  },
+  "131": {
+    "records": {
+      "0": {
+        "text": "c = 3.14159 rad = 180°",
+        "c": 3.141593,
+        "approximate": false
+      },
+      "1": {
+        "text": "c = 3.20443 rad = 183.6°",
+        "c": 3.204425,
+        "approximate": false
+      },
+      "2": {
+        "text": "c = 3.26726 rad = 187.2°",
+        "c": 3.267256,
+        "approximate": false
+      },
+      "3": {
+        "text": "c = 3.33009 rad = 190.8°",
+        "c": 3.330088,
+        "approximate": false
+      },
+      "4": {
+        "text": "c = 3.39292 rad = 194.4°",
+        "c": 3.39292,
+        "approximate": false
+      },
+      "5": {
+        "text": "c = 3.45575 rad = 198°",
+        "c": 3.455752,
+        "approximate": false
+      },
+      "6": {
+        "text": "c = 3.51858 rad = 201.6°",
+        "c": 3.518584,
+        "approximate": false
+      },
+      "7": {
+        "text": "c = 3.58142 rad = 205.2°",
+        "c": 3.581416,
+        "approximate": false
+      },
+      "8": {
+        "text": "c = 3.64425 rad = 208.8°",
+        "c": 3.644247,
+        "approximate": false
+      },
+      "9": {
+        "text": "c = 3.70708 rad = 212.4°",
+        "c": 3.707079,
+        "approximate": false
+      },
+      "10": {
+        "text": "c = 3.76991 rad = 216°",
+        "c": 3.769911,
+        "approximate": false
+      },
+      "11": {
+        "text": "c = 3.83274 rad = 219.6°",
+        "c": 3.832743,
+        "approximate": false
+      },
+      "12": {
+        "text": "c = 3.89558 rad = 223.2°",
+        "c": 3.895575,
+        "approximate": false
+      },
+      "13": {
+        "text": "c = 3.95841 rad = 226.8°",
+        "c": 3.958407,
+        "approximate": false
+      },
+      "14": {
+        "text": "c = 4.02124 rad = 230.4°",
+        "c": 4.021239,
+        "approximate": false
+      },
+      "15": {
+        "text": "c = 4.08407 rad = 234°",
+        "c": 4.08407,
+        "approximate": false
+      },
+      "16": {
+        "text": "c = 4.1469 rad = 237.6°",
+        "c": 4.146902,
+        "approximate": false
+      },
+      "17": {
+        "text": "c = 4.20973 rad = 241.2°",
+        "c": 4.209734,
+        "approximate": false
+      },
+      "18": {
+        "text": "c = 4.27257 rad = 244.8°",
+        "c": 4.272566,
+        "approximate": false
+      },
+      "19": {
+        "text": "c = 4.3354 rad = 248.4°",
+        "c": 4.335398,
+        "approximate": false
+      },
+      "20": {
+        "text": "c = 4.39823 rad = 252°",
+        "c": 4.39823,
+        "approximate": false
+      },
+      "21": {
+        "text": "c = 4.46106 rad = 255.6°",
+        "c": 4.461062,
+        "approximate": false
+      },
+      "22": {
+        "text": "c = 4.52389 rad = 259.2°",
+        "c": 4.523893,
+        "approximate": false
+      },
+      "23": {
+        "text": "c = 4.58673 rad = 262.8°",
+        "c": 4.586725,
+        "approximate": false
+      },
+      "24": {
+        "text": "c = 4.64956 rad = 266.4°",
+        "c": 4.649557,
+        "approximate": false
+      }
+    },
+    "note": "c即射线极角；以实际端点方向核对π+iπ/50。最后黑色圆弧不是固定c的射线。"
+  },
+  "132": {
+    "records": {
+      "0": {
+        "text": "c ≈ 2",
+        "c": 2,
+        "approximate": true
+      },
+      "1": {
+        "text": "c ≈ 3",
+        "c": 3,
+        "approximate": true
+      },
+      "2": {
+        "text": "c ≈ 4",
+        "c": 4,
+        "approximate": true
+      },
+      "3": {
+        "text": "c ≈ 5",
+        "c": 5,
+        "approximate": true
+      },
+      "4": {
+        "text": "c ≈ 6",
+        "c": 6,
+        "approximate": true
+      },
+      "5": {
+        "text": "c ≈ 7",
+        "c": 7,
+        "approximate": true
+      },
+      "6": {
+        "text": "c ≈ 8",
+        "c": 8,
+        "approximate": true
+      },
+      "7": {
+        "text": "c ≈ 8",
+        "c": 8,
+        "approximate": true
+      },
+      "8": {
+        "text": "c ≈ 9",
+        "c": 9,
+        "approximate": true
+      },
+      "9": {
+        "text": "c ≈ 9",
+        "c": 9,
+        "approximate": true
+      },
+      "10": {
+        "text": "c ≈ 1",
+        "c": 1,
+        "approximate": true
+      }
+    },
+    "note": "由极点和极坐标曲线反解，灰线c=2,…,9（裁成两段者保持同一c），黑线c=1。近似值为原图反解。"
+  },
+  "135": {
+    "records": {
+      "22": {
+        "text": "c / c₁ ≈ 1.000",
+        "relativeC": 1,
+        "approximate": true
+      },
+      "23": {
+        "text": "c / c₁ ≈ 2.000",
+        "relativeC": 2,
+        "approximate": true
+      },
+      "24": {
+        "text": "c / c₁ ≈ 3.000",
+        "relativeC": 3,
+        "approximate": true
+      },
+      "25": {
+        "text": "c / c₁ ≈ 4.000",
+        "relativeC": 4,
+        "approximate": true
+      },
+      "26": {
+        "text": "c / c₁ ≈ 5.000",
+        "relativeC": 5,
+        "approximate": true
+      },
+      "27": {
+        "text": "c / c₁ ≈ 6.000",
+        "relativeC": 6,
+        "approximate": true
+      },
+      "28": {
+        "text": "c / c₁ ≈ 7.000",
+        "relativeC": 7,
+        "approximate": true
+      },
+      "29": {
+        "text": "c / c₁ ≈ 8.000",
+        "relativeC": 8,
+        "approximate": true
+      },
+      "30": {
+        "text": "c / c₁ ≈ 9.000",
+        "relativeC": 9,
+        "approximate": true
+      },
+      "31": {
+        "text": "c / c₁ ≈ 10.000",
+        "relativeC": 10,
+        "approximate": true
+      },
+      "32": {
+        "text": "c / c₁ ≈ 11.000",
+        "relativeC": 11,
+        "approximate": true
+      }
+    },
+    "note": "原书未标这组曲线的绝对c取值；按同一曲线族的实际大小显示相对第一条的c/c₁，不把比例冒充绝对c。"
+  },
+  "142": {
+    "records": {
+      "0": {
+        "text": "c / c₁ ≈ 1.000",
+        "relativeC": 1.0,
+        "approximate": true
+      },
+      "1": {
+        "text": "c / c₁ ≈ 1.571",
+        "relativeC": 1.571429,
+        "approximate": true
+      },
+      "2": {
+        "text": "c / c₁ ≈ 2.143",
+        "relativeC": 2.142857,
+        "approximate": true
+      },
+      "3": {
+        "text": "c / c₁ ≈ 2.714",
+        "relativeC": 2.714286,
+        "approximate": true
+      },
+      "4": {
+        "text": "c / c₁ ≈ 3.286",
+        "relativeC": 3.285714,
+        "approximate": true
+      },
+      "5": {
+        "text": "c / c₁ ≈ 3.857",
+        "relativeC": 3.857143,
+        "approximate": true
+      },
+      "6": {
+        "text": "c / c₁ ≈ 4.429",
+        "relativeC": 4.428571,
+        "approximate": true
+      },
+      "7": {
+        "text": "c / c₁ ≈ 5.000",
+        "relativeC": 5.0,
+        "approximate": true
+      },
+      "8": {
+        "text": "c / c₁ ≈ 5.000",
+        "relativeC": 5.0,
+        "approximate": true
+      }
+    },
+    "note": "原书未标这组曲线的绝对c取值；按同一曲线族的实际大小显示相对第一条的c/c₁，不把比例冒充绝对c。"
+  },
+  "147": {
+    "records": {
+      "0": {
+        "text": "c / c₁ ≈ 1.000",
+        "relativeC": 1,
+        "approximate": true
+      },
+      "1": {
+        "text": "c / c₁ ≈ 2.000",
+        "relativeC": 2,
+        "approximate": true
+      },
+      "2": {
+        "text": "c / c₁ ≈ 3.000",
+        "relativeC": 3,
+        "approximate": true
+      },
+      "3": {
+        "text": "c / c₁ ≈ 4.000",
+        "relativeC": 4,
+        "approximate": true
+      },
+      "4": {
+        "text": "c / c₁ ≈ 5.000",
+        "relativeC": 5,
+        "approximate": true
+      },
+      "5": {
+        "text": "c / c₁ ≈ 6.000",
+        "relativeC": 6,
+        "approximate": true
+      },
+      "6": {
+        "text": "c / c₁ ≈ 7.000",
+        "relativeC": 7,
+        "approximate": true
+      },
+      "7": {
+        "text": "c / c₁ ≈ 8.000",
+        "relativeC": 8,
+        "approximate": true
+      },
+      "8": {
+        "text": "c / c₁ ≈ 8.000",
+        "relativeC": 8,
+        "approximate": true
+      }
+    },
+    "note": "原书未标这组曲线的绝对c取值；按同一曲线族的实际大小显示相对第一条的c/c₁，不把比例冒充绝对c。"
+  },
+  "167": {
+    "records": {
+      "0": {
+        "text": "c = 0.56",
+        "c": 0.56,
+        "approximate": false
+      },
+      "1": {
+        "text": "c = 1.12",
+        "c": 1.12,
+        "approximate": false
+      },
+      "2": {
+        "text": "c = 0.84",
+        "c": 0.84,
+        "approximate": false
+      },
+      "3": {
+        "text": "c = 1.4",
+        "c": 1.4,
+        "approximate": false
+      },
+      "4": {
+        "text": "c = 5.04",
+        "c": 5.04,
+        "approximate": false
+      },
+      "5": {
+        "text": "c = 9.8",
+        "c": 9.8,
+        "approximate": false
+      },
+      "6": {
+        "text": "c = 12.88",
+        "c": 12.88,
+        "approximate": false
+      },
+      "11995": {
+        "text": "c₁ ≈ 11.2；c₂ ≈ 14.56（竖弦连接两条横线）",
+        "cPair": [
+          11.2,
+          14.56
+        ],
+        "approximate": true
+      },
+      "11996": {
+        "text": "c₁ ≈ 11.2；c₂ ≈ 14.56（竖弦连接两条横线）",
+        "cPair": [
+          11.2,
+          14.56
+        ],
+        "approximate": true
+      },
+      "11997": {
+        "text": "c₁ ≈ 11.48；c₂ ≈ 14.28（竖弦连接两条横线）",
+        "cPair": [
+          11.48,
+          14.28
+        ],
+        "approximate": true
+      },
+      "11998": {
+        "text": "c₁ ≈ 11.48；c₂ ≈ 14.28（竖弦连接两条横线）",
+        "cPair": [
+          11.48,
+          14.28
+        ],
+        "approximate": true
+      },
+      "11999": {
+        "text": "c₁ ≈ 11.76；c₂ ≈ 14（竖弦连接两条横线）",
+        "cPair": [
+          11.76,
+          14.0
+        ],
+        "approximate": true
+      },
+      "12000": {
+        "text": "c₁ ≈ 11.76；c₂ ≈ 14（竖弦连接两条横线）",
+        "cPair": [
+          11.76,
+          14.0
+        ],
+        "approximate": true
+      },
+      "12001": {
+        "text": "c₁ ≈ 12.04；c₂ ≈ 13.72（竖弦连接两条横线）",
+        "cPair": [
+          12.04,
+          13.72
+        ],
+        "approximate": true
+      },
+      "12002": {
+        "text": "c₁ ≈ 12.04；c₂ ≈ 13.72（竖弦连接两条横线）",
+        "cPair": [
+          12.04,
+          13.72
+        ],
+        "approximate": true
+      },
+      "12003": {
+        "text": "c₁ ≈ 12.32；c₂ ≈ 13.44（竖弦连接两条横线）",
+        "cPair": [
+          12.32,
+          13.44
+        ],
+        "approximate": true
+      },
+      "12004": {
+        "text": "c₁ ≈ 12.32；c₂ ≈ 13.44（竖弦连接两条横线）",
+        "cPair": [
+          12.32,
+          13.44
+        ],
+        "approximate": true
+      },
+      "12005": {
+        "text": "c₁ ≈ 12.6；c₂ ≈ 13.16（竖弦连接两条横线）",
+        "cPair": [
+          12.6,
+          13.16
+        ],
+        "approximate": true
+      },
+      "12006": {
+        "text": "c₁ ≈ 12.6；c₂ ≈ 13.16（竖弦连接两条横线）",
+        "cPair": [
+          12.6,
+          13.16
+        ],
+        "approximate": true
+      },
+      "12007": {
+        "text": "c₁ ≈ 8.68；c₂ ≈ 10.92（竖弦连接两条横线）",
+        "cPair": [
+          8.68,
+          10.92
+        ],
+        "approximate": true
+      },
+      "12008": {
+        "text": "c₁ ≈ 8.68；c₂ ≈ 10.92（竖弦连接两条横线）",
+        "cPair": [
+          8.68,
+          10.92
+        ],
+        "approximate": true
+      },
+      "12009": {
+        "text": "c₁ ≈ 8.96；c₂ ≈ 10.64（竖弦连接两条横线）",
+        "cPair": [
+          8.96,
+          10.64
+        ],
+        "approximate": true
+      },
+      "12010": {
+        "text": "c₁ ≈ 8.96；c₂ ≈ 10.64（竖弦连接两条横线）",
+        "cPair": [
+          8.96,
+          10.64
+        ],
+        "approximate": true
+      },
+      "12011": {
+        "text": "c₁ ≈ 9.24；c₂ ≈ 10.36（竖弦连接两条横线）",
+        "cPair": [
+          9.24,
+          10.36
+        ],
+        "approximate": true
+      },
+      "12012": {
+        "text": "c₁ ≈ 9.24；c₂ ≈ 10.36（竖弦连接两条横线）",
+        "cPair": [
+          9.24,
+          10.36
+        ],
+        "approximate": true
+      },
+      "12013": {
+        "text": "c₁ ≈ 9.52；c₂ ≈ 10.08（竖弦连接两条横线）",
+        "cPair": [
+          9.52,
+          10.08
+        ],
+        "approximate": true
+      },
+      "12014": {
+        "text": "c₁ ≈ 9.52；c₂ ≈ 10.08（竖弦连接两条横线）",
+        "cPair": [
+          9.52,
+          10.08
+        ],
+        "approximate": true
+      },
+      "12015": {
+        "text": "c₁ ≈ 1.68；c₂ ≈ 8.4（竖弦连接两条横线）",
+        "cPair": [
+          1.68,
+          8.4
+        ],
+        "approximate": true
+      },
+      "12016": {
+        "text": "c₁ ≈ 1.68；c₂ ≈ 8.4（竖弦连接两条横线）",
+        "cPair": [
+          1.68,
+          8.4
+        ],
+        "approximate": true
+      },
+      "12017": {
+        "text": "c₁ ≈ 1.96；c₂ ≈ 8.12（竖弦连接两条横线）",
+        "cPair": [
+          1.96,
+          8.12
+        ],
+        "approximate": true
+      },
+      "12018": {
+        "text": "c₁ ≈ 1.96；c₂ ≈ 8.12（竖弦连接两条横线）",
+        "cPair": [
+          1.96,
+          8.12
+        ],
+        "approximate": true
+      },
+      "12019": {
+        "text": "c₁ ≈ 2.24；c₂ ≈ 7.84（竖弦连接两条横线）",
+        "cPair": [
+          2.24,
+          7.84
+        ],
+        "approximate": true
+      },
+      "12020": {
+        "text": "c₁ ≈ 2.24；c₂ ≈ 7.84（竖弦连接两条横线）",
+        "cPair": [
+          2.24,
+          7.84
+        ],
+        "approximate": true
+      },
+      "12021": {
+        "text": "c₁ ≈ 2.52；c₂ ≈ 7.56（竖弦连接两条横线）",
+        "cPair": [
+          2.52,
+          7.56
+        ],
+        "approximate": true
+      },
+      "12022": {
+        "text": "c₁ ≈ 2.52；c₂ ≈ 7.56（竖弦连接两条横线）",
+        "cPair": [
+          2.52,
+          7.56
+        ],
+        "approximate": true
+      },
+      "12023": {
+        "text": "c₁ ≈ 2.8；c₂ ≈ 7.28（竖弦连接两条横线）",
+        "cPair": [
+          2.8,
+          7.28
+        ],
+        "approximate": true
+      },
+      "12024": {
+        "text": "c₁ ≈ 2.8；c₂ ≈ 7.28（竖弦连接两条横线）",
+        "cPair": [
+          2.8,
+          7.28
+        ],
+        "approximate": true
+      },
+      "12025": {
+        "text": "c₁ ≈ 3.08；c₂ ≈ 7（竖弦连接两条横线）",
+        "cPair": [
+          3.08,
+          7.0
+        ],
+        "approximate": true
+      },
+      "12026": {
+        "text": "c₁ ≈ 3.08；c₂ ≈ 7（竖弦连接两条横线）",
+        "cPair": [
+          3.08,
+          7.0
+        ],
+        "approximate": true
+      },
+      "12027": {
+        "text": "c₁ ≈ 3.36；c₂ ≈ 6.72（竖弦连接两条横线）",
+        "cPair": [
+          3.36,
+          6.72
+        ],
+        "approximate": true
+      },
+      "12028": {
+        "text": "c₁ ≈ 3.36；c₂ ≈ 6.72（竖弦连接两条横线）",
+        "cPair": [
+          3.36,
+          6.72
+        ],
+        "approximate": true
+      },
+      "12029": {
+        "text": "c₁ ≈ 3.64；c₂ ≈ 6.44（竖弦连接两条横线）",
+        "cPair": [
+          3.64,
+          6.44
+        ],
+        "approximate": true
+      },
+      "12030": {
+        "text": "c₁ ≈ 3.64；c₂ ≈ 6.44（竖弦连接两条横线）",
+        "cPair": [
+          3.64,
+          6.44
+        ],
+        "approximate": true
+      },
+      "12031": {
+        "text": "c₁ ≈ 3.92；c₂ ≈ 6.16（竖弦连接两条横线）",
+        "cPair": [
+          3.92,
+          6.16
+        ],
+        "approximate": true
+      },
+      "12032": {
+        "text": "c₁ ≈ 3.92；c₂ ≈ 6.16（竖弦连接两条横线）",
+        "cPair": [
+          3.92,
+          6.16
+        ],
+        "approximate": true
+      },
+      "12033": {
+        "text": "c₁ ≈ 4.2；c₂ ≈ 5.88（竖弦连接两条横线）",
+        "cPair": [
+          4.2,
+          5.88
+        ],
+        "approximate": true
+      },
+      "12034": {
+        "text": "c₁ ≈ 4.2；c₂ ≈ 5.88（竖弦连接两条横线）",
+        "cPair": [
+          4.2,
+          5.88
+        ],
+        "approximate": true
+      },
+      "12035": {
+        "text": "c₁ ≈ 4.48；c₂ ≈ 5.6（竖弦连接两条横线）",
+        "cPair": [
+          4.48,
+          5.6
+        ],
+        "approximate": true
+      },
+      "12036": {
+        "text": "c₁ ≈ 4.48；c₂ ≈ 5.6（竖弦连接两条横线）",
+        "cPair": [
+          4.48,
+          5.6
+        ],
+        "approximate": true
+      },
+      "12037": {
+        "text": "c₁ ≈ 4.76；c₂ ≈ 5.32（竖弦连接两条横线）",
+        "cPair": [
+          4.76,
+          5.32
+        ],
+        "approximate": true
+      },
+      "12038": {
+        "text": "c₁ ≈ 4.76；c₂ ≈ 5.32（竖弦连接两条横线）",
+        "cPair": [
+          4.76,
+          5.32
+        ],
+        "approximate": true
+      }
+    },
+    "note": "标准行距0.28；同一横线的各段共享参数。公式y=c/2，故c为该横线高度的两倍。"
+  },
+  "172": {
+    "records": {
+      "0": {
+        "text": "c = 0.28",
+        "c": 0.28,
+        "approximate": false
+      },
+      "1": {
+        "text": "c = 0.56",
+        "c": 0.56,
+        "approximate": false
+      },
+      "2": {
+        "text": "c = 0.84",
+        "c": 0.84,
+        "approximate": false
+      },
+      "3": {
+        "text": "c = 1.12",
+        "c": 1.12,
+        "approximate": false
+      },
+      "4": {
+        "text": "c = 1.4",
+        "c": 1.4,
+        "approximate": false
+      },
+      "5": {
+        "text": "c = 1.68",
+        "c": 1.68,
+        "approximate": false
+      },
+      "6": {
+        "text": "c = 1.96",
+        "c": 1.96,
+        "approximate": false
+      },
+      "7": {
+        "text": "c = 2.24",
+        "c": 2.24,
+        "approximate": false
+      },
+      "8": {
+        "text": "c = 2.52",
+        "c": 2.52,
+        "approximate": false
+      },
+      "9": {
+        "text": "c = 2.8",
+        "c": 2.8,
+        "approximate": false
+      },
+      "10": {
+        "text": "c = 3.08",
+        "c": 3.08,
+        "approximate": false
+      },
+      "11": {
+        "text": "c = 3.36",
+        "c": 3.36,
+        "approximate": false
+      },
+      "12": {
+        "text": "c = 3.64",
+        "c": 3.64,
+        "approximate": false
+      },
+      "13": {
+        "text": "c = 3.92",
+        "c": 3.92,
+        "approximate": false
+      },
+      "14": {
+        "text": "c = 4.2",
+        "c": 4.2,
+        "approximate": false
+      },
+      "15": {
+        "text": "c = 4.48",
+        "c": 4.48,
+        "approximate": false
+      },
+      "11730": {
+        "text": "c = 6.44",
+        "c": 6.44,
+        "approximate": false
+      },
+      "11731": {
+        "text": "c = 6.72",
+        "c": 6.72,
+        "approximate": false
+      },
+      "11732": {
+        "text": "c = 7",
+        "c": 7.0,
+        "approximate": false
+      },
+      "11733": {
+        "text": "c = 7.28",
+        "c": 7.28,
+        "approximate": false
+      },
+      "11745": {
+        "text": "c = 3.08",
+        "c": 3.08,
+        "approximate": false
+      },
+      "11764": {
+        "text": "c = 6.72",
+        "c": 6.72,
+        "approximate": false
+      }
+    },
+    "note": "标准行距0.28；同一横线的各段共享参数。"
+  },
+  "173": {
+    "records": {
+      "0": {
+        "text": "c = 0.28",
+        "c": 0.28,
+        "approximate": false
+      },
+      "1": {
+        "text": "c = 0.28",
+        "c": 0.28,
+        "approximate": false
+      },
+      "2": {
+        "text": "c = 0.28",
+        "c": 0.28,
+        "approximate": false
+      },
+      "3": {
+        "text": "c = 0.28",
+        "c": 0.28,
+        "approximate": false
+      },
+      "4": {
+        "text": "c = 0.56",
+        "c": 0.56,
+        "approximate": false
+      },
+      "5": {
+        "text": "c = 0.56",
+        "c": 0.56,
+        "approximate": false
+      },
+      "6": {
+        "text": "c = 0.56",
+        "c": 0.56,
+        "approximate": false
+      },
+      "7": {
+        "text": "c = 0.56",
+        "c": 0.56,
+        "approximate": false
+      },
+      "8": {
+        "text": "c = 0.84",
+        "c": 0.84,
+        "approximate": false
+      },
+      "9": {
+        "text": "c = 0.84",
+        "c": 0.84,
+        "approximate": false
+      },
+      "10": {
+        "text": "c = 0.84",
+        "c": 0.84,
+        "approximate": false
+      },
+      "11": {
+        "text": "c = 0.84",
+        "c": 0.84,
+        "approximate": false
+      },
+      "12": {
+        "text": "c = 1.12",
+        "c": 1.12,
+        "approximate": false
+      },
+      "13": {
+        "text": "c = 1.12",
+        "c": 1.12,
+        "approximate": false
+      },
+      "14": {
+        "text": "c = 1.12",
+        "c": 1.12,
+        "approximate": false
+      },
+      "15": {
+        "text": "c = 1.12",
+        "c": 1.12,
+        "approximate": false
+      },
+      "16": {
+        "text": "c = 1.4",
+        "c": 1.4,
+        "approximate": false
+      },
+      "17": {
+        "text": "c = 1.4",
+        "c": 1.4,
+        "approximate": false
+      },
+      "18": {
+        "text": "c = 1.4",
+        "c": 1.4,
+        "approximate": false
+      },
+      "19": {
+        "text": "c = 1.4",
+        "c": 1.4,
+        "approximate": false
+      },
+      "20": {
+        "text": "c = 1.68",
+        "c": 1.68,
+        "approximate": false
+      },
+      "21": {
+        "text": "c = 1.68",
+        "c": 1.68,
+        "approximate": false
+      },
+      "22": {
+        "text": "c = 1.68",
+        "c": 1.68,
+        "approximate": false
+      },
+      "23": {
+        "text": "c = 1.68",
+        "c": 1.68,
+        "approximate": false
+      },
+      "24": {
+        "text": "c = 1.96",
+        "c": 1.96,
+        "approximate": false
+      },
+      "25": {
+        "text": "c = 1.96",
+        "c": 1.96,
+        "approximate": false
+      },
+      "26": {
+        "text": "c = 1.96",
+        "c": 1.96,
+        "approximate": false
+      },
+      "27": {
+        "text": "c = 1.96",
+        "c": 1.96,
+        "approximate": false
+      },
+      "28": {
+        "text": "c = 2.24",
+        "c": 2.24,
+        "approximate": false
+      },
+      "29": {
+        "text": "c = 2.24",
+        "c": 2.24,
+        "approximate": false
+      },
+      "30": {
+        "text": "c = 2.24",
+        "c": 2.24,
+        "approximate": false
+      },
+      "31": {
+        "text": "c = 2.24",
+        "c": 2.24,
+        "approximate": false
+      },
+      "32": {
+        "text": "c = 2.52",
+        "c": 2.52,
+        "approximate": false
+      },
+      "33": {
+        "text": "c = 2.52",
+        "c": 2.52,
+        "approximate": false
+      },
+      "34": {
+        "text": "c = 2.52",
+        "c": 2.52,
+        "approximate": false
+      },
+      "35": {
+        "text": "c = 2.52",
+        "c": 2.52,
+        "approximate": false
+      },
+      "36": {
+        "text": "c = 2.8",
+        "c": 2.8,
+        "approximate": false
+      },
+      "37": {
+        "text": "c = 2.8",
+        "c": 2.8,
+        "approximate": false
+      },
+      "38": {
+        "text": "c = 2.8",
+        "c": 2.8,
+        "approximate": false
+      },
+      "39": {
+        "text": "c = 2.8",
+        "c": 2.8,
+        "approximate": false
+      },
+      "40": {
+        "text": "c = 3.08",
+        "c": 3.08,
+        "approximate": false
+      },
+      "41": {
+        "text": "c = 3.08",
+        "c": 3.08,
+        "approximate": false
+      },
+      "42": {
+        "text": "c = 3.08",
+        "c": 3.08,
+        "approximate": false
+      },
+      "43": {
+        "text": "c = 3.08",
+        "c": 3.08,
+        "approximate": false
+      },
+      "44": {
+        "text": "c = 3.36",
+        "c": 3.36,
+        "approximate": false
+      },
+      "45": {
+        "text": "c = 3.36",
+        "c": 3.36,
+        "approximate": false
+      },
+      "46": {
+        "text": "c = 3.36",
+        "c": 3.36,
+        "approximate": false
+      },
+      "47": {
+        "text": "c = 3.36",
+        "c": 3.36,
+        "approximate": false
+      },
+      "48": {
+        "text": "c = 3.64",
+        "c": 3.64,
+        "approximate": false
+      },
+      "49": {
+        "text": "c = 3.64",
+        "c": 3.64,
+        "approximate": false
+      },
+      "50": {
+        "text": "c = 3.64",
+        "c": 3.64,
+        "approximate": false
+      },
+      "51": {
+        "text": "c = 3.64",
+        "c": 3.64,
+        "approximate": false
+      },
+      "52": {
+        "text": "c = 3.92",
+        "c": 3.92,
+        "approximate": false
+      },
+      "53": {
+        "text": "c = 3.92",
+        "c": 3.92,
+        "approximate": false
+      },
+      "54": {
+        "text": "c = 3.92",
+        "c": 3.92,
+        "approximate": false
+      },
+      "55": {
+        "text": "c = 3.92",
+        "c": 3.92,
+        "approximate": false
+      },
+      "56": {
+        "text": "c = 4.2",
+        "c": 4.2,
+        "approximate": false
+      },
+      "57": {
+        "text": "c = 4.2",
+        "c": 4.2,
+        "approximate": false
+      },
+      "58": {
+        "text": "c = 4.2",
+        "c": 4.2,
+        "approximate": false
+      },
+      "59": {
+        "text": "c = 4.2",
+        "c": 4.2,
+        "approximate": false
+      },
+      "60": {
+        "text": "c = 4.48",
+        "c": 4.48,
+        "approximate": false
+      },
+      "61": {
+        "text": "c = 4.48",
+        "c": 4.48,
+        "approximate": false
+      },
+      "62": {
+        "text": "c = 4.48",
+        "c": 4.48,
+        "approximate": false
+      },
+      "63": {
+        "text": "c = 4.48",
+        "c": 4.48,
+        "approximate": false
+      },
+      "64": {
+        "text": "c = 4.76",
+        "c": 4.76,
+        "approximate": false
+      },
+      "65": {
+        "text": "c = 4.76",
+        "c": 4.76,
+        "approximate": false
+      },
+      "66": {
+        "text": "c = 4.76",
+        "c": 4.76,
+        "approximate": false
+      },
+      "67": {
+        "text": "c = 4.76",
+        "c": 4.76,
+        "approximate": false
+      },
+      "68": {
+        "text": "c = 5.04",
+        "c": 5.04,
+        "approximate": false
+      },
+      "69": {
+        "text": "c = 5.04",
+        "c": 5.04,
+        "approximate": false
+      },
+      "70": {
+        "text": "c = 5.04",
+        "c": 5.04,
+        "approximate": false
+      },
+      "71": {
+        "text": "c = 5.04",
+        "c": 5.04,
+        "approximate": false
+      },
+      "72": {
+        "text": "c = 5.32",
+        "c": 5.32,
+        "approximate": false
+      },
+      "73": {
+        "text": "c = 5.32",
+        "c": 5.32,
+        "approximate": false
+      },
+      "74": {
+        "text": "c = 5.32",
+        "c": 5.32,
+        "approximate": false
+      },
+      "75": {
+        "text": "c = 5.32",
+        "c": 5.32,
+        "approximate": false
+      },
+      "76": {
+        "text": "c = 5.6",
+        "c": 5.6,
+        "approximate": false
+      },
+      "77": {
+        "text": "c = 5.6",
+        "c": 5.6,
+        "approximate": false
+      },
+      "78": {
+        "text": "c = 5.6",
+        "c": 5.6,
+        "approximate": false
+      },
+      "79": {
+        "text": "c = 5.6",
+        "c": 5.6,
+        "approximate": false
+      },
+      "80": {
+        "text": "c = 5.88",
+        "c": 5.88,
+        "approximate": false
+      },
+      "81": {
+        "text": "c = 5.88",
+        "c": 5.88,
+        "approximate": false
+      },
+      "82": {
+        "text": "c = 5.88",
+        "c": 5.88,
+        "approximate": false
+      },
+      "83": {
+        "text": "c = 5.88",
+        "c": 5.88,
+        "approximate": false
+      },
+      "84": {
+        "text": "c = 6.16",
+        "c": 6.16,
+        "approximate": false
+      },
+      "85": {
+        "text": "c = 6.16",
+        "c": 6.16,
+        "approximate": false
+      },
+      "86": {
+        "text": "c = 6.16",
+        "c": 6.16,
+        "approximate": false
+      },
+      "87": {
+        "text": "c = 6.16",
+        "c": 6.16,
+        "approximate": false
+      },
+      "88": {
+        "text": "c = 6.44",
+        "c": 6.44,
+        "approximate": false
+      },
+      "89": {
+        "text": "c = 6.44",
+        "c": 6.44,
+        "approximate": false
+      },
+      "90": {
+        "text": "c = 6.44",
+        "c": 6.44,
+        "approximate": false
+      },
+      "91": {
+        "text": "c = 6.44",
+        "c": 6.44,
+        "approximate": false
+      },
+      "92": {
+        "text": "c = 6.72",
+        "c": 6.72,
+        "approximate": false
+      },
+      "93": {
+        "text": "c = 6.72",
+        "c": 6.72,
+        "approximate": false
+      },
+      "94": {
+        "text": "c = 6.72",
+        "c": 6.72,
+        "approximate": false
+      },
+      "95": {
+        "text": "c = 6.72",
+        "c": 6.72,
+        "approximate": false
+      },
+      "96": {
+        "text": "c = 7",
+        "c": 7.0,
+        "approximate": false
+      },
+      "97": {
+        "text": "c = 7",
+        "c": 7.0,
+        "approximate": false
+      },
+      "98": {
+        "text": "c = 7",
+        "c": 7.0,
+        "approximate": false
+      },
+      "99": {
+        "text": "c = 7",
+        "c": 7.0,
+        "approximate": false
+      },
+      "100": {
+        "text": "c = 7.28",
+        "c": 7.28,
+        "approximate": false
+      },
+      "101": {
+        "text": "c = 7.28",
+        "c": 7.28,
+        "approximate": false
+      },
+      "102": {
+        "text": "c = 7.28",
+        "c": 7.28,
+        "approximate": false
+      },
+      "103": {
+        "text": "c = 7.28",
+        "c": 7.28,
+        "approximate": false
+      },
+      "104": {
+        "text": "c = 0.28",
+        "c": 0.28,
+        "approximate": false
+      },
+      "105": {
+        "text": "c = 0.28",
+        "c": 0.28,
+        "approximate": false
+      },
+      "106": {
+        "text": "c = 0.56",
+        "c": 0.56,
+        "approximate": false
+      },
+      "107": {
+        "text": "c = 0.56",
+        "c": 0.56,
+        "approximate": false
+      },
+      "108": {
+        "text": "c = 0.84",
+        "c": 0.84,
+        "approximate": false
+      },
+      "109": {
+        "text": "c = 0.84",
+        "c": 0.84,
+        "approximate": false
+      },
+      "110": {
+        "text": "c = 1.12",
+        "c": 1.12,
+        "approximate": false
+      },
+      "111": {
+        "text": "c = 1.12",
+        "c": 1.12,
+        "approximate": false
+      },
+      "112": {
+        "text": "c = 1.4",
+        "c": 1.4,
+        "approximate": false
+      },
+      "113": {
+        "text": "c = 1.4",
+        "c": 1.4,
+        "approximate": false
+      },
+      "114": {
+        "text": "c = 1.68",
+        "c": 1.68,
+        "approximate": false
+      },
+      "115": {
+        "text": "c = 1.68",
+        "c": 1.68,
+        "approximate": false
+      },
+      "116": {
+        "text": "c = 1.96",
+        "c": 1.96,
+        "approximate": false
+      },
+      "117": {
+        "text": "c = 1.96",
+        "c": 1.96,
+        "approximate": false
+      },
+      "118": {
+        "text": "c = 2.24",
+        "c": 2.24,
+        "approximate": false
+      },
+      "119": {
+        "text": "c = 2.24",
+        "c": 2.24,
+        "approximate": false
+      },
+      "120": {
+        "text": "c = 2.52",
+        "c": 2.52,
+        "approximate": false
+      },
+      "121": {
+        "text": "c = 2.52",
+        "c": 2.52,
+        "approximate": false
+      },
+      "122": {
+        "text": "c = 2.8",
+        "c": 2.8,
+        "approximate": false
+      },
+      "123": {
+        "text": "c = 2.8",
+        "c": 2.8,
+        "approximate": false
+      },
+      "124": {
+        "text": "c = 3.08",
+        "c": 3.08,
+        "approximate": false
+      },
+      "125": {
+        "text": "c = 3.08",
+        "c": 3.08,
+        "approximate": false
+      },
+      "126": {
+        "text": "c = 3.36",
+        "c": 3.36,
+        "approximate": false
+      },
+      "127": {
+        "text": "c = 3.36",
+        "c": 3.36,
+        "approximate": false
+      },
+      "128": {
+        "text": "c = 3.64",
+        "c": 3.64,
+        "approximate": false
+      },
+      "129": {
+        "text": "c = 3.64",
+        "c": 3.64,
+        "approximate": false
+      },
+      "130": {
+        "text": "c = 3.92",
+        "c": 3.92,
+        "approximate": false
+      },
+      "131": {
+        "text": "c = 3.92",
+        "c": 3.92,
+        "approximate": false
+      },
+      "132": {
+        "text": "c = 4.2",
+        "c": 4.2,
+        "approximate": false
+      },
+      "133": {
+        "text": "c = 4.2",
+        "c": 4.2,
+        "approximate": false
+      },
+      "134": {
+        "text": "c = 4.48",
+        "c": 4.48,
+        "approximate": false
+      },
+      "135": {
+        "text": "c = 4.48",
+        "c": 4.48,
+        "approximate": false
+      },
+      "136": {
+        "text": "c = 4.76",
+        "c": 4.76,
+        "approximate": false
+      },
+      "137": {
+        "text": "c = 4.76",
+        "c": 4.76,
+        "approximate": false
+      },
+      "138": {
+        "text": "c = 5.04",
+        "c": 5.04,
+        "approximate": false
+      },
+      "139": {
+        "text": "c = 5.04",
+        "c": 5.04,
+        "approximate": false
+      },
+      "140": {
+        "text": "c = 5.32",
+        "c": 5.32,
+        "approximate": false
+      },
+      "141": {
+        "text": "c = 5.32",
+        "c": 5.32,
+        "approximate": false
+      },
+      "142": {
+        "text": "c = 5.6",
+        "c": 5.6,
+        "approximate": false
+      },
+      "143": {
+        "text": "c = 5.6",
+        "c": 5.6,
+        "approximate": false
+      },
+      "144": {
+        "text": "c = 5.88",
+        "c": 5.88,
+        "approximate": false
+      },
+      "145": {
+        "text": "c = 5.88",
+        "c": 5.88,
+        "approximate": false
+      },
+      "146": {
+        "text": "c = 6.16",
+        "c": 6.16,
+        "approximate": false
+      },
+      "147": {
+        "text": "c = 6.16",
+        "c": 6.16,
+        "approximate": false
+      },
+      "148": {
+        "text": "c = 6.44",
+        "c": 6.44,
+        "approximate": false
+      },
+      "149": {
+        "text": "c = 6.44",
+        "c": 6.44,
+        "approximate": false
+      },
+      "150": {
+        "text": "c = 6.72",
+        "c": 6.72,
+        "approximate": false
+      },
+      "151": {
+        "text": "c = 6.72",
+        "c": 6.72,
+        "approximate": false
+      },
+      "152": {
+        "text": "c = 7",
+        "c": 7.0,
+        "approximate": false
+      },
+      "153": {
+        "text": "c = 7",
+        "c": 7.0,
+        "approximate": false
+      },
+      "154": {
+        "text": "c = 7.28",
+        "c": 7.28,
+        "approximate": false
+      },
+      "155": {
+        "text": "c = 7.28",
+        "c": 7.28,
+        "approximate": false
+      }
+    },
+    "note": "标准行距0.28；同一横线的各段共享参数。"
+  },
+  "182": {
+    "records": {
+      "272": {
+        "text": "c = 0.28",
+        "c": 0.28,
+        "approximate": false
+      },
+      "273": {
+        "text": "c = 0.56",
+        "c": 0.56,
+        "approximate": false
+      },
+      "274": {
+        "text": "c = 0.84",
+        "c": 0.84,
+        "approximate": false
+      },
+      "275": {
+        "text": "c = 1.12",
+        "c": 1.12,
+        "approximate": false
+      },
+      "276": {
+        "text": "c = 1.4",
+        "c": 1.4,
+        "approximate": false
+      },
+      "277": {
+        "text": "c = 1.68",
+        "c": 1.68,
+        "approximate": false
+      },
+      "278": {
+        "text": "c = 1.96",
+        "c": 1.96,
+        "approximate": false
+      },
+      "279": {
+        "text": "c = 2.24",
+        "c": 2.24,
+        "approximate": false
+      },
+      "280": {
+        "text": "c = 2.52",
+        "c": 2.52,
+        "approximate": false
+      },
+      "281": {
+        "text": "c = 2.8",
+        "c": 2.8,
+        "approximate": false
+      },
+      "282": {
+        "text": "c = 3.08",
+        "c": 3.08,
+        "approximate": false
+      },
+      "283": {
+        "text": "c = 3.36",
+        "c": 3.36,
+        "approximate": false
+      },
+      "284": {
+        "text": "c = 3.64",
+        "c": 3.64,
+        "approximate": false
+      },
+      "285": {
+        "text": "c = 3.92",
+        "c": 3.92,
+        "approximate": false
+      },
+      "286": {
+        "text": "c = 4.2",
+        "c": 4.2,
+        "approximate": false
+      },
+      "287": {
+        "text": "c = 4.48",
+        "c": 4.48,
+        "approximate": false
+      },
+      "288": {
+        "text": "c = 4.76",
+        "c": 4.76,
+        "approximate": false
+      },
+      "289": {
+        "text": "c = 5.04",
+        "c": 5.04,
+        "approximate": false
+      },
+      "290": {
+        "text": "c = 5.32",
+        "c": 5.32,
+        "approximate": false
+      },
+      "291": {
+        "text": "c = 5.6",
+        "c": 5.6,
+        "approximate": false
+      },
+      "292": {
+        "text": "c = 5.88",
+        "c": 5.88,
+        "approximate": false
+      },
+      "293": {
+        "text": "c = 6.16",
+        "c": 6.16,
+        "approximate": false
+      },
+      "294": {
+        "text": "c = 6.44",
+        "c": 6.44,
+        "approximate": false
+      },
+      "295": {
+        "text": "c = 6.72",
+        "c": 6.72,
+        "approximate": false
+      },
+      "296": {
+        "text": "c = 7",
+        "c": 7.0,
+        "approximate": false
+      },
+      "297": {
+        "text": "c = 7.28",
+        "c": 7.28,
+        "approximate": false
+      },
+      "298": {
+        "text": "c = 1.96",
+        "c": 1.96,
+        "approximate": false
+      },
+      "299": {
+        "text": "c = 2.24",
+        "c": 2.24,
+        "approximate": false
+      },
+      "300": {
+        "text": "c = 2.52",
+        "c": 2.52,
+        "approximate": false
+      },
+      "301": {
+        "text": "c = 2.8",
+        "c": 2.8,
+        "approximate": false
+      },
+      "302": {
+        "text": "c = 3.08",
+        "c": 3.08,
+        "approximate": false
+      },
+      "303": {
+        "text": "c = 3.36",
+        "c": 3.36,
+        "approximate": false
+      },
+      "304": {
+        "text": "c = 3.64",
+        "c": 3.64,
+        "approximate": false
+      },
+      "305": {
+        "text": "c = 3.92",
+        "c": 3.92,
+        "approximate": false
+      },
+      "306": {
+        "text": "c = 4.2",
+        "c": 4.2,
+        "approximate": false
+      },
+      "307": {
+        "text": "c = 4.48",
+        "c": 4.48,
+        "approximate": false
+      },
+      "308": {
+        "text": "c = 4.76",
+        "c": 4.76,
+        "approximate": false
+      },
+      "309": {
+        "text": "c = 5.04",
+        "c": 5.04,
+        "approximate": false
+      },
+      "310": {
+        "text": "c = 5.32",
+        "c": 5.32,
+        "approximate": false
+      },
+      "311": {
+        "text": "c = 5.6",
+        "c": 5.6,
+        "approximate": false
+      }
+    },
+    "note": "标准行距0.28；同一横线的各段共享参数。"
+  },
+  "178": {
+    "records": {
+      "0": {
+        "text": "c = 0.28",
+        "c": 0.28,
+        "approximate": false
+      },
+      "1": {
+        "text": "c = 0.56",
+        "c": 0.56,
+        "approximate": false
+      },
+      "2": {
+        "text": "c = 0.84",
+        "c": 0.84,
+        "approximate": false
+      },
+      "3": {
+        "text": "c = 1.12",
+        "c": 1.12,
+        "approximate": false
+      },
+      "4": {
+        "text": "c = 1.4",
+        "c": 1.4,
+        "approximate": false
+      },
+      "5": {
+        "text": "c = 1.68",
+        "c": 1.68,
+        "approximate": false
+      },
+      "6": {
+        "text": "c = 1.96",
+        "c": 1.96,
+        "approximate": false
+      },
+      "7": {
+        "text": "c = 2.24",
+        "c": 2.24,
+        "approximate": false
+      },
+      "8": {
+        "text": "c = 2.52",
+        "c": 2.52,
+        "approximate": false
+      },
+      "9": {
+        "text": "c = 2.8",
+        "c": 2.8,
+        "approximate": false
+      },
+      "10": {
+        "text": "c = 3.08",
+        "c": 3.08,
+        "approximate": false
+      },
+      "11": {
+        "text": "c = 3.36",
+        "c": 3.36,
+        "approximate": false
+      },
+      "12": {
+        "text": "c = 3.64",
+        "c": 3.64,
+        "approximate": false
+      },
+      "13": {
+        "text": "c = 3.92",
+        "c": 3.92,
+        "approximate": false
+      },
+      "14": {
+        "text": "c = 4.2",
+        "c": 4.2,
+        "approximate": false
+      },
+      "15": {
+        "text": "c = 4.48",
+        "c": 4.48,
+        "approximate": false
+      },
+      "16": {
+        "text": "c = 4.76",
+        "c": 4.76,
+        "approximate": false
+      },
+      "17": {
+        "text": "c = 5.04",
+        "c": 5.04,
+        "approximate": false
+      },
+      "18": {
+        "text": "c = 5.32",
+        "c": 5.32,
+        "approximate": false
+      },
+      "19": {
+        "text": "c = 5.6",
+        "c": 5.6,
+        "approximate": false
+      },
+      "20": {
+        "text": "c = 5.88",
+        "c": 5.88,
+        "approximate": false
+      },
+      "21": {
+        "text": "c = 6.16",
+        "c": 6.16,
+        "approximate": false
+      },
+      "22": {
+        "text": "c = 6.44",
+        "c": 6.44,
+        "approximate": false
+      },
+      "23": {
+        "text": "c = 6.72",
+        "c": 6.72,
+        "approximate": false
+      },
+      "24": {
+        "text": "c = 7",
+        "c": 7.0,
+        "approximate": false
+      },
+      "25": {
+        "text": "c = 7.28",
+        "c": 7.28,
+        "approximate": false
+      },
+      "26": {
+        "text": "c = 0.28",
+        "c": 0.28,
+        "approximate": false
+      },
+      "27": {
+        "text": "c = 0.56",
+        "c": 0.56,
+        "approximate": false
+      },
+      "28": {
+        "text": "c = 0.84",
+        "c": 0.84,
+        "approximate": false
+      },
+      "29": {
+        "text": "c = 1.12",
+        "c": 1.12,
+        "approximate": false
+      },
+      "30": {
+        "text": "c = 1.4",
+        "c": 1.4,
+        "approximate": false
+      },
+      "31": {
+        "text": "c = 1.68",
+        "c": 1.68,
+        "approximate": false
+      },
+      "32": {
+        "text": "c = 1.96",
+        "c": 1.96,
+        "approximate": false
+      },
+      "33": {
+        "text": "c = 2.24",
+        "c": 2.24,
+        "approximate": false
+      },
+      "34": {
+        "text": "c = 2.52",
+        "c": 2.52,
+        "approximate": false
+      },
+      "35": {
+        "text": "c = 2.8",
+        "c": 2.8,
+        "approximate": false
+      },
+      "36": {
+        "text": "c = 3.08",
+        "c": 3.08,
+        "approximate": false
+      },
+      "37": {
+        "text": "c = 3.36",
+        "c": 3.36,
+        "approximate": false
+      },
+      "38": {
+        "text": "c = 3.64",
+        "c": 3.64,
+        "approximate": false
+      },
+      "39": {
+        "text": "c = 3.92",
+        "c": 3.92,
+        "approximate": false
+      },
+      "40": {
+        "text": "c = 4.2",
+        "c": 4.2,
+        "approximate": false
+      },
+      "41": {
+        "text": "c = 4.48",
+        "c": 4.48,
+        "approximate": false
+      },
+      "42": {
+        "text": "c = 4.76",
+        "c": 4.76,
+        "approximate": false
+      },
+      "43": {
+        "text": "c = 5.04",
+        "c": 5.04,
+        "approximate": false
+      },
+      "44": {
+        "text": "c = 5.32",
+        "c": 5.32,
+        "approximate": false
+      },
+      "45": {
+        "text": "c = 5.6",
+        "c": 5.6,
+        "approximate": false
+      },
+      "46": {
+        "text": "c = 5.88",
+        "c": 5.88,
+        "approximate": false
+      },
+      "47": {
+        "text": "c = 6.16",
+        "c": 6.16,
+        "approximate": false
+      },
+      "48": {
+        "text": "c = 6.44",
+        "c": 6.44,
+        "approximate": false
+      },
+      "49": {
+        "text": "c = 6.72",
+        "c": 6.72,
+        "approximate": false
+      },
+      "50": {
+        "text": "c = 7",
+        "c": 7.0,
+        "approximate": false
+      },
+      "51": {
+        "text": "c = 7.28",
+        "c": 7.28,
+        "approximate": false
+      }
+    },
+    "note": "两组各26线段共享端点(-1,c)，其高度从底部按标准0.28间隔递增。"
+  },
+  "180": {
+    "records": {
+      "0": {
+        "text": "c ≈ 0.25",
+        "c": 0.25,
+        "approximate": true
+      },
+      "1": {
+        "text": "c ≈ 0.3",
+        "c": 0.3,
+        "approximate": true
+      },
+      "2": {
+        "text": "c ≈ 0.35",
+        "c": 0.35,
+        "approximate": true
+      },
+      "3": {
+        "text": "c ≈ 0.4",
+        "c": 0.4,
+        "approximate": true
+      },
+      "4": {
+        "text": "c ≈ 0.45",
+        "c": 0.45,
+        "approximate": true
+      },
+      "5": {
+        "text": "c ≈ 0.5",
+        "c": 0.5,
+        "approximate": true
+      },
+      "6": {
+        "text": "c ≈ 0.55",
+        "c": 0.55,
+        "approximate": true
+      },
+      "7": {
+        "text": "c ≈ 0.6",
+        "c": 0.6,
+        "approximate": true
+      },
+      "8": {
+        "text": "c ≈ 0.65",
+        "c": 0.65,
+        "approximate": true
+      },
+      "9": {
+        "text": "c ≈ 0.7",
+        "c": 0.7,
+        "approximate": true
+      },
+      "10": {
+        "text": "c ≈ 0.75",
+        "c": 0.75,
+        "approximate": true
+      },
+      "11": {
+        "text": "c ≈ 0.8",
+        "c": 0.8,
+        "approximate": true
+      },
+      "12": {
+        "text": "c ≈ 0.85",
+        "c": 0.85,
+        "approximate": true
+      },
+      "13": {
+        "text": "c ≈ 0.9",
+        "c": 0.9,
+        "approximate": true
+      },
+      "14": {
+        "text": "c ≈ 0.95",
+        "c": 0.95,
+        "approximate": true
+      },
+      "15": {
+        "text": "c ≈ 1",
+        "c": 1.0,
+        "approximate": true
+      },
+      "16": {
+        "text": "c ≈ 1.05",
+        "c": 1.05,
+        "approximate": true
+      },
+      "17": {
+        "text": "c ≈ 1.1",
+        "c": 1.1,
+        "approximate": true
+      },
+      "18": {
+        "text": "c ≈ 1.15",
+        "c": 1.15,
+        "approximate": true
+      },
+      "19": {
+        "text": "c ≈ 1.2",
+        "c": 1.2,
+        "approximate": true
+      },
+      "20": {
+        "text": "c ≈ 1.25",
+        "c": 1.25,
+        "approximate": true
+      },
+      "21": {
+        "text": "c ≈ 1.3",
+        "c": 1.3,
+        "approximate": true
+      },
+      "22": {
+        "text": "c ≈ 1.35",
+        "c": 1.35,
+        "approximate": true
+      },
+      "23": {
+        "text": "c ≈ 1.4",
+        "c": 1.4,
+        "approximate": true
+      },
+      "24": {
+        "text": "c ≈ 1.45",
+        "c": 1.45,
+        "approximate": true
+      }
+    },
+    "note": "由每条直线的斜率-sec²(c)反解并检查截距次序；c=0.25,0.30,…,1.45 rad。"
+  },
+  "181": {
+    "records": {
+      "0": {
+        "text": "c ≈ 0.558",
+        "c": 0.557643,
+        "approximate": true
+      },
+      "1": {
+        "text": "c ≈ 0.836",
+        "c": 0.836491,
+        "approximate": true
+      },
+      "2": {
+        "text": "c ≈ 1.115",
+        "c": 1.115339,
+        "approximate": true
+      },
+      "3": {
+        "text": "c ≈ 1.394",
+        "c": 1.394187,
+        "approximate": true
+      },
+      "4": {
+        "text": "c ≈ 1.673",
+        "c": 1.673035,
+        "approximate": true
+      },
+      "5": {
+        "text": "c ≈ 1.952",
+        "c": 1.951883,
+        "approximate": true
+      },
+      "6": {
+        "text": "c ≈ 2.231",
+        "c": 2.230731,
+        "approximate": true
+      },
+      "7": {
+        "text": "c ≈ 2.51",
+        "c": 2.509579,
+        "approximate": true
+      },
+      "8": {
+        "text": "c ≈ 2.788",
+        "c": 2.788428,
+        "approximate": true
+      },
+      "9": {
+        "text": "c ≈ 3.067",
+        "c": 3.067276,
+        "approximate": true
+      },
+      "10": {
+        "text": "c ≈ 3.346",
+        "c": 3.346124,
+        "approximate": true
+      },
+      "11": {
+        "text": "c ≈ 3.625",
+        "c": 3.624972,
+        "approximate": true
+      },
+      "12": {
+        "text": "c ≈ 11.712",
+        "c": 11.711567,
+        "approximate": true
+      },
+      "13": {
+        "text": "c ≈ 11.99",
+        "c": 11.990415,
+        "approximate": true
+      },
+      "14": {
+        "text": "c ≈ 12.269",
+        "c": 12.269263,
+        "approximate": true
+      },
+      "15": {
+        "text": "c ≈ 12.548",
+        "c": 12.548112,
+        "approximate": true
+      },
+      "16": {
+        "text": "c ≈ 12.827",
+        "c": 12.82696,
+        "approximate": true
+      },
+      "17": {
+        "text": "c ≈ 13.106",
+        "c": 13.105808,
+        "approximate": true
+      },
+      "18": {
+        "text": "c ≈ 13.385",
+        "c": 13.384656,
+        "approximate": true
+      },
+      "19": {
+        "text": "c ≈ 13.664",
+        "c": 13.663504,
+        "approximate": true
+      },
+      "20": {
+        "text": "c ≈ 13.942",
+        "c": 13.942352,
+        "approximate": true
+      },
+      "21": {
+        "text": "c ≈ 14.221",
+        "c": 14.2212,
+        "approximate": true
+      },
+      "22": {
+        "text": "c ≈ 3.625",
+        "c": 3.624972,
+        "approximate": true
+      },
+      "23": {
+        "text": "c ≈ 3.625",
+        "c": 3.624972,
+        "approximate": true
+      },
+      "24": {
+        "text": "c ≈ 3.625",
+        "c": 3.624972,
+        "approximate": true
+      },
+      "25": {
+        "text": "c ≈ 3.904",
+        "c": 3.90382,
+        "approximate": true
+      },
+      "26": {
+        "text": "c ≈ 3.904",
+        "c": 3.90382,
+        "approximate": true
+      },
+      "27": {
+        "text": "c ≈ 3.904",
+        "c": 3.90382,
+        "approximate": true
+      },
+      "28": {
+        "text": "c ≈ 4.183",
+        "c": 4.182668,
+        "approximate": true
+      },
+      "29": {
+        "text": "c ≈ 4.183",
+        "c": 4.182668,
+        "approximate": true
+      },
+      "30": {
+        "text": "c ≈ 4.183",
+        "c": 4.182668,
+        "approximate": true
+      },
+      "31": {
+        "text": "c ≈ 4.462",
+        "c": 4.461516,
+        "approximate": true
+      },
+      "32": {
+        "text": "c ≈ 4.462",
+        "c": 4.461516,
+        "approximate": true
+      },
+      "33": {
+        "text": "c ≈ 4.462",
+        "c": 4.461516,
+        "approximate": true
+      },
+      "34": {
+        "text": "c ≈ 4.74",
+        "c": 4.740364,
+        "approximate": true
+      },
+      "35": {
+        "text": "c ≈ 4.74",
+        "c": 4.740364,
+        "approximate": true
+      },
+      "36": {
+        "text": "c ≈ 4.74",
+        "c": 4.740364,
+        "approximate": true
+      },
+      "37": {
+        "text": "c ≈ 5.019",
+        "c": 5.019212,
+        "approximate": true
+      },
+      "38": {
+        "text": "c ≈ 5.019",
+        "c": 5.019212,
+        "approximate": true
+      },
+      "39": {
+        "text": "c ≈ 5.019",
+        "c": 5.019212,
+        "approximate": true
+      },
+      "40": {
+        "text": "c ≈ 5.298",
+        "c": 5.298061,
+        "approximate": true
+      },
+      "41": {
+        "text": "c ≈ 5.298",
+        "c": 5.298061,
+        "approximate": true
+      },
+      "42": {
+        "text": "c ≈ 5.298",
+        "c": 5.298061,
+        "approximate": true
+      },
+      "43": {
+        "text": "c ≈ 5.577",
+        "c": 5.576909,
+        "approximate": true
+      },
+      "44": {
+        "text": "c ≈ 5.577",
+        "c": 5.576909,
+        "approximate": true
+      },
+      "45": {
+        "text": "c ≈ 5.577",
+        "c": 5.576909,
+        "approximate": true
+      },
+      "46": {
+        "text": "c ≈ 5.856",
+        "c": 5.855757,
+        "approximate": true
+      },
+      "47": {
+        "text": "c ≈ 5.856",
+        "c": 5.855757,
+        "approximate": true
+      },
+      "48": {
+        "text": "c ≈ 5.856",
+        "c": 5.855757,
+        "approximate": true
+      },
+      "49": {
+        "text": "c ≈ 6.135",
+        "c": 6.134605,
+        "approximate": true
+      },
+      "50": {
+        "text": "c ≈ 6.135",
+        "c": 6.134605,
+        "approximate": true
+      },
+      "51": {
+        "text": "c ≈ 6.135",
+        "c": 6.134605,
+        "approximate": true
+      },
+      "52": {
+        "text": "c ≈ 6.413",
+        "c": 6.413453,
+        "approximate": true
+      },
+      "53": {
+        "text": "c ≈ 6.413",
+        "c": 6.413453,
+        "approximate": true
+      },
+      "54": {
+        "text": "c ≈ 6.413",
+        "c": 6.413453,
+        "approximate": true
+      },
+      "55": {
+        "text": "c ≈ 6.692",
+        "c": 6.692301,
+        "approximate": true
+      },
+      "56": {
+        "text": "c ≈ 6.692",
+        "c": 6.692301,
+        "approximate": true
+      },
+      "57": {
+        "text": "c ≈ 6.692",
+        "c": 6.692301,
+        "approximate": true
+      },
+      "58": {
+        "text": "c ≈ 6.971",
+        "c": 6.971149,
+        "approximate": true
+      },
+      "59": {
+        "text": "c ≈ 6.971",
+        "c": 6.971149,
+        "approximate": true
+      },
+      "60": {
+        "text": "c ≈ 6.971",
+        "c": 6.971149,
+        "approximate": true
+      },
+      "61": {
+        "text": "c ≈ 7.25",
+        "c": 7.249997,
+        "approximate": true
+      },
+      "62": {
+        "text": "c ≈ 7.25",
+        "c": 7.249997,
+        "approximate": true
+      },
+      "63": {
+        "text": "c ≈ 7.25",
+        "c": 7.249997,
+        "approximate": true
+      },
+      "64": {
+        "text": "c ≈ 7.529",
+        "c": 7.528845,
+        "approximate": true
+      },
+      "65": {
+        "text": "c ≈ 7.529",
+        "c": 7.528845,
+        "approximate": true
+      },
+      "66": {
+        "text": "c ≈ 7.529",
+        "c": 7.528845,
+        "approximate": true
+      },
+      "67": {
+        "text": "c ≈ 7.808",
+        "c": 7.807694,
+        "approximate": true
+      },
+      "68": {
+        "text": "c ≈ 7.808",
+        "c": 7.807694,
+        "approximate": true
+      },
+      "69": {
+        "text": "c ≈ 7.808",
+        "c": 7.807694,
+        "approximate": true
+      },
+      "70": {
+        "text": "c ≈ 8.087",
+        "c": 8.086542,
+        "approximate": true
+      },
+      "71": {
+        "text": "c ≈ 8.087",
+        "c": 8.086542,
+        "approximate": true
+      },
+      "72": {
+        "text": "c ≈ 8.087",
+        "c": 8.086542,
+        "approximate": true
+      },
+      "73": {
+        "text": "c ≈ 8.365",
+        "c": 8.36539,
+        "approximate": true
+      },
+      "74": {
+        "text": "c ≈ 8.365",
+        "c": 8.36539,
+        "approximate": true
+      },
+      "75": {
+        "text": "c ≈ 8.365",
+        "c": 8.36539,
+        "approximate": true
+      },
+      "76": {
+        "text": "c ≈ 8.644",
+        "c": 8.644238,
+        "approximate": true
+      },
+      "77": {
+        "text": "c ≈ 8.644",
+        "c": 8.644238,
+        "approximate": true
+      },
+      "78": {
+        "text": "c ≈ 8.644",
+        "c": 8.644238,
+        "approximate": true
+      },
+      "79": {
+        "text": "c ≈ 8.923",
+        "c": 8.923086,
+        "approximate": true
+      },
+      "80": {
+        "text": "c ≈ 8.923",
+        "c": 8.923086,
+        "approximate": true
+      },
+      "81": {
+        "text": "c ≈ 8.923",
+        "c": 8.923086,
+        "approximate": true
+      },
+      "82": {
+        "text": "c ≈ 9.202",
+        "c": 9.201934,
+        "approximate": true
+      },
+      "83": {
+        "text": "c ≈ 9.202",
+        "c": 9.201934,
+        "approximate": true
+      },
+      "84": {
+        "text": "c ≈ 9.202",
+        "c": 9.201934,
+        "approximate": true
+      },
+      "85": {
+        "text": "c ≈ 9.481",
+        "c": 9.480782,
+        "approximate": true
+      },
+      "86": {
+        "text": "c ≈ 9.481",
+        "c": 9.480782,
+        "approximate": true
+      },
+      "87": {
+        "text": "c ≈ 9.481",
+        "c": 9.480782,
+        "approximate": true
+      },
+      "88": {
+        "text": "c ≈ 9.76",
+        "c": 9.75963,
+        "approximate": true
+      },
+      "89": {
+        "text": "c ≈ 9.76",
+        "c": 9.75963,
+        "approximate": true
+      },
+      "90": {
+        "text": "c ≈ 9.76",
+        "c": 9.75963,
+        "approximate": true
+      },
+      "91": {
+        "text": "c ≈ 10.038",
+        "c": 10.038479,
+        "approximate": true
+      },
+      "92": {
+        "text": "c ≈ 10.038",
+        "c": 10.038479,
+        "approximate": true
+      },
+      "93": {
+        "text": "c ≈ 10.038",
+        "c": 10.038479,
+        "approximate": true
+      },
+      "94": {
+        "text": "c ≈ 10.317",
+        "c": 10.317327,
+        "approximate": true
+      },
+      "95": {
+        "text": "c ≈ 10.317",
+        "c": 10.317327,
+        "approximate": true
+      },
+      "96": {
+        "text": "c ≈ 10.317",
+        "c": 10.317327,
+        "approximate": true
+      },
+      "97": {
+        "text": "c ≈ 10.596",
+        "c": 10.596175,
+        "approximate": true
+      },
+      "98": {
+        "text": "c ≈ 10.596",
+        "c": 10.596175,
+        "approximate": true
+      },
+      "99": {
+        "text": "c ≈ 10.596",
+        "c": 10.596175,
+        "approximate": true
+      },
+      "100": {
+        "text": "c ≈ 10.875",
+        "c": 10.875023,
+        "approximate": true
+      },
+      "101": {
+        "text": "c ≈ 10.875",
+        "c": 10.875023,
+        "approximate": true
+      },
+      "102": {
+        "text": "c ≈ 10.875",
+        "c": 10.875023,
+        "approximate": true
+      },
+      "103": {
+        "text": "c ≈ 11.154",
+        "c": 11.153871,
+        "approximate": true
+      },
+      "104": {
+        "text": "c ≈ 11.154",
+        "c": 11.153871,
+        "approximate": true
+      },
+      "105": {
+        "text": "c ≈ 11.154",
+        "c": 11.153871,
+        "approximate": true
+      },
+      "106": {
+        "text": "c ≈ 11.433",
+        "c": 11.432719,
+        "approximate": true
+      },
+      "107": {
+        "text": "c ≈ 11.433",
+        "c": 11.432719,
+        "approximate": true
+      },
+      "108": {
+        "text": "c ≈ 11.433",
+        "c": 11.432719,
+        "approximate": true
+      }
+    },
+    "note": "以书中半径2、圆心纵坐标7.55/2的圆校准原图，再由c=2y反解；值为几何反解近似。"
+  },
+  "183": {
+    "records": {
+      "0": {
+        "text": "c ≈ -2",
+        "c": -2,
+        "approximate": true
+      },
+      "1": {
+        "text": "c ≈ -1",
+        "c": -1,
+        "approximate": true
+      },
+      "2": {
+        "text": "c ≈ 0",
+        "c": 0,
+        "approximate": true
+      },
+      "3": {
+        "text": "c ≈ 1",
+        "c": 1,
+        "approximate": true
+      },
+      "4": {
+        "text": "c ≈ 2",
+        "c": 2,
+        "approximate": true
+      },
+      "5": {
+        "text": "c ≈ 3",
+        "c": 3,
+        "approximate": true
+      },
+      "6": {
+        "text": "c ≈ 4",
+        "c": 4,
+        "approximate": true
+      },
+      "7": {
+        "text": "c ≈ 5",
+        "c": 5,
+        "approximate": true
+      },
+      "8": {
+        "text": "c ≈ 6",
+        "c": 6,
+        "approximate": true
+      },
+      "9": {
+        "text": "c ≈ 7",
+        "c": 7,
+        "approximate": true
+      },
+      "10": {
+        "text": "c ≈ 8",
+        "c": 8,
+        "approximate": true
+      },
+      "11": {
+        "text": "c ≈ 9",
+        "c": 9,
+        "approximate": true
+      },
+      "12": {
+        "text": "c ≈ 10",
+        "c": 10,
+        "approximate": true
+      },
+      "13": {
+        "text": "c ≈ 11",
+        "c": 11,
+        "approximate": true
+      },
+      "14": {
+        "text": "c ≈ 12",
+        "c": 12,
+        "approximate": true
+      },
+      "15": {
+        "text": "c ≈ 13",
+        "c": 13,
+        "approximate": true
+      },
+      "16": {
+        "text": "c ≈ 14",
+        "c": 14,
+        "approximate": true
+      },
+      "17": {
+        "text": "c ≈ 15",
+        "c": 15,
+        "approximate": true
+      },
+      "18": {
+        "text": "c ≈ 16",
+        "c": 16,
+        "approximate": true
+      },
+      "19": {
+        "text": "c ≈ 17",
+        "c": 17,
+        "approximate": true
+      },
+      "20": {
+        "text": "c ≈ 18",
+        "c": 18,
+        "approximate": true
+      },
+      "21": {
+        "text": "c ≈ 19",
+        "c": 19,
+        "approximate": true
+      },
+      "22": {
+        "text": "c ≈ 20",
+        "c": 20,
+        "approximate": true
+      },
+      "23": {
+        "text": "c ≈ 21",
+        "c": 21,
+        "approximate": true
+      },
+      "24": {
+        "text": "c ≈ 22",
+        "c": 22,
+        "approximate": true
+      }
+    },
+    "note": "由已给定参数式x=2.6+2.5sin(4arctan t)和y式反解；原图c=-2,-1,…,22。"
+  },
+  "187": {
+    "records": {
+      "0": {
+        "text": "c ≈ 0.29",
+        "c": 0.29,
+        "approximate": true
+      },
+      "1": {
+        "text": "c ≈ 0.58",
+        "c": 0.58,
+        "approximate": true
+      },
+      "2": {
+        "text": "c ≈ 0.87",
+        "c": 0.87,
+        "approximate": true
+      },
+      "3": {
+        "text": "c ≈ 1.16",
+        "c": 1.16,
+        "approximate": true
+      },
+      "4": {
+        "text": "c ≈ 1.45",
+        "c": 1.45,
+        "approximate": true
+      },
+      "5": {
+        "text": "c ≈ 1.74",
+        "c": 1.74,
+        "approximate": true
+      },
+      "6": {
+        "text": "c ≈ 2.03",
+        "c": 2.03,
+        "approximate": true
+      },
+      "7": {
+        "text": "c ≈ 2.32",
+        "c": 2.32,
+        "approximate": true
+      },
+      "8": {
+        "text": "c ≈ 2.61",
+        "c": 2.61,
+        "approximate": true
+      },
+      "9": {
+        "text": "c ≈ 2.9",
+        "c": 2.9,
+        "approximate": true
+      },
+      "10": {
+        "text": "c ≈ 3.19",
+        "c": 3.19,
+        "approximate": true
+      },
+      "11": {
+        "text": "c ≈ 3.48",
+        "c": 3.48,
+        "approximate": true
+      },
+      "12": {
+        "text": "c ≈ 3.77",
+        "c": 3.77,
+        "approximate": true
+      },
+      "13": {
+        "text": "c ≈ 4.06",
+        "c": 4.06,
+        "approximate": true
+      },
+      "14": {
+        "text": "c ≈ 4.35",
+        "c": 4.35,
+        "approximate": true
+      },
+      "15": {
+        "text": "c ≈ 4.64",
+        "c": 4.64,
+        "approximate": true
+      },
+      "16": {
+        "text": "c ≈ 4.93",
+        "c": 4.93,
+        "approximate": true
+      },
+      "17": {
+        "text": "c ≈ 5.22",
+        "c": 5.22,
+        "approximate": true
+      },
+      "18": {
+        "text": "c ≈ 5.51",
+        "c": 5.51,
+        "approximate": true
+      },
+      "19": {
+        "text": "c ≈ 5.8",
+        "c": 5.8,
+        "approximate": true
+      },
+      "20": {
+        "text": "c ≈ 6.09",
+        "c": 6.09,
+        "approximate": true
+      },
+      "21": {
+        "text": "c ≈ 6.38",
+        "c": 6.38,
+        "approximate": true
+      },
+      "22": {
+        "text": "c ≈ 6.67",
+        "c": 6.67,
+        "approximate": true
+      }
+    },
+    "note": "由对数曲线族共同拟合纵向标度及c步长；c≈0.29,0.58,…,6.67，拟合RMS<0.006原图点。"
+  },
+  "189": {
+    "records": {
+      "0": {
+        "text": "z = 0.25",
+        "z": 0.25
+      },
+      "1": {
+        "text": "z = 0.25",
+        "z": 0.25
+      },
+      "2": {
+        "text": "z = 0.25",
+        "z": 0.25
+      },
+      "3": {
+        "text": "z = 0.25",
+        "z": 0.25
+      },
+      "4": {
+        "text": "z = 0.25",
+        "z": 0.25
+      },
+      "5": {
+        "text": "z = 0.25",
+        "z": 0.25
+      },
+      "6": {
+        "text": "z = 0.5",
+        "z": 0.5
+      },
+      "7": {
+        "text": "z = 0.5",
+        "z": 0.5
+      },
+      "8": {
+        "text": "z = 0.5",
+        "z": 0.5
+      },
+      "9": {
+        "text": "z = 0.5",
+        "z": 0.5
+      },
+      "10": {
+        "text": "z = 0.5",
+        "z": 0.5
+      },
+      "11": {
+        "text": "z = 0.5",
+        "z": 0.5
+      },
+      "12": {
+        "text": "z = 0.75",
+        "z": 0.75
+      },
+      "13": {
+        "text": "z = 0.75",
+        "z": 0.75
+      },
+      "14": {
+        "text": "z = 0.75",
+        "z": 0.75
+      },
+      "15": {
+        "text": "z = 0.75",
+        "z": 0.75
+      },
+      "16": {
+        "text": "z = 0.75",
+        "z": 0.75
+      },
+      "17": {
+        "text": "z = 0.75",
+        "z": 0.75
+      },
+      "18": {
+        "text": "z = 0.75",
+        "z": 0.75
+      },
+      "19": {
+        "text": "z = 1",
+        "z": 1.0
+      },
+      "20": {
+        "text": "z = 1",
+        "z": 1.0
+      },
+      "21": {
+        "text": "z = 1",
+        "z": 1.0
+      },
+      "22": {
+        "text": "z = 1",
+        "z": 1.0
+      },
+      "23": {
+        "text": "z = 1",
+        "z": 1.0
+      },
+      "24": {
+        "text": "z = 1.25",
+        "z": 1.25
+      },
+      "25": {
+        "text": "z = 1.25",
+        "z": 1.25
+      },
+      "26": {
+        "text": "z = 1.25",
+        "z": 1.25
+      },
+      "27": {
+        "text": "z = 1.25",
+        "z": 1.25
+      },
+      "28": {
+        "text": "z = 1.25",
+        "z": 1.25
+      },
+      "29": {
+        "text": "z = 1.25",
+        "z": 1.25
+      },
+      "30": {
+        "text": "z = 1.25",
+        "z": 1.25
+      },
+      "31": {
+        "text": "z = 1.25",
+        "z": 1.25
+      },
+      "32": {
+        "text": "z = 1.5",
+        "z": 1.5
+      },
+      "33": {
+        "text": "z = 1.5",
+        "z": 1.5
+      },
+      "34": {
+        "text": "z = 1.5",
+        "z": 1.5
+      },
+      "35": {
+        "text": "z = 1.5",
+        "z": 1.5
+      },
+      "36": {
+        "text": "z = 1.5",
+        "z": 1.5
+      },
+      "37": {
+        "text": "z = 1.5",
+        "z": 1.5
+      },
+      "38": {
+        "text": "z = 1.5",
+        "z": 1.5
+      },
+      "39": {
+        "text": "z = 1.5",
+        "z": 1.5
+      },
+      "40": {
+        "text": "z = 1.75",
+        "z": 1.75
+      },
+      "41": {
+        "text": "z = 1.75",
+        "z": 1.75
+      },
+      "42": {
+        "text": "z = 1.75",
+        "z": 1.75
+      },
+      "43": {
+        "text": "z = 1.75",
+        "z": 1.75
+      },
+      "44": {
+        "text": "z = 1",
+        "z": 1.0
+      }
+    },
+    "note": "由π周期与原图点反算cos²x+sin²y；每段等高线保持同一z，包含黑色z=1辅助折线。"
+  },
+  "128": {
+    "records": {},
+    "unresolved": true,
+    "displayNote": "此页同时叠加多条不同线宽的横线，单个原图复合路径无法唯一对应一个c。",
+    "note": "此页同时叠加多条不同线宽的横线，单个原图复合路径无法唯一对应一个c。"
+  },
+  "133": {
+    "records": {},
+    "unresolved": true,
+    "displayNote": "本页部分横线已被版面截去，当前还不能可靠核定绝对c；螺线θ需单独反解。",
+    "note": "本页部分横线已被版面截去，当前还不能可靠核定绝对c；螺线θ需单独反解。"
+  },
+  "134": {
+    "records": {},
+    "unresolved": true,
+    "displayNote": "双支螺线的θ尚未核定。",
+    "note": "双支螺线的θ尚未核定。"
+  },
+  "136": {
+    "records": {},
+    "unresolved": true,
+    "displayNote": "此跨页玫瑰线的θ尚未核定。",
+    "note": "此跨页玫瑰线的θ尚未核定。"
+  },
+  "137": {
+    "records": {},
+    "unresolved": true,
+    "displayNote": "此跨页玫瑰线的θ尚未核定。",
+    "note": "此跨页玫瑰线的θ尚未核定。"
+  },
+  "143": {
+    "records": {},
+    "unresolved": true,
+    "displayNote": "此长极坐标曲线的θ尚未核定。",
+    "note": "此长极坐标曲线的θ尚未核定。"
+  },
+  "144": {
+    "records": {},
+    "unresolved": true,
+    "displayNote": "此极坐标曲线的θ尚未核定。",
+    "note": "此极坐标曲线的θ尚未核定。"
+  },
+  "146": {
+    "records": {},
+    "unresolved": true,
+    "displayNote": "此多曲线图案的θ尚未核定。",
+    "note": "此多曲线图案的θ尚未核定。"
+  },
+  "169": {
+    "records": {},
+    "unresolved": true,
+    "displayNote": "原图含大量相邻版面的复合路径，目前无法可靠标定每条正弦曲线的c。",
+    "note": "原图含大量相邻版面的复合路径，目前无法可靠标定每条正弦曲线的c。"
+  },
+  "174": {
+    "records": {},
+    "unresolved": true,
+    "displayNote": "图示端点与公式的坐标标度仍需核对，当前不填未经确认的c。",
+    "note": "图示端点与公式的坐标标度仍需核对，当前不填未经确认的c。"
+  },
+  "176": {
+    "records": {},
+    "unresolved": true,
+    "displayNote": "随机横竖线的坐标尚未核定；黑色横线固定y=7.25。",
+    "note": "随机横竖线的坐标尚未核定；黑色横线固定y=7.25。"
+  },
+  "179": {
+    "records": {},
+    "unresolved": true,
+    "displayNote": "已保留正确抛物线顺序；绝对c与原图坐标标度尚未可靠核定。",
+    "note": "已保留正确抛物线顺序；绝对c与原图坐标标度尚未可靠核定。"
+  },
+  "186": {
+    "records": {},
+    "unresolved": true,
+    "displayNote": "中央折点对应c；原图纵向缩放基准尚未核定，暂不填写绝对c。",
+    "note": "中央折点对应c；原图纵向缩放基准尚未核定，暂不填写绝对c。"
+  },
+  "188": {
+    "records": {},
+    "unresolved": true,
+    "displayNote": "本族曲线经过整体缩放，绝对c尚未可靠核定。",
+    "note": "本族曲线经过整体缩放，绝对c尚未可靠核定。"
+  }
+}

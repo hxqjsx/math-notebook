@@ -1,0 +1,53 @@
+name: Build and check
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+    concurrency:
+      group: pages-${{ github.ref }}
+      cancel-in-progress: false
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Build offline HTML and static website
+        run: python scripts/build.py
+      - name: Run the gallery checks
+        run: python scripts/check.py --skip-build
+      - name: Preserve built files for review
+        uses: actions/upload-artifact@v4
+        with:
+          name: math-notebook-html
+          path: dist/
+      - name: Preserve check logs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: math-notebook-checks
+          path: |
+            tmp/check-results.json
+            tmp/check-logs/
+      - name: Configure Pages
+        if: github.event_name != 'pull_request'
+        uses: actions/configure-pages@v5
+      - name: Upload website
+        if: github.event_name != 'pull_request'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist/
+      - name: Deploy website
+        if: github.event_name != 'pull_request'
+        uses: actions/deploy-pages@v4

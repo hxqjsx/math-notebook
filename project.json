@@ -1,0 +1,10 @@
+{
+  "name": "奇妙数学笔记本动态画廊",
+  "version": 24,
+  "release_date": "2026-11-14",
+  "offline_filename": "数学奇妙笔记本_全书动态版_离线_v24.html",
+  "canonical_filename": "数学奇妙笔记本_全书动态版_离线.html",
+  "build_base": "assets/build-base-v7.html",
+  "page_count": 174,
+  "chapter_count": 12
+}

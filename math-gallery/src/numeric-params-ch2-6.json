@@ -1,0 +1,6413 @@
+{
+  "24": {
+    "records": {
+      "0": {
+        "text": "c = 0.5 · 下半支",
+        "c": 0.5,
+        "approximate": false
+      },
+      "1": {
+        "text": "c = 0.5 · 上半支",
+        "c": 0.5,
+        "approximate": false
+      },
+      "2": {
+        "text": "c = 0.625 · 下半支",
+        "c": 0.625,
+        "approximate": false
+      },
+      "3": {
+        "text": "c = 0.625 · 上半支",
+        "c": 0.625,
+        "approximate": false
+      },
+      "4": {
+        "text": "c = 0.75 · 下半支",
+        "c": 0.75,
+        "approximate": false
+      },
+      "5": {
+        "text": "c = 0.75 · 上半支",
+        "c": 0.75,
+        "approximate": false
+      },
+      "6": {
+        "text": "c = 0.875 · 下半支",
+        "c": 0.875,
+        "approximate": false
+      },
+      "7": {
+        "text": "c = 0.875 · 上半支",
+        "c": 0.875,
+        "approximate": false
+      },
+      "8": {
+        "text": "c = 1 · 下半支",
+        "c": 1.0,
+        "approximate": false
+      },
+      "9": {
+        "text": "c = 1 · 上半支",
+        "c": 1.0,
+        "approximate": false
+      },
+      "10": {
+        "text": "c = 1.125 · 下半支",
+        "c": 1.125,
+        "approximate": false
+      },
+      "11": {
+        "text": "c = 1.125 · 上半支",
+        "c": 1.125,
+        "approximate": false
+      },
+      "12": {
+        "text": "c = 1.25 · 下半支",
+        "c": 1.25,
+        "approximate": false
+      },
+      "13": {
+        "text": "c = 1.25 · 上半支",
+        "c": 1.25,
+        "approximate": false
+      },
+      "14": {
+        "text": "c = 1.375 · 下半支",
+        "c": 1.375,
+        "approximate": false
+      },
+      "15": {
+        "text": "c = 1.375 · 上半支",
+        "c": 1.375,
+        "approximate": false
+      },
+      "16": {
+        "text": "c = 1.5 · 下半支",
+        "c": 1.5,
+        "approximate": false
+      },
+      "17": {
+        "text": "c = 1.5 · 上半支",
+        "c": 1.5,
+        "approximate": false
+      },
+      "18": {
+        "text": "c = 1.625 · 下半支",
+        "c": 1.625,
+        "approximate": false
+      },
+      "19": {
+        "text": "c = 1.625 · 上半支",
+        "c": 1.625,
+        "approximate": false
+      },
+      "20": {
+        "text": "c = 1.75 · 下半支",
+        "c": 1.75,
+        "approximate": false
+      },
+      "21": {
+        "text": "c = 1.75 · 上半支",
+        "c": 1.75,
+        "approximate": false
+      },
+      "22": {
+        "text": "c = 1.875 · 下半支",
+        "c": 1.875,
+        "approximate": false
+      },
+      "23": {
+        "text": "c = 1.875 · 上半支",
+        "c": 1.875,
+        "approximate": false
+      },
+      "24": {
+        "text": "c = 2 · 下半支",
+        "c": 2.0,
+        "approximate": false
+      },
+      "25": {
+        "text": "c = 2 · 上半支",
+        "c": 2.0,
+        "approximate": false
+      }
+    },
+    "basis": "由对称原点及端点 x=±c 校准；13个 c，各有上下两支。"
+  },
+  "27": {
+    "records": {
+      "0": {
+        "text": "a ≈ 0.07692 · c ≈ 0.25",
+        "a": 0.076923077,
+        "c": 0.25,
+        "approximate": true
+      },
+      "1": {
+        "text": "a ≈ 0.15385 · c ≈ 0.5",
+        "a": 0.153846154,
+        "c": 0.5,
+        "approximate": true
+      },
+      "2": {
+        "text": "a ≈ 0.23077 · c ≈ 0.75",
+        "a": 0.230769231,
+        "c": 0.75,
+        "approximate": true
+      },
+      "3": {
+        "text": "a ≈ 0.30769 · c ≈ 1",
+        "a": 0.307692308,
+        "c": 1.0,
+        "approximate": true
+      },
+      "4": {
+        "text": "a ≈ 0.38462 · c ≈ 1.25",
+        "a": 0.384615385,
+        "c": 1.25,
+        "approximate": true
+      },
+      "5": {
+        "text": "a ≈ 0.46154 · c ≈ 1.5",
+        "a": 0.461538462,
+        "c": 1.5,
+        "approximate": true
+      },
+      "6": {
+        "text": "a ≈ 0.53846 · c ≈ 1.75",
+        "a": 0.538461538,
+        "c": 1.75,
+        "approximate": true
+      },
+      "7": {
+        "text": "a ≈ 0.61538 · c ≈ 2",
+        "a": 0.615384615,
+        "c": 2.0,
+        "approximate": true
+      },
+      "8": {
+        "text": "a ≈ 0.69231 · c ≈ 2.25",
+        "a": 0.692307692,
+        "c": 2.25,
+        "approximate": true
+      },
+      "9": {
+        "text": "a ≈ 0.76923 · c ≈ 2.5",
+        "a": 0.769230769,
+        "c": 2.5,
+        "approximate": true
+      },
+      "10": {
+        "text": "a ≈ 0.84615 · c ≈ 2.75",
+        "a": 0.846153846,
+        "c": 2.75,
+        "approximate": true
+      },
+      "11": {
+        "text": "a ≈ 0.92308 · c ≈ 3",
+        "a": 0.923076923,
+        "c": 3.0,
+        "approximate": true
+      },
+      "12": {
+        "text": "a ≈ 1 · c ≈ 3.25",
+        "a": 1.0,
+        "c": 3.25,
+        "approximate": true
+      },
+      "13": {
+        "text": "a ≈ 1.07692 · c ≈ 3.5",
+        "a": 1.076923077,
+        "c": 3.5,
+        "approximate": true
+      },
+      "14": {
+        "text": "a ≈ 1.15385 · c ≈ 3.75",
+        "a": 1.153846154,
+        "c": 3.75,
+        "approximate": true
+      },
+      "15": {
+        "text": "a ≈ 1.23077 · c ≈ 4",
+        "a": 1.230769231,
+        "c": 4.0,
+        "approximate": true
+      },
+      "16": {
+        "text": "a ≈ 1.30769 · c ≈ 4.25",
+        "a": 1.307692308,
+        "c": 4.25,
+        "approximate": true
+      },
+      "17": {
+        "text": "a ≈ 1.38462 · c ≈ 4.5",
+        "a": 1.384615385,
+        "c": 4.5,
+        "approximate": true
+      },
+      "18": {
+        "text": "a ≈ 1.46154 · c ≈ 4.75",
+        "a": 1.461538462,
+        "c": 4.75,
+        "approximate": true
+      },
+      "19": {
+        "text": "a ≈ 1.53846 · c ≈ 5",
+        "a": 1.538461538,
+        "c": 5.0,
+        "approximate": true
+      },
+      "20": {
+        "text": "a ≈ 1.61538 · c ≈ 5.25",
+        "a": 1.615384615,
+        "c": 5.25,
+        "approximate": true
+      },
+      "21": {
+        "text": "a ≈ 1.69231 · c ≈ 5.5",
+        "a": 1.692307692,
+        "c": 5.5,
+        "approximate": true
+      },
+      "22": {
+        "text": "a ≈ 1.76923 · c ≈ 5.75",
+        "a": 1.769230769,
+        "c": 5.75,
+        "approximate": true
+      },
+      "23": {
+        "text": "a ≈ 1.84615 · c ≈ 6",
+        "a": 1.846153846,
+        "c": 6.0,
+        "approximate": true
+      },
+      "24": {
+        "text": "a ≈ 1.92308 · c ≈ 6.25",
+        "a": 1.923076923,
+        "c": 6.25,
+        "approximate": true
+      },
+      "25": {
+        "text": "a ≈ 2 · c ≈ 6.5",
+        "a": 2.0,
+        "c": 6.5,
+        "approximate": true
+      }
+    },
+    "basis": "原图二次拟合：a=k/13，c=k/4，k=1…26；坐标原点由原书页框确定。"
+  },
+  "31": {
+    "records": {
+      "0": {
+        "text": "c = 0 · y = −x² − c",
+        "c": 0.0,
+        "approximate": false
+      },
+      "1": {
+        "text": "c = 0 · y = x² + c",
+        "c": 0.0,
+        "approximate": false
+      },
+      "2": {
+        "text": "c = 0.28 · y = −x² − c",
+        "c": 0.28,
+        "approximate": false
+      },
+      "3": {
+        "text": "c = 0.28 · y = x² + c",
+        "c": 0.28,
+        "approximate": false
+      },
+      "4": {
+        "text": "c = 0.56 · y = −x² − c",
+        "c": 0.56,
+        "approximate": false
+      },
+      "5": {
+        "text": "c = 0.56 · y = x² + c",
+        "c": 0.56,
+        "approximate": false
+      },
+      "6": {
+        "text": "c = 0.84 · y = −x² − c",
+        "c": 0.84,
+        "approximate": false
+      },
+      "7": {
+        "text": "c = 0.84 · y = x² + c",
+        "c": 0.84,
+        "approximate": false
+      },
+      "8": {
+        "text": "c = 1.12 · y = −x² − c",
+        "c": 1.12,
+        "approximate": false
+      },
+      "9": {
+        "text": "c = 1.12 · y = x² + c",
+        "c": 1.12,
+        "approximate": false
+      },
+      "10": {
+        "text": "c = 1.4 · y = −x² − c",
+        "c": 1.4,
+        "approximate": false
+      },
+      "11": {
+        "text": "c = 1.4 · y = x² + c",
+        "c": 1.4,
+        "approximate": false
+      },
+      "12": {
+        "text": "c = 1.68 · y = −x² − c",
+        "c": 1.68,
+        "approximate": false
+      },
+      "13": {
+        "text": "c = 1.68 · y = x² + c",
+        "c": 1.68,
+        "approximate": false
+      },
+      "14": {
+        "text": "c = 1.96 · y = −x² − c",
+        "c": 1.96,
+        "approximate": false
+      },
+      "15": {
+        "text": "c = 1.96 · y = x² + c",
+        "c": 1.96,
+        "approximate": false
+      },
+      "16": {
+        "text": "c = 2.24 · y = −x² − c",
+        "c": 2.24,
+        "approximate": false
+      },
+      "17": {
+        "text": "c = 2.24 · y = x² + c",
+        "c": 2.24,
+        "approximate": false
+      },
+      "18": {
+        "text": "c = 2.52 · y = −x² − c",
+        "c": 2.52,
+        "approximate": false
+      },
+      "19": {
+        "text": "c = 2.52 · y = x² + c",
+        "c": 2.52,
+        "approximate": false
+      },
+      "20": {
+        "text": "c = 2.8 · y = −x² − c",
+        "c": 2.8,
+        "approximate": false
+      },
+      "21": {
+        "text": "c = 2.8 · y = x² + c",
+        "c": 2.8,
+        "approximate": false
+      },
+      "22": {
+        "text": "c = 3.08 · y = −x² − c",
+        "c": 3.08,
+        "approximate": false
+      },
+      "23": {
+        "text": "c = 3.08 · y = x² + c",
+        "c": 3.08,
+        "approximate": false
+      },
+      "24": {
+        "text": "c = 3.36 · y = −x² − c",
+        "c": 3.36,
+        "approximate": false
+      },
+      "25": {
+        "text": "c = 3.36 · y = x² + c",
+        "c": 3.36,
+        "approximate": false
+      }
+    },
+    "basis": "以中央黑色横线为 c=0，按标准行高0.28逐次增加；每个c对应上下两支。"
+  },
+  "63": {
+    "records": {
+      "0": {
+        "text": "c = 0.28 · y = c",
+        "c": 0.28,
+        "approximate": false
+      },
+      "1": {
+        "text": "c = 0.56 · y = c",
+        "c": 0.56,
+        "approximate": false
+      },
+      "2": {
+        "text": "c = 0.84 · y = c",
+        "c": 0.84,
+        "approximate": false
+      },
+      "3": {
+        "text": "c = 1.12 · y = c",
+        "c": 1.12,
+        "approximate": false
+      },
+      "4": {
+        "text": "c = 1.4 · y = c",
+        "c": 1.4,
+        "approximate": false
+      },
+      "5": {
+        "text": "c = 1.68 · y = c",
+        "c": 1.68,
+        "approximate": false
+      },
+      "6": {
+        "text": "c = 1.96 · y = c",
+        "c": 1.96,
+        "approximate": false
+      },
+      "7": {
+        "text": "c = 2.24 · y = c",
+        "c": 2.24,
+        "approximate": false
+      },
+      "8": {
+        "text": "c = 2.52 · y = c",
+        "c": 2.52,
+        "approximate": false
+      },
+      "9": {
+        "text": "c = 2.8 · y = c",
+        "c": 2.8,
+        "approximate": false
+      },
+      "10": {
+        "text": "c = 3.08 · y = c",
+        "c": 3.08,
+        "approximate": false
+      },
+      "11": {
+        "text": "c = 3.36 · y = c",
+        "c": 3.36,
+        "approximate": false
+      },
+      "12": {
+        "text": "c = 3.64 · y = c",
+        "c": 3.64,
+        "approximate": false
+      },
+      "13": {
+        "text": "c = 3.92 · y = c",
+        "c": 3.92,
+        "approximate": false
+      },
+      "14": {
+        "text": "c = 4.2 · y = c",
+        "c": 4.2,
+        "approximate": false
+      },
+      "15": {
+        "text": "c = 4.48 · y = c",
+        "c": 4.48,
+        "approximate": false
+      },
+      "16": {
+        "text": "c = 4.76 · y = c",
+        "c": 4.76,
+        "approximate": false
+      },
+      "17": {
+        "text": "c = 5.04 · y = c",
+        "c": 5.04,
+        "approximate": false
+      },
+      "18": {
+        "text": "c = 5.32 · y = c",
+        "c": 5.32,
+        "approximate": false
+      },
+      "19": {
+        "text": "c = 5.6 · y = c",
+        "c": 5.6,
+        "approximate": false
+      },
+      "20": {
+        "text": "c = 5.88 · y = c",
+        "c": 5.88,
+        "approximate": false
+      },
+      "21": {
+        "text": "c = 6.16 · y = c",
+        "c": 6.16,
+        "approximate": false
+      },
+      "22": {
+        "text": "c = 6.44 · y = c",
+        "c": 6.44,
+        "approximate": false
+      },
+      "23": {
+        "text": "c = 6.72 · y = c",
+        "c": 6.72,
+        "approximate": false
+      },
+      "24": {
+        "text": "c = 7 · y = c",
+        "c": 7.0,
+        "approximate": false
+      },
+      "25": {
+        "text": "c = 7.28 · y = c",
+        "c": 7.28,
+        "approximate": false
+      }
+    },
+    "basis": "原书p195–196标准横线：c=0.28,0.56,…,7.28；依据各条横线实际高度对应档位。"
+  },
+  "65": {
+    "records": {
+      "0": {
+        "text": "c = 0.28 · y = c",
+        "c": 0.28,
+        "approximate": false
+      },
+      "1": {
+        "text": "c = 0.56 · y = c",
+        "c": 0.56,
+        "approximate": false
+      },
+      "2": {
+        "text": "c = 0.84 · y = c",
+        "c": 0.84,
+        "approximate": false
+      },
+      "3": {
+        "text": "c = 1.12 · y = c",
+        "c": 1.12,
+        "approximate": false
+      },
+      "4": {
+        "text": "c = 1.4 · y = c",
+        "c": 1.4,
+        "approximate": false
+      },
+      "5": {
+        "text": "c = 1.68 · y = c",
+        "c": 1.68,
+        "approximate": false
+      },
+      "6": {
+        "text": "c = 1.96 · y = c",
+        "c": 1.96,
+        "approximate": false
+      },
+      "7": {
+        "text": "c = 2.24 · y = c",
+        "c": 2.24,
+        "approximate": false
+      },
+      "8": {
+        "text": "c = 2.52 · y = c",
+        "c": 2.52,
+        "approximate": false
+      },
+      "9": {
+        "text": "c = 2.8 · y = c",
+        "c": 2.8,
+        "approximate": false
+      },
+      "10": {
+        "text": "c = 3.08 · y = c",
+        "c": 3.08,
+        "approximate": false
+      },
+      "11": {
+        "text": "c = 3.36 · y = c",
+        "c": 3.36,
+        "approximate": false
+      },
+      "12": {
+        "text": "c = 3.64 · y = c",
+        "c": 3.64,
+        "approximate": false
+      },
+      "16": {
+        "text": "c = 4.2 · y = c",
+        "c": 4.2,
+        "approximate": false
+      },
+      "17": {
+        "text": "c = 4.48 · y = c",
+        "c": 4.48,
+        "approximate": false
+      },
+      "18": {
+        "text": "c = 4.76 · y = c",
+        "c": 4.76,
+        "approximate": false
+      },
+      "19": {
+        "text": "c = 5.04 · y = c",
+        "c": 5.04,
+        "approximate": false
+      },
+      "20": {
+        "text": "c = 5.32 · y = c",
+        "c": 5.32,
+        "approximate": false
+      },
+      "21": {
+        "text": "c = 5.6 · y = c",
+        "c": 5.6,
+        "approximate": false
+      },
+      "22": {
+        "text": "c = 5.88 · y = c",
+        "c": 5.88,
+        "approximate": false
+      },
+      "23": {
+        "text": "c = 6.16 · y = c",
+        "c": 6.16,
+        "approximate": false
+      },
+      "24": {
+        "text": "c = 6.44 · y = c",
+        "c": 6.44,
+        "approximate": false
+      },
+      "25": {
+        "text": "c = 6.72 · y = c",
+        "c": 6.72,
+        "approximate": false
+      },
+      "26": {
+        "text": "c = 7 · y = c",
+        "c": 7.0,
+        "approximate": false
+      },
+      "27": {
+        "text": "c = 7.28 · y = c",
+        "c": 7.28,
+        "approximate": false
+      },
+      "13": {
+        "text": "c = 3.92 · k = 13 · 连接低点",
+        "c": 3.92,
+        "k": 13,
+        "approximate": false
+      }
+    },
+    "basis": "第13号线为从0编号的第14行；其两端高度对应c=3.92。"
+  },
+  "85": {
+    "records": {
+      "0": {
+        "text": "c = 0.28 · y = c",
+        "c": 0.28,
+        "approximate": false
+      },
+      "1": {
+        "text": "c = 0.56 · y = c",
+        "c": 0.56,
+        "approximate": false
+      },
+      "2": {
+        "text": "c = 0.84 · y = c",
+        "c": 0.84,
+        "approximate": false
+      },
+      "3": {
+        "text": "c = 1.12 · y = c",
+        "c": 1.12,
+        "approximate": false
+      },
+      "4": {
+        "text": "c = 1.4 · y = c",
+        "c": 1.4,
+        "approximate": false
+      },
+      "5": {
+        "text": "c = 1.68 · y = c",
+        "c": 1.68,
+        "approximate": false
+      },
+      "6": {
+        "text": "c = 1.96 · y = c",
+        "c": 1.96,
+        "approximate": false
+      },
+      "7": {
+        "text": "c = 2.24 · y = c",
+        "c": 2.24,
+        "approximate": false
+      },
+      "8": {
+        "text": "c = 2.52 · y = c",
+        "c": 2.52,
+        "approximate": false
+      },
+      "9": {
+        "text": "c = 2.8 · y = c",
+        "c": 2.8,
+        "approximate": false
+      },
+      "10": {
+        "text": "c = 3.08 · y = c",
+        "c": 3.08,
+        "approximate": false
+      },
+      "11": {
+        "text": "c = 3.36 · y = c",
+        "c": 3.36,
+        "approximate": false
+      },
+      "12": {
+        "text": "c = 3.64 · y = c",
+        "c": 3.64,
+        "approximate": false
+      },
+      "13": {
+        "text": "c = 3.92 · y = c",
+        "c": 3.92,
+        "approximate": false
+      },
+      "14": {
+        "text": "c = 4.2 · y = c",
+        "c": 4.2,
+        "approximate": false
+      },
+      "15": {
+        "text": "c = 4.48 · y = c",
+        "c": 4.48,
+        "approximate": false
+      },
+      "16": {
+        "text": "c = 4.76 · y = c",
+        "c": 4.76,
+        "approximate": false
+      },
+      "17": {
+        "text": "c = 5.04 · y = c",
+        "c": 5.04,
+        "approximate": false
+      },
+      "18": {
+        "text": "c = 5.32 · y = c",
+        "c": 5.32,
+        "approximate": false
+      },
+      "19": {
+        "text": "c = 5.6 · y = c",
+        "c": 5.6,
+        "approximate": false
+      },
+      "20": {
+        "text": "c = 5.88 · y = c",
+        "c": 5.88,
+        "approximate": false
+      },
+      "21": {
+        "text": "c = 6.16 · y = c",
+        "c": 6.16,
+        "approximate": false
+      },
+      "22": {
+        "text": "c = 6.44 · y = c",
+        "c": 6.44,
+        "approximate": false
+      },
+      "23": {
+        "text": "c = 6.72 · y = c",
+        "c": 6.72,
+        "approximate": false
+      },
+      "24": {
+        "text": "c = 7 · y = c",
+        "c": 7.0,
+        "approximate": false
+      },
+      "25": {
+        "text": "c = 7.28 · y = c",
+        "c": 7.28,
+        "approximate": false
+      },
+      "26": {
+        "text": "c ≈ 0.84 · y = c/2",
+        "c": 0.84,
+        "approximate": true
+      },
+      "27": {
+        "text": "c ≈ 1.4 · y = c/2",
+        "c": 1.4,
+        "approximate": true
+      },
+      "28": {
+        "text": "c ≈ 1.96 · y = c/2",
+        "c": 1.96,
+        "approximate": true
+      },
+      "29": {
+        "text": "c ≈ 2.52 · y = c/2",
+        "c": 2.52,
+        "approximate": true
+      },
+      "30": {
+        "text": "c ≈ 3.08 · y = c/2",
+        "c": 3.08,
+        "approximate": true
+      },
+      "31": {
+        "text": "c ≈ 3.64 · y = c/2",
+        "c": 3.64,
+        "approximate": true
+      },
+      "32": {
+        "text": "c ≈ 4.2 · y = c/2",
+        "c": 4.2,
+        "approximate": true
+      },
+      "33": {
+        "text": "c ≈ 4.76 · y = c/2",
+        "c": 4.76,
+        "approximate": true
+      },
+      "34": {
+        "text": "c ≈ 5.32 · y = c/2",
+        "c": 5.32,
+        "approximate": true
+      },
+      "35": {
+        "text": "c ≈ 5.88 · y = c/2",
+        "c": 5.88,
+        "approximate": true
+      },
+      "36": {
+        "text": "c ≈ 6.44 · y = c/2",
+        "c": 6.44,
+        "approximate": true
+      },
+      "37": {
+        "text": "c ≈ 7 · y = c/2",
+        "c": 7.0,
+        "approximate": true
+      },
+      "38": {
+        "text": "c ≈ 7.56 · y = c/2",
+        "c": 7.56,
+        "approximate": true
+      },
+      "39": {
+        "text": "c ≈ 8.12 · y = c/2",
+        "c": 8.12,
+        "approximate": true
+      },
+      "40": {
+        "text": "c ≈ 8.68 · y = c/2",
+        "c": 8.68,
+        "approximate": true
+      },
+      "41": {
+        "text": "c ≈ 9.24 · y = c/2",
+        "c": 9.24,
+        "approximate": true
+      },
+      "42": {
+        "text": "c ≈ 9.8 · y = c/2",
+        "c": 9.8,
+        "approximate": true
+      },
+      "43": {
+        "text": "c ≈ 10.36 · y = c/2",
+        "c": 10.36,
+        "approximate": true
+      },
+      "44": {
+        "text": "c ≈ 10.92 · y = c/2",
+        "c": 10.92,
+        "approximate": true
+      },
+      "45": {
+        "text": "c ≈ 11.48 · y = c/2",
+        "c": 11.48,
+        "approximate": true
+      },
+      "46": {
+        "text": "c ≈ 12.04 · y = c/2",
+        "c": 12.04,
+        "approximate": true
+      },
+      "47": {
+        "text": "c ≈ 12.6 · y = c/2",
+        "c": 12.6,
+        "approximate": true
+      },
+      "48": {
+        "text": "c ≈ 13.16 · y = c/2",
+        "c": 13.16,
+        "approximate": true
+      },
+      "49": {
+        "text": "c ≈ 13.72 · y = c/2",
+        "c": 13.72,
+        "approximate": true
+      },
+      "50": {
+        "text": "c ≈ 14.28 · y = c/2",
+        "c": 14.28,
+        "approximate": true
+      }
+    },
+    "basis": "短横线位于相邻标准横线中间，按y=c/2反解；因原书行高取两位小数，与原图端点略有排版差异，保留近似标志。"
+  },
+  "60": {
+    "records": {
+      "0": {
+        "text": "c = 0.56 · r = c",
+        "c": 0.56,
+        "approximate": false
+      },
+      "1": {
+        "text": "c = 0.56 · r = c",
+        "c": 0.56,
+        "approximate": false
+      },
+      "2": {
+        "text": "c = 0.84 · r = c",
+        "c": 0.84,
+        "approximate": false
+      },
+      "3": {
+        "text": "c = 0.84 · r = c",
+        "c": 0.84,
+        "approximate": false
+      },
+      "4": {
+        "text": "c = 1.12 · r = c",
+        "c": 1.12,
+        "approximate": false
+      },
+      "5": {
+        "text": "c = 1.12 · r = c",
+        "c": 1.12,
+        "approximate": false
+      },
+      "6": {
+        "text": "c = 1.4 · r = c",
+        "c": 1.4,
+        "approximate": false
+      },
+      "7": {
+        "text": "c = 1.4 · r = c",
+        "c": 1.4,
+        "approximate": false
+      },
+      "8": {
+        "text": "c = 1.68 · r = c",
+        "c": 1.68,
+        "approximate": false
+      },
+      "9": {
+        "text": "c = 1.68 · r = c",
+        "c": 1.68,
+        "approximate": false
+      },
+      "10": {
+        "text": "c = 1.96 · r = c",
+        "c": 1.96,
+        "approximate": false
+      },
+      "11": {
+        "text": "c = 1.96 · r = c",
+        "c": 1.96,
+        "approximate": false
+      },
+      "12": {
+        "text": "c = 2.24 · r = c",
+        "c": 2.24,
+        "approximate": false
+      },
+      "13": {
+        "text": "c = 2.24 · r = c",
+        "c": 2.24,
+        "approximate": false
+      },
+      "14": {
+        "text": "c = 2.52 · r = c",
+        "c": 2.52,
+        "approximate": false
+      },
+      "15": {
+        "text": "c = 2.52 · r = c",
+        "c": 2.52,
+        "approximate": false
+      },
+      "16": {
+        "text": "c = 2.8 · r = c",
+        "c": 2.8,
+        "approximate": false
+      },
+      "17": {
+        "text": "c = 2.8 · r = c",
+        "c": 2.8,
+        "approximate": false
+      },
+      "18": {
+        "text": "c = 3.08 · r = c",
+        "c": 3.08,
+        "approximate": false
+      },
+      "19": {
+        "text": "c = 3.08 · r = c",
+        "c": 3.08,
+        "approximate": false
+      },
+      "20": {
+        "text": "c = 3.36 · r = c",
+        "c": 3.36,
+        "approximate": false
+      },
+      "21": {
+        "text": "c = 3.36 · r = c",
+        "c": 3.36,
+        "approximate": false
+      },
+      "22": {
+        "text": "c = 3.64 · r = c",
+        "c": 3.64,
+        "approximate": false
+      },
+      "23": {
+        "text": "c = 3.64 · r = c",
+        "c": 3.64,
+        "approximate": false
+      },
+      "24": {
+        "text": "c = 3.92 · r = c",
+        "c": 3.92,
+        "approximate": false
+      },
+      "25": {
+        "text": "c = 3.92 · r = c",
+        "c": 3.92,
+        "approximate": false
+      },
+      "26": {
+        "text": "c = 4.2 · r = c",
+        "c": 4.2,
+        "approximate": false
+      },
+      "27": {
+        "text": "c = 4.2 · r = c",
+        "c": 4.2,
+        "approximate": false
+      },
+      "28": {
+        "text": "c = 4.48 · r = c",
+        "c": 4.48,
+        "approximate": false
+      },
+      "29": {
+        "text": "c = 4.48 · r = c",
+        "c": 4.48,
+        "approximate": false
+      },
+      "30": {
+        "text": "c = 4.76 · r = c",
+        "c": 4.76,
+        "approximate": false
+      },
+      "31": {
+        "text": "c = 4.76 · r = c",
+        "c": 4.76,
+        "approximate": false
+      },
+      "32": {
+        "text": "c = 5.04 · r = c",
+        "c": 5.04,
+        "approximate": false
+      },
+      "33": {
+        "text": "c = 5.04 · r = c",
+        "c": 5.04,
+        "approximate": false
+      },
+      "34": {
+        "text": "c = 5.32 · r = c",
+        "c": 5.32,
+        "approximate": false
+      },
+      "35": {
+        "text": "c = 5.32 · r = c",
+        "c": 5.32,
+        "approximate": false
+      },
+      "36": {
+        "text": "c = 5.6 · r = c",
+        "c": 5.6,
+        "approximate": false
+      },
+      "37": {
+        "text": "c = 5.6 · r = c",
+        "c": 5.6,
+        "approximate": false
+      },
+      "38": {
+        "text": "c = 5.88 · r = c",
+        "c": 5.88,
+        "approximate": false
+      },
+      "39": {
+        "text": "c = 5.88 · r = c",
+        "c": 5.88,
+        "approximate": false
+      },
+      "40": {
+        "text": "c = 6.16 · r = c",
+        "c": 6.16,
+        "approximate": false
+      },
+      "41": {
+        "text": "c = 6.16 · r = c",
+        "c": 6.16,
+        "approximate": false
+      },
+      "42": {
+        "text": "c = 6.44 · r = c",
+        "c": 6.44,
+        "approximate": false
+      },
+      "43": {
+        "text": "c = 6.44 · r = c",
+        "c": 6.44,
+        "approximate": false
+      },
+      "44": {
+        "text": "c = 6.72 · r = c",
+        "c": 6.72,
+        "approximate": false
+      },
+      "45": {
+        "text": "c = 6.72 · r = c",
+        "c": 6.72,
+        "approximate": false
+      },
+      "46": {
+        "text": "c = 7 · r = c",
+        "c": 7.0,
+        "approximate": false
+      },
+      "47": {
+        "text": "c = 7 · r = c",
+        "c": 7.0,
+        "approximate": false
+      },
+      "48": {
+        "text": "c = 7.28 · r = c",
+        "c": 7.28,
+        "approximate": false
+      },
+      "49": {
+        "text": "c = 7.28 · r = c",
+        "c": 7.28,
+        "approximate": false
+      }
+    },
+    "basis": "圆心与半径由原图圆弧校准；起始r为2个标准行高，逐次加0.28。"
+  },
+  "61": {
+    "records": {
+      "0": {
+        "text": "c = 0.56 · k = 1 · r = 0.14",
+        "c": 0.56,
+        "k": 1,
+        "r": 0.14,
+        "approximate": false
+      },
+      "1": {
+        "text": "c = 0.56 · k = 1 · r = 0.14",
+        "c": 0.56,
+        "k": 1,
+        "r": 0.14,
+        "approximate": false
+      },
+      "2": {
+        "text": "c = 0.84 · k = 2 · r = 0.14",
+        "c": 0.84,
+        "k": 2,
+        "r": 0.14,
+        "approximate": false
+      },
+      "3": {
+        "text": "c = 0.84 · k = 2 · r = 0.14",
+        "c": 0.84,
+        "k": 2,
+        "r": 0.14,
+        "approximate": false
+      },
+      "4": {
+        "text": "c = 1.12 · k = 3 · r = 0.14",
+        "c": 1.12,
+        "k": 3,
+        "r": 0.14,
+        "approximate": false
+      },
+      "5": {
+        "text": "c = 1.12 · k = 3 · r = 0.14",
+        "c": 1.12,
+        "k": 3,
+        "r": 0.14,
+        "approximate": false
+      },
+      "6": {
+        "text": "c = 1.4 · k = 4 · r = 0.14",
+        "c": 1.4,
+        "k": 4,
+        "r": 0.14,
+        "approximate": false
+      },
+      "7": {
+        "text": "c = 1.4 · k = 4 · r = 0.14",
+        "c": 1.4,
+        "k": 4,
+        "r": 0.14,
+        "approximate": false
+      },
+      "8": {
+        "text": "c = 1.68 · k = 5 · r = 0.14",
+        "c": 1.68,
+        "k": 5,
+        "r": 0.14,
+        "approximate": false
+      },
+      "9": {
+        "text": "c = 1.68 · k = 5 · r = 0.14",
+        "c": 1.68,
+        "k": 5,
+        "r": 0.14,
+        "approximate": false
+      },
+      "10": {
+        "text": "c = 1.96 · k = 6 · r = 0.14",
+        "c": 1.96,
+        "k": 6,
+        "r": 0.14,
+        "approximate": false
+      },
+      "11": {
+        "text": "c = 1.96 · k = 6 · r = 0.14",
+        "c": 1.96,
+        "k": 6,
+        "r": 0.14,
+        "approximate": false
+      },
+      "12": {
+        "text": "c = 2.24 · k = 7 · r = 0.14",
+        "c": 2.24,
+        "k": 7,
+        "r": 0.14,
+        "approximate": false
+      },
+      "13": {
+        "text": "c = 2.24 · k = 7 · r = 0.14",
+        "c": 2.24,
+        "k": 7,
+        "r": 0.14,
+        "approximate": false
+      },
+      "14": {
+        "text": "c = 2.52 · k = 8 · r = 0.14",
+        "c": 2.52,
+        "k": 8,
+        "r": 0.14,
+        "approximate": false
+      },
+      "15": {
+        "text": "c = 2.52 · k = 8 · r = 0.14",
+        "c": 2.52,
+        "k": 8,
+        "r": 0.14,
+        "approximate": false
+      },
+      "16": {
+        "text": "c = 2.8 · k = 9 · r = 0.14",
+        "c": 2.8,
+        "k": 9,
+        "r": 0.14,
+        "approximate": false
+      },
+      "17": {
+        "text": "c = 2.8 · k = 9 · r = 0.14",
+        "c": 2.8,
+        "k": 9,
+        "r": 0.14,
+        "approximate": false
+      },
+      "18": {
+        "text": "c = 3.08 · k = 10 · r = 0.14",
+        "c": 3.08,
+        "k": 10,
+        "r": 0.14,
+        "approximate": false
+      },
+      "19": {
+        "text": "c = 3.08 · k = 10 · r = 0.14",
+        "c": 3.08,
+        "k": 10,
+        "r": 0.14,
+        "approximate": false
+      },
+      "20": {
+        "text": "c = 3.36 · k = 11 · r = 0.14",
+        "c": 3.36,
+        "k": 11,
+        "r": 0.14,
+        "approximate": false
+      },
+      "21": {
+        "text": "c = 3.36 · k = 11 · r = 0.14",
+        "c": 3.36,
+        "k": 11,
+        "r": 0.14,
+        "approximate": false
+      },
+      "22": {
+        "text": "c = 3.64 · k = 12 · r = 0.14",
+        "c": 3.64,
+        "k": 12,
+        "r": 0.14,
+        "approximate": false
+      },
+      "23": {
+        "text": "c = 3.64 · k = 12 · r = 0.14",
+        "c": 3.64,
+        "k": 12,
+        "r": 0.14,
+        "approximate": false
+      },
+      "24": {
+        "text": "c = 3.92 · k = 13 · r = 0.14",
+        "c": 3.92,
+        "k": 13,
+        "r": 0.14,
+        "approximate": false
+      },
+      "25": {
+        "text": "c = 3.92 · k = 13 · r = 0.14",
+        "c": 3.92,
+        "k": 13,
+        "r": 0.14,
+        "approximate": false
+      },
+      "26": {
+        "text": "c = 4.2 · k = 14 · r = 0.14",
+        "c": 4.2,
+        "k": 14,
+        "r": 0.14,
+        "approximate": false
+      },
+      "27": {
+        "text": "c = 4.2 · k = 14 · r = 0.14",
+        "c": 4.2,
+        "k": 14,
+        "r": 0.14,
+        "approximate": false
+      },
+      "28": {
+        "text": "c = 4.48 · k = 15 · r = 0.14",
+        "c": 4.48,
+        "k": 15,
+        "r": 0.14,
+        "approximate": false
+      },
+      "29": {
+        "text": "c = 4.48 · k = 15 · r = 0.14",
+        "c": 4.48,
+        "k": 15,
+        "r": 0.14,
+        "approximate": false
+      },
+      "30": {
+        "text": "c = 4.76 · k = 16 · r = 0.14",
+        "c": 4.76,
+        "k": 16,
+        "r": 0.14,
+        "approximate": false
+      },
+      "31": {
+        "text": "c = 4.76 · k = 16 · r = 0.14",
+        "c": 4.76,
+        "k": 16,
+        "r": 0.14,
+        "approximate": false
+      },
+      "32": {
+        "text": "c = 5.04 · k = 17 · r = 0.14",
+        "c": 5.04,
+        "k": 17,
+        "r": 0.14,
+        "approximate": false
+      },
+      "33": {
+        "text": "c = 5.04 · k = 17 · r = 0.14",
+        "c": 5.04,
+        "k": 17,
+        "r": 0.14,
+        "approximate": false
+      },
+      "34": {
+        "text": "c = 5.32 · k = 18 · r = 0.14",
+        "c": 5.32,
+        "k": 18,
+        "r": 0.14,
+        "approximate": false
+      },
+      "35": {
+        "text": "c = 5.32 · k = 18 · r = 0.14",
+        "c": 5.32,
+        "k": 18,
+        "r": 0.14,
+        "approximate": false
+      },
+      "36": {
+        "text": "c = 5.6 · k = 19 · r = 0.14",
+        "c": 5.6,
+        "k": 19,
+        "r": 0.14,
+        "approximate": false
+      },
+      "37": {
+        "text": "c = 5.6 · k = 19 · r = 0.14",
+        "c": 5.6,
+        "k": 19,
+        "r": 0.14,
+        "approximate": false
+      },
+      "38": {
+        "text": "c = 5.88 · k = 20 · r = 0.14",
+        "c": 5.88,
+        "k": 20,
+        "r": 0.14,
+        "approximate": false
+      },
+      "39": {
+        "text": "c = 5.88 · k = 20 · r = 0.14",
+        "c": 5.88,
+        "k": 20,
+        "r": 0.14,
+        "approximate": false
+      },
+      "40": {
+        "text": "c = 6.16 · k = 21 · r = 0.14",
+        "c": 6.16,
+        "k": 21,
+        "r": 0.14,
+        "approximate": false
+      },
+      "41": {
+        "text": "c = 6.16 · k = 21 · r = 0.14",
+        "c": 6.16,
+        "k": 21,
+        "r": 0.14,
+        "approximate": false
+      },
+      "42": {
+        "text": "c = 6.44 · k = 22 · r = 0.14",
+        "c": 6.44,
+        "k": 22,
+        "r": 0.14,
+        "approximate": false
+      },
+      "43": {
+        "text": "c = 6.44 · k = 22 · r = 0.14",
+        "c": 6.44,
+        "k": 22,
+        "r": 0.14,
+        "approximate": false
+      },
+      "44": {
+        "text": "c = 6.72 · k = 23 · r = 0.14",
+        "c": 6.72,
+        "k": 23,
+        "r": 0.14,
+        "approximate": false
+      },
+      "45": {
+        "text": "c = 6.72 · k = 23 · r = 0.14",
+        "c": 6.72,
+        "k": 23,
+        "r": 0.14,
+        "approximate": false
+      },
+      "46": {
+        "text": "c = 7 · k = 24 · r = 0.14",
+        "c": 7.0,
+        "k": 24,
+        "r": 0.14,
+        "approximate": false
+      },
+      "47": {
+        "text": "c = 7 · k = 24 · r = 0.14",
+        "c": 7.0,
+        "k": 24,
+        "r": 0.14,
+        "approximate": false
+      },
+      "48": {
+        "text": "c = 7.28 · k = 25 · r = 0.14",
+        "c": 7.28,
+        "k": 25,
+        "r": 0.14,
+        "approximate": false
+      },
+      "49": {
+        "text": "c = 7.28 · k = 25 · r = 0.14",
+        "c": 7.28,
+        "k": 25,
+        "r": 0.14,
+        "approximate": false
+      }
+    },
+    "basis": "k从各行横线端点反解；圆半径原书给定0.14；c从0.56起逐行加0.28。"
+  },
+  "66": {
+    "records": {
+      "0": {
+        "text": "c = 0.28 · r = 0.84 · y = 1.12",
+        "c": 0.28,
+        "r": 0.84,
+        "approximate": false
+      },
+      "1": {
+        "text": "c = 0.28 · r = 0.84 · 四分之一圆",
+        "c": 0.28,
+        "r": 0.84,
+        "approximate": false
+      },
+      "2": {
+        "text": "c = 0.28 · r = 0.84 · y = 0.28",
+        "c": 0.28,
+        "r": 0.84,
+        "approximate": false
+      },
+      "3": {
+        "text": "c = 0.56 · r = 0.84 · y = 1.4",
+        "c": 0.56,
+        "r": 0.84,
+        "approximate": false
+      },
+      "4": {
+        "text": "c = 0.56 · r = 0.84 · 四分之一圆",
+        "c": 0.56,
+        "r": 0.84,
+        "approximate": false
+      },
+      "5": {
+        "text": "c = 0.56 · r = 0.84 · y = 0.56",
+        "c": 0.56,
+        "r": 0.84,
+        "approximate": false
+      },
+      "6": {
+        "text": "c = 0.84 · r = 0.84 · y = 1.68",
+        "c": 0.84,
+        "r": 0.84,
+        "approximate": false
+      },
+      "7": {
+        "text": "c = 0.84 · r = 0.84 · 四分之一圆",
+        "c": 0.84,
+        "r": 0.84,
+        "approximate": false
+      },
+      "8": {
+        "text": "c = 0.84 · r = 0.84 · y = 0.84",
+        "c": 0.84,
+        "r": 0.84,
+        "approximate": false
+      },
+      "9": {
+        "text": "c = 1.12 · r = 0.84 · y = 1.96",
+        "c": 1.12,
+        "r": 0.84,
+        "approximate": false
+      },
+      "10": {
+        "text": "c = 1.12 · r = 0.84 · 四分之一圆",
+        "c": 1.12,
+        "r": 0.84,
+        "approximate": false
+      },
+      "11": {
+        "text": "c = 1.12 · r = 0.84 · y = 1.12",
+        "c": 1.12,
+        "r": 0.84,
+        "approximate": false
+      },
+      "12": {
+        "text": "c = 1.4 · r = 0.84 · y = 2.24",
+        "c": 1.4,
+        "r": 0.84,
+        "approximate": false
+      },
+      "13": {
+        "text": "c = 1.4 · r = 0.84 · 四分之一圆",
+        "c": 1.4,
+        "r": 0.84,
+        "approximate": false
+      },
+      "14": {
+        "text": "c = 1.4 · r = 0.84 · y = 1.4",
+        "c": 1.4,
+        "r": 0.84,
+        "approximate": false
+      },
+      "15": {
+        "text": "c = 1.68 · r = 0.84 · y = 2.52",
+        "c": 1.68,
+        "r": 0.84,
+        "approximate": false
+      },
+      "16": {
+        "text": "c = 1.68 · r = 0.84 · 四分之一圆",
+        "c": 1.68,
+        "r": 0.84,
+        "approximate": false
+      },
+      "17": {
+        "text": "c = 1.68 · r = 0.84 · y = 1.68",
+        "c": 1.68,
+        "r": 0.84,
+        "approximate": false
+      },
+      "18": {
+        "text": "c = 1.96 · r = 0.84 · y = 2.8",
+        "c": 1.96,
+        "r": 0.84,
+        "approximate": false
+      },
+      "19": {
+        "text": "c = 1.96 · r = 0.84 · 四分之一圆",
+        "c": 1.96,
+        "r": 0.84,
+        "approximate": false
+      },
+      "20": {
+        "text": "c = 1.96 · r = 0.84 · y = 1.96",
+        "c": 1.96,
+        "r": 0.84,
+        "approximate": false
+      },
+      "21": {
+        "text": "c = 2.24 · r = 0.84 · y = 3.08",
+        "c": 2.24,
+        "r": 0.84,
+        "approximate": false
+      },
+      "22": {
+        "text": "c = 2.24 · r = 0.84 · 四分之一圆",
+        "c": 2.24,
+        "r": 0.84,
+        "approximate": false
+      },
+      "23": {
+        "text": "c = 2.24 · r = 0.84 · y = 2.24",
+        "c": 2.24,
+        "r": 0.84,
+        "approximate": false
+      },
+      "24": {
+        "text": "c = 2.52 · r = 0.84 · y = 3.36",
+        "c": 2.52,
+        "r": 0.84,
+        "approximate": false
+      },
+      "25": {
+        "text": "c = 2.52 · r = 0.84 · 四分之一圆",
+        "c": 2.52,
+        "r": 0.84,
+        "approximate": false
+      },
+      "26": {
+        "text": "c = 2.52 · r = 0.84 · y = 2.52",
+        "c": 2.52,
+        "r": 0.84,
+        "approximate": false
+      },
+      "27": {
+        "text": "c = 2.8 · r = 0.84 · y = 3.64",
+        "c": 2.8,
+        "r": 0.84,
+        "approximate": false
+      },
+      "28": {
+        "text": "c = 2.8 · r = 0.84 · 四分之一圆",
+        "c": 2.8,
+        "r": 0.84,
+        "approximate": false
+      },
+      "29": {
+        "text": "c = 2.8 · r = 0.84 · y = 2.8",
+        "c": 2.8,
+        "r": 0.84,
+        "approximate": false
+      },
+      "30": {
+        "text": "c = 3.08 · r = 0.84 · y = 3.92",
+        "c": 3.08,
+        "r": 0.84,
+        "approximate": false
+      },
+      "31": {
+        "text": "c = 3.08 · r = 0.84 · 四分之一圆",
+        "c": 3.08,
+        "r": 0.84,
+        "approximate": false
+      },
+      "32": {
+        "text": "c = 3.08 · r = 0.84 · y = 3.08",
+        "c": 3.08,
+        "r": 0.84,
+        "approximate": false
+      },
+      "33": {
+        "text": "c = 3.36 · r = 0.84 · y = 4.2",
+        "c": 3.36,
+        "r": 0.84,
+        "approximate": false
+      },
+      "34": {
+        "text": "c = 3.36 · r = 0.84 · 四分之一圆",
+        "c": 3.36,
+        "r": 0.84,
+        "approximate": false
+      },
+      "35": {
+        "text": "c = 3.36 · r = 0.84 · y = 3.36",
+        "c": 3.36,
+        "r": 0.84,
+        "approximate": false
+      },
+      "36": {
+        "text": "c = 3.64 · r = 0.84 · y = 4.48",
+        "c": 3.64,
+        "r": 0.84,
+        "approximate": false
+      },
+      "37": {
+        "text": "c = 3.64 · r = 0.84 · 四分之一圆",
+        "c": 3.64,
+        "r": 0.84,
+        "approximate": false
+      },
+      "38": {
+        "text": "c = 3.64 · r = 0.84 · y = 3.64",
+        "c": 3.64,
+        "r": 0.84,
+        "approximate": false
+      },
+      "39": {
+        "text": "c = 3.92 · r = 0.84 · y = 4.76",
+        "c": 3.92,
+        "r": 0.84,
+        "approximate": false
+      },
+      "40": {
+        "text": "c = 3.92 · r = 0.84 · 四分之一圆",
+        "c": 3.92,
+        "r": 0.84,
+        "approximate": false
+      },
+      "41": {
+        "text": "c = 3.92 · r = 0.84 · y = 3.92",
+        "c": 3.92,
+        "r": 0.84,
+        "approximate": false
+      },
+      "42": {
+        "text": "c = 4.2 · r = 0.84 · y = 5.04",
+        "c": 4.2,
+        "r": 0.84,
+        "approximate": false
+      },
+      "43": {
+        "text": "c = 4.2 · r = 0.84 · 四分之一圆",
+        "c": 4.2,
+        "r": 0.84,
+        "approximate": false
+      },
+      "44": {
+        "text": "c = 4.2 · r = 0.84 · y = 4.2",
+        "c": 4.2,
+        "r": 0.84,
+        "approximate": false
+      },
+      "45": {
+        "text": "c = 4.48 · r = 0.84 · y = 5.32",
+        "c": 4.48,
+        "r": 0.84,
+        "approximate": false
+      },
+      "46": {
+        "text": "c = 4.48 · r = 0.84 · 四分之一圆",
+        "c": 4.48,
+        "r": 0.84,
+        "approximate": false
+      },
+      "47": {
+        "text": "c = 4.48 · r = 0.84 · y = 4.48",
+        "c": 4.48,
+        "r": 0.84,
+        "approximate": false
+      },
+      "48": {
+        "text": "c = 4.76 · r = 0.84 · y = 5.6",
+        "c": 4.76,
+        "r": 0.84,
+        "approximate": false
+      },
+      "49": {
+        "text": "c = 4.76 · r = 0.84 · 四分之一圆",
+        "c": 4.76,
+        "r": 0.84,
+        "approximate": false
+      },
+      "50": {
+        "text": "c = 4.76 · r = 0.84 · y = 4.76",
+        "c": 4.76,
+        "r": 0.84,
+        "approximate": false
+      },
+      "51": {
+        "text": "c = 5.04 · r = 0.84 · y = 5.88",
+        "c": 5.04,
+        "r": 0.84,
+        "approximate": false
+      },
+      "52": {
+        "text": "c = 5.04 · r = 0.84 · 四分之一圆",
+        "c": 5.04,
+        "r": 0.84,
+        "approximate": false
+      },
+      "53": {
+        "text": "c = 5.04 · r = 0.84 · y = 5.04",
+        "c": 5.04,
+        "r": 0.84,
+        "approximate": false
+      },
+      "54": {
+        "text": "c = 5.32 · r = 0.84 · y = 6.16",
+        "c": 5.32,
+        "r": 0.84,
+        "approximate": false
+      },
+      "55": {
+        "text": "c = 5.32 · r = 0.84 · 四分之一圆",
+        "c": 5.32,
+        "r": 0.84,
+        "approximate": false
+      },
+      "56": {
+        "text": "c = 5.32 · r = 0.84 · y = 5.32",
+        "c": 5.32,
+        "r": 0.84,
+        "approximate": false
+      },
+      "57": {
+        "text": "c = 5.6 · r = 0.84 · y = 6.44",
+        "c": 5.6,
+        "r": 0.84,
+        "approximate": false
+      },
+      "58": {
+        "text": "c = 5.6 · r = 0.84 · 四分之一圆",
+        "c": 5.6,
+        "r": 0.84,
+        "approximate": false
+      },
+      "59": {
+        "text": "c = 5.6 · r = 0.84 · y = 5.6",
+        "c": 5.6,
+        "r": 0.84,
+        "approximate": false
+      },
+      "60": {
+        "text": "c = 5.88 · r = 0.84 · y = 6.72",
+        "c": 5.88,
+        "r": 0.84,
+        "approximate": false
+      },
+      "61": {
+        "text": "c = 5.88 · r = 0.84 · 四分之一圆",
+        "c": 5.88,
+        "r": 0.84,
+        "approximate": false
+      },
+      "62": {
+        "text": "c = 5.88 · r = 0.84 · y = 5.88",
+        "c": 5.88,
+        "r": 0.84,
+        "approximate": false
+      },
+      "63": {
+        "text": "c = 6.16 · r = 0.84 · y = 7",
+        "c": 6.16,
+        "r": 0.84,
+        "approximate": false
+      },
+      "64": {
+        "text": "c = 6.16 · r = 0.84 · 四分之一圆",
+        "c": 6.16,
+        "r": 0.84,
+        "approximate": false
+      },
+      "65": {
+        "text": "c = 6.16 · r = 0.84 · y = 6.16",
+        "c": 6.16,
+        "r": 0.84,
+        "approximate": false
+      },
+      "66": {
+        "text": "c = 6.44 · r = 0.84 · y = 7.28",
+        "c": 6.44,
+        "r": 0.84,
+        "approximate": false
+      },
+      "67": {
+        "text": "c = 6.44 · r = 0.84 · 四分之一圆",
+        "c": 6.44,
+        "r": 0.84,
+        "approximate": false
+      },
+      "68": {
+        "text": "c = 6.44 · r = 0.84 · y = 6.44",
+        "c": 6.44,
+        "r": 0.84,
+        "approximate": false
+      }
+    },
+    "basis": "r=3×0.28=0.84；每个四分之一圆连接相差3个标准行高的两条横线。"
+  },
+  "70": {
+    "records": {
+      "0": {
+        "text": "c = 0.28",
+        "c": 0.28,
+        "approximate": false
+      },
+      "1": {
+        "text": "c = 0.28",
+        "c": 0.28,
+        "approximate": false
+      },
+      "2": {
+        "text": "c = 0.28",
+        "c": 0.28,
+        "approximate": false
+      },
+      "3": {
+        "text": "c = 0.56",
+        "c": 0.56,
+        "approximate": false
+      },
+      "4": {
+        "text": "c = 0.56",
+        "c": 0.56,
+        "approximate": false
+      },
+      "5": {
+        "text": "c = 0.56",
+        "c": 0.56,
+        "approximate": false
+      },
+      "6": {
+        "text": "c = 0.84",
+        "c": 0.84,
+        "approximate": false
+      },
+      "7": {
+        "text": "c = 0.84",
+        "c": 0.84,
+        "approximate": false
+      },
+      "8": {
+        "text": "c = 0.84",
+        "c": 0.84,
+        "approximate": false
+      },
+      "9": {
+        "text": "c = 1.12",
+        "c": 1.12,
+        "approximate": false
+      },
+      "10": {
+        "text": "c = 1.12",
+        "c": 1.12,
+        "approximate": false
+      },
+      "11": {
+        "text": "c = 1.12",
+        "c": 1.12,
+        "approximate": false
+      },
+      "12": {
+        "text": "c = 1.4",
+        "c": 1.4,
+        "approximate": false
+      },
+      "13": {
+        "text": "c = 1.4",
+        "c": 1.4,
+        "approximate": false
+      },
+      "14": {
+        "text": "c = 1.4",
+        "c": 1.4,
+        "approximate": false
+      },
+      "15": {
+        "text": "c = 1.68",
+        "c": 1.68,
+        "approximate": false
+      },
+      "16": {
+        "text": "c = 1.68",
+        "c": 1.68,
+        "approximate": false
+      },
+      "17": {
+        "text": "c = 1.68",
+        "c": 1.68,
+        "approximate": false
+      },
+      "18": {
+        "text": "c = 1.96",
+        "c": 1.96,
+        "approximate": false
+      },
+      "19": {
+        "text": "c = 1.96",
+        "c": 1.96,
+        "approximate": false
+      },
+      "20": {
+        "text": "c = 1.96",
+        "c": 1.96,
+        "approximate": false
+      },
+      "21": {
+        "text": "c = 2.24",
+        "c": 2.24,
+        "approximate": false
+      },
+      "22": {
+        "text": "c = 2.24",
+        "c": 2.24,
+        "approximate": false
+      },
+      "23": {
+        "text": "c = 2.24",
+        "c": 2.24,
+        "approximate": false
+      },
+      "24": {
+        "text": "c = 2.52",
+        "c": 2.52,
+        "approximate": false
+      },
+      "25": {
+        "text": "c = 2.52",
+        "c": 2.52,
+        "approximate": false
+      },
+      "26": {
+        "text": "c = 2.52",
+        "c": 2.52,
+        "approximate": false
+      },
+      "27": {
+        "text": "c = 2.8",
+        "c": 2.8,
+        "approximate": false
+      },
+      "28": {
+        "text": "c = 2.8",
+        "c": 2.8,
+        "approximate": false
+      },
+      "29": {
+        "text": "c = 2.8",
+        "c": 2.8,
+        "approximate": false
+      },
+      "30": {
+        "text": "c = 3.08",
+        "c": 3.08,
+        "approximate": false
+      },
+      "31": {
+        "text": "c = 3.08",
+        "c": 3.08,
+        "approximate": false
+      },
+      "32": {
+        "text": "c = 3.08",
+        "c": 3.08,
+        "approximate": false
+      },
+      "33": {
+        "text": "c = 3.36",
+        "c": 3.36,
+        "approximate": false
+      },
+      "34": {
+        "text": "c = 3.36",
+        "c": 3.36,
+        "approximate": false
+      },
+      "35": {
+        "text": "c = 3.36",
+        "c": 3.36,
+        "approximate": false
+      },
+      "36": {
+        "text": "c = 3.64",
+        "c": 3.64,
+        "approximate": false
+      },
+      "37": {
+        "text": "c = 3.64",
+        "c": 3.64,
+        "approximate": false
+      },
+      "38": {
+        "text": "c = 3.64",
+        "c": 3.64,
+        "approximate": false
+      },
+      "39": {
+        "text": "c = 3.92",
+        "c": 3.92,
+        "approximate": false
+      },
+      "40": {
+        "text": "c = 3.92",
+        "c": 3.92,
+        "approximate": false
+      },
+      "41": {
+        "text": "c = 3.92",
+        "c": 3.92,
+        "approximate": false
+      },
+      "42": {
+        "text": "c = 4.2",
+        "c": 4.2,
+        "approximate": false
+      },
+      "43": {
+        "text": "c = 4.2",
+        "c": 4.2,
+        "approximate": false
+      },
+      "44": {
+        "text": "c = 4.2",
+        "c": 4.2,
+        "approximate": false
+      },
+      "45": {
+        "text": "c = 4.48",
+        "c": 4.48,
+        "approximate": false
+      },
+      "46": {
+        "text": "c = 4.48",
+        "c": 4.48,
+        "approximate": false
+      },
+      "47": {
+        "text": "c = 4.48",
+        "c": 4.48,
+        "approximate": false
+      },
+      "48": {
+        "text": "c = 4.76",
+        "c": 4.76,
+        "approximate": false
+      },
+      "49": {
+        "text": "c = 4.76",
+        "c": 4.76,
+        "approximate": false
+      },
+      "50": {
+        "text": "c = 4.76",
+        "c": 4.76,
+        "approximate": false
+      },
+      "51": {
+        "text": "c = 5.04",
+        "c": 5.04,
+        "approximate": false
+      },
+      "52": {
+        "text": "c = 5.04",
+        "c": 5.04,
+        "approximate": false
+      },
+      "53": {
+        "text": "c = 5.04",
+        "c": 5.04,
+        "approximate": false
+      },
+      "54": {
+        "text": "c = 5.32",
+        "c": 5.32,
+        "approximate": false
+      },
+      "55": {
+        "text": "c = 5.32",
+        "c": 5.32,
+        "approximate": false
+      },
+      "56": {
+        "text": "c = 5.32",
+        "c": 5.32,
+        "approximate": false
+      },
+      "57": {
+        "text": "c = 5.6",
+        "c": 5.6,
+        "approximate": false
+      },
+      "58": {
+        "text": "c = 5.6",
+        "c": 5.6,
+        "approximate": false
+      },
+      "59": {
+        "text": "c = 5.6",
+        "c": 5.6,
+        "approximate": false
+      },
+      "60": {
+        "text": "c = 5.88",
+        "c": 5.88,
+        "approximate": false
+      },
+      "61": {
+        "text": "c = 5.88",
+        "c": 5.88,
+        "approximate": false
+      },
+      "62": {
+        "text": "c = 5.88",
+        "c": 5.88,
+        "approximate": false
+      },
+      "63": {
+        "text": "c = 6.16",
+        "c": 6.16,
+        "approximate": false
+      },
+      "64": {
+        "text": "c = 6.16",
+        "c": 6.16,
+        "approximate": false
+      },
+      "65": {
+        "text": "c = 6.16",
+        "c": 6.16,
+        "approximate": false
+      },
+      "66": {
+        "text": "c = 6.44",
+        "c": 6.44,
+        "approximate": false
+      },
+      "67": {
+        "text": "c = 6.44",
+        "c": 6.44,
+        "approximate": false
+      },
+      "68": {
+        "text": "c = 6.44",
+        "c": 6.44,
+        "approximate": false
+      },
+      "69": {
+        "text": "c = 6.72",
+        "c": 6.72,
+        "approximate": false
+      },
+      "70": {
+        "text": "c = 6.72",
+        "c": 6.72,
+        "approximate": false
+      },
+      "71": {
+        "text": "c = 6.72",
+        "c": 6.72,
+        "approximate": false
+      },
+      "72": {
+        "text": "c = 7",
+        "c": 7.0,
+        "approximate": false
+      },
+      "73": {
+        "text": "c = 7",
+        "c": 7.0,
+        "approximate": false
+      },
+      "74": {
+        "text": "c = 7",
+        "c": 7.0,
+        "approximate": false
+      }
+    },
+    "basis": "横线按标准0.28间隔；半径未写数值，以免把原书半径表达式与图形差异混同。"
+  },
+  "74": {
+    "records": {
+      "0": {
+        "text": "c = 0.28",
+        "c": 0.28,
+        "approximate": false
+      },
+      "1": {
+        "text": "c = 0.28",
+        "c": 0.28,
+        "approximate": false
+      },
+      "2": {
+        "text": "c = 0.28",
+        "c": 0.28,
+        "approximate": false
+      },
+      "3": {
+        "text": "c = 0.28",
+        "c": 0.28,
+        "approximate": false
+      },
+      "4": {
+        "text": "c = 0.28",
+        "c": 0.28,
+        "approximate": false
+      },
+      "5": {
+        "text": "c = 0.28",
+        "c": 0.28,
+        "approximate": false
+      },
+      "6": {
+        "text": "c = 0.28",
+        "c": 0.28,
+        "approximate": false
+      },
+      "7": {
+        "text": "c = 0.28",
+        "c": 0.28,
+        "approximate": false
+      },
+      "8": {
+        "text": "c = 0.28",
+        "c": 0.28,
+        "approximate": false
+      },
+      "9": {
+        "text": "c = 0.28",
+        "c": 0.28,
+        "approximate": false
+      },
+      "10": {
+        "text": "c = 0.28",
+        "c": 0.28,
+        "approximate": false
+      },
+      "11": {
+        "text": "c = 0.56",
+        "c": 0.56,
+        "approximate": false
+      },
+      "12": {
+        "text": "c = 0.56",
+        "c": 0.56,
+        "approximate": false
+      },
+      "13": {
+        "text": "c = 0.56",
+        "c": 0.56,
+        "approximate": false
+      },
+      "14": {
+        "text": "c = 0.56",
+        "c": 0.56,
+        "approximate": false
+      },
+      "15": {
+        "text": "c = 0.56",
+        "c": 0.56,
+        "approximate": false
+      },
+      "16": {
+        "text": "c = 0.56",
+        "c": 0.56,
+        "approximate": false
+      },
+      "17": {
+        "text": "c = 0.56",
+        "c": 0.56,
+        "approximate": false
+      },
+      "18": {
+        "text": "c = 0.56",
+        "c": 0.56,
+        "approximate": false
+      },
+      "19": {
+        "text": "c = 0.56",
+        "c": 0.56,
+        "approximate": false
+      },
+      "20": {
+        "text": "c = 0.56",
+        "c": 0.56,
+        "approximate": false
+      },
+      "21": {
+        "text": "c = 0.56",
+        "c": 0.56,
+        "approximate": false
+      },
+      "22": {
+        "text": "c = 0.56",
+        "c": 0.56,
+        "approximate": false
+      },
+      "23": {
+        "text": "c = 0.56",
+        "c": 0.56,
+        "approximate": false
+      },
+      "24": {
+        "text": "c = 0.56",
+        "c": 0.56,
+        "approximate": false
+      },
+      "25": {
+        "text": "c = 0.56",
+        "c": 0.56,
+        "approximate": false
+      },
+      "26": {
+        "text": "c = 0.56",
+        "c": 0.56,
+        "approximate": false
+      },
+      "27": {
+        "text": "c = 0.56",
+        "c": 0.56,
+        "approximate": false
+      },
+      "28": {
+        "text": "c = 0.56",
+        "c": 0.56,
+        "approximate": false
+      },
+      "29": {
+        "text": "c = 0.56",
+        "c": 0.56,
+        "approximate": false
+      },
+      "30": {
+        "text": "c = 0.56",
+        "c": 0.56,
+        "approximate": false
+      },
+      "31": {
+        "text": "c = 0.56",
+        "c": 0.56,
+        "approximate": false
+      },
+      "32": {
+        "text": "c = 0.84",
+        "c": 0.84,
+        "approximate": false
+      },
+      "33": {
+        "text": "c = 0.84",
+        "c": 0.84,
+        "approximate": false
+      },
+      "34": {
+        "text": "c = 0.84",
+        "c": 0.84,
+        "approximate": false
+      },
+      "35": {
+        "text": "c = 0.84",
+        "c": 0.84,
+        "approximate": false
+      },
+      "36": {
+        "text": "c = 0.84",
+        "c": 0.84,
+        "approximate": false
+      },
+      "37": {
+        "text": "c = 0.84",
+        "c": 0.84,
+        "approximate": false
+      },
+      "38": {
+        "text": "c = 0.84",
+        "c": 0.84,
+        "approximate": false
+      },
+      "39": {
+        "text": "c = 0.84",
+        "c": 0.84,
+        "approximate": false
+      },
+      "40": {
+        "text": "c = 0.84",
+        "c": 0.84,
+        "approximate": false
+      },
+      "41": {
+        "text": "c = 0.84",
+        "c": 0.84,
+        "approximate": false
+      },
+      "42": {
+        "text": "c = 0.84",
+        "c": 0.84,
+        "approximate": false
+      },
+      "43": {
+        "text": "c = 0.84",
+        "c": 0.84,
+        "approximate": false
+      },
+      "44": {
+        "text": "c = 0.84",
+        "c": 0.84,
+        "approximate": false
+      },
+      "45": {
+        "text": "c = 0.84",
+        "c": 0.84,
+        "approximate": false
+      },
+      "46": {
+        "text": "c = 0.84",
+        "c": 0.84,
+        "approximate": false
+      },
+      "47": {
+        "text": "c = 0.84",
+        "c": 0.84,
+        "approximate": false
+      },
+      "48": {
+        "text": "c = 0.84",
+        "c": 0.84,
+        "approximate": false
+      },
+      "49": {
+        "text": "c = 0.84",
+        "c": 0.84,
+        "approximate": false
+      },
+      "50": {
+        "text": "c = 0.84",
+        "c": 0.84,
+        "approximate": false
+      },
+      "51": {
+        "text": "c = 0.84",
+        "c": 0.84,
+        "approximate": false
+      },
+      "52": {
+        "text": "c = 0.84",
+        "c": 0.84,
+        "approximate": false
+      },
+      "53": {
+        "text": "c = 1.12",
+        "c": 1.12,
+        "approximate": false
+      },
+      "54": {
+        "text": "c = 1.12",
+        "c": 1.12,
+        "approximate": false
+      },
+      "55": {
+        "text": "c = 1.12",
+        "c": 1.12,
+        "approximate": false
+      },
+      "56": {
+        "text": "c = 1.12",
+        "c": 1.12,
+        "approximate": false
+      },
+      "57": {
+        "text": "c = 1.12",
+        "c": 1.12,
+        "approximate": false
+      },
+      "58": {
+        "text": "c = 1.12",
+        "c": 1.12,
+        "approximate": false
+      },
+      "59": {
+        "text": "c = 1.12",
+        "c": 1.12,
+        "approximate": false
+      },
+      "60": {
+        "text": "c = 1.12",
+        "c": 1.12,
+        "approximate": false
+      },
+      "61": {
+        "text": "c = 1.12",
+        "c": 1.12,
+        "approximate": false
+      },
+      "62": {
+        "text": "c = 1.12",
+        "c": 1.12,
+        "approximate": false
+      },
+      "63": {
+        "text": "c = 1.12",
+        "c": 1.12,
+        "approximate": false
+      },
+      "64": {
+        "text": "c = 1.12",
+        "c": 1.12,
+        "approximate": false
+      },
+      "65": {
+        "text": "c = 1.12",
+        "c": 1.12,
+        "approximate": false
+      },
+      "66": {
+        "text": "c = 1.12",
+        "c": 1.12,
+        "approximate": false
+      },
+      "67": {
+        "text": "c = 1.12",
+        "c": 1.12,
+        "approximate": false
+      },
+      "68": {
+        "text": "c = 1.12",
+        "c": 1.12,
+        "approximate": false
+      },
+      "69": {
+        "text": "c = 1.12",
+        "c": 1.12,
+        "approximate": false
+      },
+      "70": {
+        "text": "c = 1.12",
+        "c": 1.12,
+        "approximate": false
+      },
+      "71": {
+        "text": "c = 1.12",
+        "c": 1.12,
+        "approximate": false
+      },
+      "72": {
+        "text": "c = 1.12",
+        "c": 1.12,
+        "approximate": false
+      },
+      "73": {
+        "text": "c = 1.12",
+        "c": 1.12,
+        "approximate": false
+      },
+      "74": {
+        "text": "c = 1.4",
+        "c": 1.4,
+        "approximate": false
+      },
+      "75": {
+        "text": "c = 1.4",
+        "c": 1.4,
+        "approximate": false
+      },
+      "76": {
+        "text": "c = 1.4",
+        "c": 1.4,
+        "approximate": false
+      },
+      "77": {
+        "text": "c = 1.4",
+        "c": 1.4,
+        "approximate": false
+      },
+      "78": {
+        "text": "c = 1.4",
+        "c": 1.4,
+        "approximate": false
+      },
+      "79": {
+        "text": "c = 1.4",
+        "c": 1.4,
+        "approximate": false
+      },
+      "80": {
+        "text": "c = 1.4",
+        "c": 1.4,
+        "approximate": false
+      },
+      "81": {
+        "text": "c = 1.4",
+        "c": 1.4,
+        "approximate": false
+      },
+      "82": {
+        "text": "c = 1.4",
+        "c": 1.4,
+        "approximate": false
+      },
+      "83": {
+        "text": "c = 1.4",
+        "c": 1.4,
+        "approximate": false
+      },
+      "84": {
+        "text": "c = 1.4",
+        "c": 1.4,
+        "approximate": false
+      },
+      "85": {
+        "text": "c = 1.4",
+        "c": 1.4,
+        "approximate": false
+      },
+      "86": {
+        "text": "c = 1.4",
+        "c": 1.4,
+        "approximate": false
+      },
+      "87": {
+        "text": "c = 1.4",
+        "c": 1.4,
+        "approximate": false
+      },
+      "88": {
+        "text": "c = 1.4",
+        "c": 1.4,
+        "approximate": false
+      },
+      "89": {
+        "text": "c = 1.4",
+        "c": 1.4,
+        "approximate": false
+      },
+      "90": {
+        "text": "c = 1.4",
+        "c": 1.4,
+        "approximate": false
+      },
+      "91": {
+        "text": "c = 1.4",
+        "c": 1.4,
+        "approximate": false
+      },
+      "92": {
+        "text": "c = 1.4",
+        "c": 1.4,
+        "approximate": false
+      },
+      "93": {
+        "text": "c = 1.4",
+        "c": 1.4,
+        "approximate": false
+      },
+      "94": {
+        "text": "c = 1.4",
+        "c": 1.4,
+        "approximate": false
+      },
+      "95": {
+        "text": "c = 1.68",
+        "c": 1.68,
+        "approximate": false
+      },
+      "96": {
+        "text": "c = 1.68",
+        "c": 1.68,
+        "approximate": false
+      },
+      "97": {
+        "text": "c = 1.68",
+        "c": 1.68,
+        "approximate": false
+      },
+      "98": {
+        "text": "c = 1.68",
+        "c": 1.68,
+        "approximate": false
+      },
+      "99": {
+        "text": "c = 1.68",
+        "c": 1.68,
+        "approximate": false
+      },
+      "100": {
+        "text": "c = 1.68",
+        "c": 1.68,
+        "approximate": false
+      },
+      "101": {
+        "text": "c = 1.68",
+        "c": 1.68,
+        "approximate": false
+      },
+      "102": {
+        "text": "c = 1.68",
+        "c": 1.68,
+        "approximate": false
+      },
+      "103": {
+        "text": "c = 1.68",
+        "c": 1.68,
+        "approximate": false
+      },
+      "104": {
+        "text": "c = 1.68",
+        "c": 1.68,
+        "approximate": false
+      },
+      "105": {
+        "text": "c = 1.68",
+        "c": 1.68,
+        "approximate": false
+      },
+      "106": {
+        "text": "c = 1.68",
+        "c": 1.68,
+        "approximate": false
+      },
+      "107": {
+        "text": "c = 1.68",
+        "c": 1.68,
+        "approximate": false
+      },
+      "108": {
+        "text": "c = 1.68",
+        "c": 1.68,
+        "approximate": false
+      },
+      "109": {
+        "text": "c = 1.68",
+        "c": 1.68,
+        "approximate": false
+      },
+      "110": {
+        "text": "c = 1.68",
+        "c": 1.68,
+        "approximate": false
+      },
+      "111": {
+        "text": "c = 1.68",
+        "c": 1.68,
+        "approximate": false
+      },
+      "112": {
+        "text": "c = 1.68",
+        "c": 1.68,
+        "approximate": false
+      },
+      "113": {
+        "text": "c = 1.68",
+        "c": 1.68,
+        "approximate": false
+      },
+      "114": {
+        "text": "c = 1.68",
+        "c": 1.68,
+        "approximate": false
+      },
+      "115": {
+        "text": "c = 1.68",
+        "c": 1.68,
+        "approximate": false
+      },
+      "116": {
+        "text": "c = 1.96",
+        "c": 1.96,
+        "approximate": false
+      },
+      "117": {
+        "text": "c = 1.96",
+        "c": 1.96,
+        "approximate": false
+      },
+      "118": {
+        "text": "c = 1.96",
+        "c": 1.96,
+        "approximate": false
+      },
+      "119": {
+        "text": "c = 1.96",
+        "c": 1.96,
+        "approximate": false
+      },
+      "120": {
+        "text": "c = 1.96",
+        "c": 1.96,
+        "approximate": false
+      },
+      "121": {
+        "text": "c = 1.96",
+        "c": 1.96,
+        "approximate": false
+      },
+      "122": {
+        "text": "c = 1.96",
+        "c": 1.96,
+        "approximate": false
+      },
+      "123": {
+        "text": "c = 1.96",
+        "c": 1.96,
+        "approximate": false
+      },
+      "124": {
+        "text": "c = 1.96",
+        "c": 1.96,
+        "approximate": false
+      },
+      "125": {
+        "text": "c = 1.96",
+        "c": 1.96,
+        "approximate": false
+      },
+      "126": {
+        "text": "c = 1.96",
+        "c": 1.96,
+        "approximate": false
+      },
+      "127": {
+        "text": "c = 1.96",
+        "c": 1.96,
+        "approximate": false
+      },
+      "128": {
+        "text": "c = 1.96",
+        "c": 1.96,
+        "approximate": false
+      },
+      "129": {
+        "text": "c = 1.96",
+        "c": 1.96,
+        "approximate": false
+      },
+      "130": {
+        "text": "c = 1.96",
+        "c": 1.96,
+        "approximate": false
+      },
+      "131": {
+        "text": "c = 1.96",
+        "c": 1.96,
+        "approximate": false
+      },
+      "132": {
+        "text": "c = 1.96",
+        "c": 1.96,
+        "approximate": false
+      },
+      "133": {
+        "text": "c = 1.96",
+        "c": 1.96,
+        "approximate": false
+      },
+      "134": {
+        "text": "c = 1.96",
+        "c": 1.96,
+        "approximate": false
+      },
+      "135": {
+        "text": "c = 1.96",
+        "c": 1.96,
+        "approximate": false
+      },
+      "136": {
+        "text": "c = 1.96",
+        "c": 1.96,
+        "approximate": false
+      },
+      "137": {
+        "text": "c = 2.24",
+        "c": 2.24,
+        "approximate": false
+      },
+      "138": {
+        "text": "c = 2.24",
+        "c": 2.24,
+        "approximate": false
+      },
+      "139": {
+        "text": "c = 2.24",
+        "c": 2.24,
+        "approximate": false
+      },
+      "140": {
+        "text": "c = 2.24",
+        "c": 2.24,
+        "approximate": false
+      },
+      "141": {
+        "text": "c = 2.24",
+        "c": 2.24,
+        "approximate": false
+      },
+      "142": {
+        "text": "c = 2.24",
+        "c": 2.24,
+        "approximate": false
+      },
+      "143": {
+        "text": "c = 2.24",
+        "c": 2.24,
+        "approximate": false
+      },
+      "144": {
+        "text": "c = 2.24",
+        "c": 2.24,
+        "approximate": false
+      },
+      "145": {
+        "text": "c = 2.24",
+        "c": 2.24,
+        "approximate": false
+      },
+      "146": {
+        "text": "c = 2.24",
+        "c": 2.24,
+        "approximate": false
+      },
+      "147": {
+        "text": "c = 2.24",
+        "c": 2.24,
+        "approximate": false
+      },
+      "148": {
+        "text": "c = 2.24",
+        "c": 2.24,
+        "approximate": false
+      },
+      "149": {
+        "text": "c = 2.24",
+        "c": 2.24,
+        "approximate": false
+      },
+      "150": {
+        "text": "c = 2.24",
+        "c": 2.24,
+        "approximate": false
+      },
+      "151": {
+        "text": "c = 2.24",
+        "c": 2.24,
+        "approximate": false
+      },
+      "152": {
+        "text": "c = 2.24",
+        "c": 2.24,
+        "approximate": false
+      },
+      "153": {
+        "text": "c = 2.24",
+        "c": 2.24,
+        "approximate": false
+      },
+      "154": {
+        "text": "c = 2.24",
+        "c": 2.24,
+        "approximate": false
+      },
+      "155": {
+        "text": "c = 2.24",
+        "c": 2.24,
+        "approximate": false
+      },
+      "156": {
+        "text": "c = 2.24",
+        "c": 2.24,
+        "approximate": false
+      },
+      "157": {
+        "text": "c = 2.24",
+        "c": 2.24,
+        "approximate": false
+      },
+      "158": {
+        "text": "c = 2.52",
+        "c": 2.52,
+        "approximate": false
+      },
+      "159": {
+        "text": "c = 2.52",
+        "c": 2.52,
+        "approximate": false
+      },
+      "160": {
+        "text": "c = 2.52",
+        "c": 2.52,
+        "approximate": false
+      },
+      "161": {
+        "text": "c = 2.52",
+        "c": 2.52,
+        "approximate": false
+      },
+      "162": {
+        "text": "c = 2.52",
+        "c": 2.52,
+        "approximate": false
+      },
+      "163": {
+        "text": "c = 2.52",
+        "c": 2.52,
+        "approximate": false
+      },
+      "164": {
+        "text": "c = 2.52",
+        "c": 2.52,
+        "approximate": false
+      },
+      "165": {
+        "text": "c = 2.52",
+        "c": 2.52,
+        "approximate": false
+      },
+      "166": {
+        "text": "c = 2.52",
+        "c": 2.52,
+        "approximate": false
+      },
+      "167": {
+        "text": "c = 2.52",
+        "c": 2.52,
+        "approximate": false
+      },
+      "168": {
+        "text": "c = 2.52",
+        "c": 2.52,
+        "approximate": false
+      },
+      "169": {
+        "text": "c = 2.52",
+        "c": 2.52,
+        "approximate": false
+      },
+      "170": {
+        "text": "c = 2.52",
+        "c": 2.52,
+        "approximate": false
+      },
+      "171": {
+        "text": "c = 2.52",
+        "c": 2.52,
+        "approximate": false
+      },
+      "172": {
+        "text": "c = 2.52",
+        "c": 2.52,
+        "approximate": false
+      },
+      "173": {
+        "text": "c = 2.52",
+        "c": 2.52,
+        "approximate": false
+      },
+      "174": {
+        "text": "c = 2.52",
+        "c": 2.52,
+        "approximate": false
+      },
+      "175": {
+        "text": "c = 2.52",
+        "c": 2.52,
+        "approximate": false
+      },
+      "176": {
+        "text": "c = 2.52",
+        "c": 2.52,
+        "approximate": false
+      },
+      "177": {
+        "text": "c = 2.52",
+        "c": 2.52,
+        "approximate": false
+      },
+      "178": {
+        "text": "c = 2.52",
+        "c": 2.52,
+        "approximate": false
+      },
+      "179": {
+        "text": "c = 2.8",
+        "c": 2.8,
+        "approximate": false
+      },
+      "180": {
+        "text": "c = 2.8",
+        "c": 2.8,
+        "approximate": false
+      },
+      "181": {
+        "text": "c = 2.8",
+        "c": 2.8,
+        "approximate": false
+      },
+      "182": {
+        "text": "c = 2.8",
+        "c": 2.8,
+        "approximate": false
+      },
+      "183": {
+        "text": "c = 2.8",
+        "c": 2.8,
+        "approximate": false
+      },
+      "184": {
+        "text": "c = 2.8",
+        "c": 2.8,
+        "approximate": false
+      },
+      "185": {
+        "text": "c = 2.8",
+        "c": 2.8,
+        "approximate": false
+      },
+      "186": {
+        "text": "c = 2.8",
+        "c": 2.8,
+        "approximate": false
+      },
+      "187": {
+        "text": "c = 2.8",
+        "c": 2.8,
+        "approximate": false
+      },
+      "188": {
+        "text": "c = 2.8",
+        "c": 2.8,
+        "approximate": false
+      },
+      "189": {
+        "text": "c = 2.8",
+        "c": 2.8,
+        "approximate": false
+      },
+      "190": {
+        "text": "c = 2.8",
+        "c": 2.8,
+        "approximate": false
+      },
+      "191": {
+        "text": "c = 2.8",
+        "c": 2.8,
+        "approximate": false
+      },
+      "192": {
+        "text": "c = 2.8",
+        "c": 2.8,
+        "approximate": false
+      },
+      "193": {
+        "text": "c = 2.8",
+        "c": 2.8,
+        "approximate": false
+      },
+      "194": {
+        "text": "c = 2.8",
+        "c": 2.8,
+        "approximate": false
+      },
+      "195": {
+        "text": "c = 2.8",
+        "c": 2.8,
+        "approximate": false
+      },
+      "196": {
+        "text": "c = 2.8",
+        "c": 2.8,
+        "approximate": false
+      },
+      "197": {
+        "text": "c = 2.8",
+        "c": 2.8,
+        "approximate": false
+      },
+      "198": {
+        "text": "c = 2.8",
+        "c": 2.8,
+        "approximate": false
+      },
+      "199": {
+        "text": "c = 2.8",
+        "c": 2.8,
+        "approximate": false
+      },
+      "200": {
+        "text": "c = 3.08",
+        "c": 3.08,
+        "approximate": false
+      },
+      "201": {
+        "text": "c = 3.08",
+        "c": 3.08,
+        "approximate": false
+      },
+      "202": {
+        "text": "c = 3.08",
+        "c": 3.08,
+        "approximate": false
+      },
+      "203": {
+        "text": "c = 3.08",
+        "c": 3.08,
+        "approximate": false
+      },
+      "204": {
+        "text": "c = 3.08",
+        "c": 3.08,
+        "approximate": false
+      },
+      "205": {
+        "text": "c = 3.08",
+        "c": 3.08,
+        "approximate": false
+      },
+      "206": {
+        "text": "c = 3.08",
+        "c": 3.08,
+        "approximate": false
+      },
+      "207": {
+        "text": "c = 3.08",
+        "c": 3.08,
+        "approximate": false
+      },
+      "208": {
+        "text": "c = 3.08",
+        "c": 3.08,
+        "approximate": false
+      },
+      "209": {
+        "text": "c = 3.08",
+        "c": 3.08,
+        "approximate": false
+      },
+      "210": {
+        "text": "c = 3.08",
+        "c": 3.08,
+        "approximate": false
+      },
+      "211": {
+        "text": "c = 3.08",
+        "c": 3.08,
+        "approximate": false
+      },
+      "212": {
+        "text": "c = 3.08",
+        "c": 3.08,
+        "approximate": false
+      },
+      "213": {
+        "text": "c = 3.08",
+        "c": 3.08,
+        "approximate": false
+      },
+      "214": {
+        "text": "c = 3.08",
+        "c": 3.08,
+        "approximate": false
+      },
+      "215": {
+        "text": "c = 3.08",
+        "c": 3.08,
+        "approximate": false
+      },
+      "216": {
+        "text": "c = 3.08",
+        "c": 3.08,
+        "approximate": false
+      },
+      "217": {
+        "text": "c = 3.08",
+        "c": 3.08,
+        "approximate": false
+      },
+      "218": {
+        "text": "c = 3.08",
+        "c": 3.08,
+        "approximate": false
+      },
+      "219": {
+        "text": "c = 3.08",
+        "c": 3.08,
+        "approximate": false
+      },
+      "220": {
+        "text": "c = 3.08",
+        "c": 3.08,
+        "approximate": false
+      },
+      "221": {
+        "text": "c = 3.36",
+        "c": 3.36,
+        "approximate": false
+      },
+      "222": {
+        "text": "c = 3.36",
+        "c": 3.36,
+        "approximate": false
+      },
+      "223": {
+        "text": "c = 3.36",
+        "c": 3.36,
+        "approximate": false
+      },
+      "224": {
+        "text": "c = 3.36",
+        "c": 3.36,
+        "approximate": false
+      },
+      "225": {
+        "text": "c = 3.36",
+        "c": 3.36,
+        "approximate": false
+      },
+      "226": {
+        "text": "c = 3.36",
+        "c": 3.36,
+        "approximate": false
+      },
+      "227": {
+        "text": "c = 3.36",
+        "c": 3.36,
+        "approximate": false
+      },
+      "228": {
+        "text": "c = 3.36",
+        "c": 3.36,
+        "approximate": false
+      },
+      "229": {
+        "text": "c = 3.36",
+        "c": 3.36,
+        "approximate": false
+      },
+      "230": {
+        "text": "c = 3.36",
+        "c": 3.36,
+        "approximate": false
+      },
+      "231": {
+        "text": "c = 3.36",
+        "c": 3.36,
+        "approximate": false
+      },
+      "232": {
+        "text": "c = 3.36",
+        "c": 3.36,
+        "approximate": false
+      },
+      "233": {
+        "text": "c = 3.36",
+        "c": 3.36,
+        "approximate": false
+      },
+      "234": {
+        "text": "c = 3.36",
+        "c": 3.36,
+        "approximate": false
+      },
+      "235": {
+        "text": "c = 3.36",
+        "c": 3.36,
+        "approximate": false
+      },
+      "236": {
+        "text": "c = 3.36",
+        "c": 3.36,
+        "approximate": false
+      },
+      "237": {
+        "text": "c = 3.36",
+        "c": 3.36,
+        "approximate": false
+      },
+      "238": {
+        "text": "c = 3.36",
+        "c": 3.36,
+        "approximate": false
+      },
+      "239": {
+        "text": "c = 3.36",
+        "c": 3.36,
+        "approximate": false
+      },
+      "240": {
+        "text": "c = 3.36",
+        "c": 3.36,
+        "approximate": false
+      },
+      "241": {
+        "text": "c = 3.36",
+        "c": 3.36,
+        "approximate": false
+      },
+      "242": {
+        "text": "c = 3.64",
+        "c": 3.64,
+        "approximate": false
+      },
+      "243": {
+        "text": "c = 3.64",
+        "c": 3.64,
+        "approximate": false
+      },
+      "244": {
+        "text": "c = 3.64",
+        "c": 3.64,
+        "approximate": false
+      },
+      "245": {
+        "text": "c = 3.64",
+        "c": 3.64,
+        "approximate": false
+      },
+      "246": {
+        "text": "c = 3.64",
+        "c": 3.64,
+        "approximate": false
+      },
+      "247": {
+        "text": "c = 3.64",
+        "c": 3.64,
+        "approximate": false
+      },
+      "248": {
+        "text": "c = 3.64",
+        "c": 3.64,
+        "approximate": false
+      },
+      "249": {
+        "text": "c = 3.64",
+        "c": 3.64,
+        "approximate": false
+      },
+      "250": {
+        "text": "c = 3.64",
+        "c": 3.64,
+        "approximate": false
+      },
+      "251": {
+        "text": "c = 3.64",
+        "c": 3.64,
+        "approximate": false
+      },
+      "252": {
+        "text": "c = 3.64",
+        "c": 3.64,
+        "approximate": false
+      },
+      "253": {
+        "text": "c = 3.64",
+        "c": 3.64,
+        "approximate": false
+      },
+      "254": {
+        "text": "c = 3.64",
+        "c": 3.64,
+        "approximate": false
+      },
+      "255": {
+        "text": "c = 3.64",
+        "c": 3.64,
+        "approximate": false
+      },
+      "256": {
+        "text": "c = 3.64",
+        "c": 3.64,
+        "approximate": false
+      },
+      "257": {
+        "text": "c = 3.64",
+        "c": 3.64,
+        "approximate": false
+      },
+      "258": {
+        "text": "c = 3.64",
+        "c": 3.64,
+        "approximate": false
+      },
+      "259": {
+        "text": "c = 3.64",
+        "c": 3.64,
+        "approximate": false
+      },
+      "260": {
+        "text": "c = 3.64",
+        "c": 3.64,
+        "approximate": false
+      },
+      "261": {
+        "text": "c = 3.64",
+        "c": 3.64,
+        "approximate": false
+      },
+      "262": {
+        "text": "c = 3.64",
+        "c": 3.64,
+        "approximate": false
+      },
+      "263": {
+        "text": "c = 3.92",
+        "c": 3.92,
+        "approximate": false
+      },
+      "264": {
+        "text": "c = 3.92",
+        "c": 3.92,
+        "approximate": false
+      },
+      "265": {
+        "text": "c = 3.92",
+        "c": 3.92,
+        "approximate": false
+      },
+      "266": {
+        "text": "c = 3.92",
+        "c": 3.92,
+        "approximate": false
+      },
+      "267": {
+        "text": "c = 3.92",
+        "c": 3.92,
+        "approximate": false
+      },
+      "268": {
+        "text": "c = 3.92",
+        "c": 3.92,
+        "approximate": false
+      },
+      "269": {
+        "text": "c = 3.92",
+        "c": 3.92,
+        "approximate": false
+      },
+      "270": {
+        "text": "c = 3.92",
+        "c": 3.92,
+        "approximate": false
+      },
+      "271": {
+        "text": "c = 3.92",
+        "c": 3.92,
+        "approximate": false
+      },
+      "272": {
+        "text": "c = 3.92",
+        "c": 3.92,
+        "approximate": false
+      },
+      "273": {
+        "text": "c = 3.92",
+        "c": 3.92,
+        "approximate": false
+      },
+      "274": {
+        "text": "c = 3.92",
+        "c": 3.92,
+        "approximate": false
+      },
+      "275": {
+        "text": "c = 3.92",
+        "c": 3.92,
+        "approximate": false
+      },
+      "276": {
+        "text": "c = 3.92",
+        "c": 3.92,
+        "approximate": false
+      },
+      "277": {
+        "text": "c = 3.92",
+        "c": 3.92,
+        "approximate": false
+      },
+      "278": {
+        "text": "c = 3.92",
+        "c": 3.92,
+        "approximate": false
+      },
+      "279": {
+        "text": "c = 3.92",
+        "c": 3.92,
+        "approximate": false
+      },
+      "280": {
+        "text": "c = 3.92",
+        "c": 3.92,
+        "approximate": false
+      },
+      "281": {
+        "text": "c = 3.92",
+        "c": 3.92,
+        "approximate": false
+      },
+      "282": {
+        "text": "c = 3.92",
+        "c": 3.92,
+        "approximate": false
+      },
+      "283": {
+        "text": "c = 3.92",
+        "c": 3.92,
+        "approximate": false
+      },
+      "284": {
+        "text": "c = 4.2",
+        "c": 4.2,
+        "approximate": false
+      },
+      "285": {
+        "text": "c = 4.2",
+        "c": 4.2,
+        "approximate": false
+      },
+      "286": {
+        "text": "c = 4.2",
+        "c": 4.2,
+        "approximate": false
+      },
+      "287": {
+        "text": "c = 4.2",
+        "c": 4.2,
+        "approximate": false
+      },
+      "288": {
+        "text": "c = 4.2",
+        "c": 4.2,
+        "approximate": false
+      },
+      "289": {
+        "text": "c = 4.2",
+        "c": 4.2,
+        "approximate": false
+      },
+      "290": {
+        "text": "c = 4.2",
+        "c": 4.2,
+        "approximate": false
+      },
+      "291": {
+        "text": "c = 4.2",
+        "c": 4.2,
+        "approximate": false
+      },
+      "292": {
+        "text": "c = 4.2",
+        "c": 4.2,
+        "approximate": false
+      },
+      "293": {
+        "text": "c = 4.2",
+        "c": 4.2,
+        "approximate": false
+      },
+      "294": {
+        "text": "c = 4.2",
+        "c": 4.2,
+        "approximate": false
+      },
+      "295": {
+        "text": "c = 4.2",
+        "c": 4.2,
+        "approximate": false
+      },
+      "296": {
+        "text": "c = 4.2",
+        "c": 4.2,
+        "approximate": false
+      },
+      "297": {
+        "text": "c = 4.2",
+        "c": 4.2,
+        "approximate": false
+      },
+      "298": {
+        "text": "c = 4.2",
+        "c": 4.2,
+        "approximate": false
+      },
+      "299": {
+        "text": "c = 4.2",
+        "c": 4.2,
+        "approximate": false
+      },
+      "300": {
+        "text": "c = 4.2",
+        "c": 4.2,
+        "approximate": false
+      },
+      "301": {
+        "text": "c = 4.2",
+        "c": 4.2,
+        "approximate": false
+      },
+      "302": {
+        "text": "c = 4.2",
+        "c": 4.2,
+        "approximate": false
+      },
+      "303": {
+        "text": "c = 4.2",
+        "c": 4.2,
+        "approximate": false
+      },
+      "304": {
+        "text": "c = 4.2",
+        "c": 4.2,
+        "approximate": false
+      },
+      "305": {
+        "text": "c = 4.48",
+        "c": 4.48,
+        "approximate": false
+      },
+      "306": {
+        "text": "c = 4.48",
+        "c": 4.48,
+        "approximate": false
+      },
+      "307": {
+        "text": "c = 4.48",
+        "c": 4.48,
+        "approximate": false
+      },
+      "308": {
+        "text": "c = 4.48",
+        "c": 4.48,
+        "approximate": false
+      },
+      "309": {
+        "text": "c = 4.48",
+        "c": 4.48,
+        "approximate": false
+      },
+      "310": {
+        "text": "c = 4.48",
+        "c": 4.48,
+        "approximate": false
+      },
+      "311": {
+        "text": "c = 4.48",
+        "c": 4.48,
+        "approximate": false
+      },
+      "312": {
+        "text": "c = 4.48",
+        "c": 4.48,
+        "approximate": false
+      },
+      "313": {
+        "text": "c = 4.48",
+        "c": 4.48,
+        "approximate": false
+      },
+      "314": {
+        "text": "c = 4.48",
+        "c": 4.48,
+        "approximate": false
+      },
+      "315": {
+        "text": "c = 4.48",
+        "c": 4.48,
+        "approximate": false
+      },
+      "316": {
+        "text": "c = 4.48",
+        "c": 4.48,
+        "approximate": false
+      },
+      "317": {
+        "text": "c = 4.48",
+        "c": 4.48,
+        "approximate": false
+      },
+      "318": {
+        "text": "c = 4.48",
+        "c": 4.48,
+        "approximate": false
+      },
+      "319": {
+        "text": "c = 4.48",
+        "c": 4.48,
+        "approximate": false
+      },
+      "320": {
+        "text": "c = 4.48",
+        "c": 4.48,
+        "approximate": false
+      },
+      "321": {
+        "text": "c = 4.48",
+        "c": 4.48,
+        "approximate": false
+      },
+      "322": {
+        "text": "c = 4.48",
+        "c": 4.48,
+        "approximate": false
+      },
+      "323": {
+        "text": "c = 4.48",
+        "c": 4.48,
+        "approximate": false
+      },
+      "324": {
+        "text": "c = 4.48",
+        "c": 4.48,
+        "approximate": false
+      },
+      "325": {
+        "text": "c = 4.48",
+        "c": 4.48,
+        "approximate": false
+      },
+      "326": {
+        "text": "c = 4.76",
+        "c": 4.76,
+        "approximate": false
+      },
+      "327": {
+        "text": "c = 4.76",
+        "c": 4.76,
+        "approximate": false
+      },
+      "328": {
+        "text": "c = 4.76",
+        "c": 4.76,
+        "approximate": false
+      },
+      "329": {
+        "text": "c = 4.76",
+        "c": 4.76,
+        "approximate": false
+      },
+      "330": {
+        "text": "c = 4.76",
+        "c": 4.76,
+        "approximate": false
+      },
+      "331": {
+        "text": "c = 4.76",
+        "c": 4.76,
+        "approximate": false
+      },
+      "332": {
+        "text": "c = 4.76",
+        "c": 4.76,
+        "approximate": false
+      },
+      "333": {
+        "text": "c = 4.76",
+        "c": 4.76,
+        "approximate": false
+      },
+      "334": {
+        "text": "c = 4.76",
+        "c": 4.76,
+        "approximate": false
+      },
+      "335": {
+        "text": "c = 4.76",
+        "c": 4.76,
+        "approximate": false
+      },
+      "336": {
+        "text": "c = 4.76",
+        "c": 4.76,
+        "approximate": false
+      },
+      "337": {
+        "text": "c = 4.76",
+        "c": 4.76,
+        "approximate": false
+      },
+      "338": {
+        "text": "c = 4.76",
+        "c": 4.76,
+        "approximate": false
+      },
+      "339": {
+        "text": "c = 4.76",
+        "c": 4.76,
+        "approximate": false
+      },
+      "340": {
+        "text": "c = 4.76",
+        "c": 4.76,
+        "approximate": false
+      },
+      "341": {
+        "text": "c = 4.76",
+        "c": 4.76,
+        "approximate": false
+      },
+      "342": {
+        "text": "c = 4.76",
+        "c": 4.76,
+        "approximate": false
+      },
+      "343": {
+        "text": "c = 4.76",
+        "c": 4.76,
+        "approximate": false
+      },
+      "344": {
+        "text": "c = 4.76",
+        "c": 4.76,
+        "approximate": false
+      },
+      "345": {
+        "text": "c = 4.76",
+        "c": 4.76,
+        "approximate": false
+      },
+      "346": {
+        "text": "c = 4.76",
+        "c": 4.76,
+        "approximate": false
+      },
+      "347": {
+        "text": "c = 5.04",
+        "c": 5.04,
+        "approximate": false
+      },
+      "348": {
+        "text": "c = 5.04",
+        "c": 5.04,
+        "approximate": false
+      },
+      "349": {
+        "text": "c = 5.04",
+        "c": 5.04,
+        "approximate": false
+      },
+      "350": {
+        "text": "c = 5.04",
+        "c": 5.04,
+        "approximate": false
+      },
+      "351": {
+        "text": "c = 5.04",
+        "c": 5.04,
+        "approximate": false
+      },
+      "352": {
+        "text": "c = 5.04",
+        "c": 5.04,
+        "approximate": false
+      },
+      "353": {
+        "text": "c = 5.04",
+        "c": 5.04,
+        "approximate": false
+      },
+      "354": {
+        "text": "c = 5.04",
+        "c": 5.04,
+        "approximate": false
+      },
+      "355": {
+        "text": "c = 5.04",
+        "c": 5.04,
+        "approximate": false
+      },
+      "356": {
+        "text": "c = 5.04",
+        "c": 5.04,
+        "approximate": false
+      },
+      "357": {
+        "text": "c = 5.04",
+        "c": 5.04,
+        "approximate": false
+      },
+      "358": {
+        "text": "c = 5.04",
+        "c": 5.04,
+        "approximate": false
+      },
+      "359": {
+        "text": "c = 5.04",
+        "c": 5.04,
+        "approximate": false
+      },
+      "360": {
+        "text": "c = 5.04",
+        "c": 5.04,
+        "approximate": false
+      },
+      "361": {
+        "text": "c = 5.04",
+        "c": 5.04,
+        "approximate": false
+      },
+      "362": {
+        "text": "c = 5.04",
+        "c": 5.04,
+        "approximate": false
+      },
+      "363": {
+        "text": "c = 5.04",
+        "c": 5.04,
+        "approximate": false
+      },
+      "364": {
+        "text": "c = 5.04",
+        "c": 5.04,
+        "approximate": false
+      },
+      "365": {
+        "text": "c = 5.04",
+        "c": 5.04,
+        "approximate": false
+      },
+      "366": {
+        "text": "c = 5.04",
+        "c": 5.04,
+        "approximate": false
+      },
+      "367": {
+        "text": "c = 5.04",
+        "c": 5.04,
+        "approximate": false
+      },
+      "368": {
+        "text": "c = 5.32",
+        "c": 5.32,
+        "approximate": false
+      },
+      "369": {
+        "text": "c = 5.32",
+        "c": 5.32,
+        "approximate": false
+      },
+      "370": {
+        "text": "c = 5.32",
+        "c": 5.32,
+        "approximate": false
+      },
+      "371": {
+        "text": "c = 5.32",
+        "c": 5.32,
+        "approximate": false
+      },
+      "372": {
+        "text": "c = 5.32",
+        "c": 5.32,
+        "approximate": false
+      },
+      "373": {
+        "text": "c = 5.32",
+        "c": 5.32,
+        "approximate": false
+      },
+      "374": {
+        "text": "c = 5.32",
+        "c": 5.32,
+        "approximate": false
+      },
+      "375": {
+        "text": "c = 5.32",
+        "c": 5.32,
+        "approximate": false
+      },
+      "376": {
+        "text": "c = 5.32",
+        "c": 5.32,
+        "approximate": false
+      },
+      "377": {
+        "text": "c = 5.32",
+        "c": 5.32,
+        "approximate": false
+      },
+      "378": {
+        "text": "c = 5.32",
+        "c": 5.32,
+        "approximate": false
+      },
+      "379": {
+        "text": "c = 5.32",
+        "c": 5.32,
+        "approximate": false
+      },
+      "380": {
+        "text": "c = 5.32",
+        "c": 5.32,
+        "approximate": false
+      },
+      "381": {
+        "text": "c = 5.32",
+        "c": 5.32,
+        "approximate": false
+      },
+      "382": {
+        "text": "c = 5.32",
+        "c": 5.32,
+        "approximate": false
+      },
+      "383": {
+        "text": "c = 5.32",
+        "c": 5.32,
+        "approximate": false
+      },
+      "384": {
+        "text": "c = 5.32",
+        "c": 5.32,
+        "approximate": false
+      },
+      "385": {
+        "text": "c = 5.32",
+        "c": 5.32,
+        "approximate": false
+      },
+      "386": {
+        "text": "c = 5.32",
+        "c": 5.32,
+        "approximate": false
+      },
+      "387": {
+        "text": "c = 5.32",
+        "c": 5.32,
+        "approximate": false
+      },
+      "388": {
+        "text": "c = 5.32",
+        "c": 5.32,
+        "approximate": false
+      },
+      "389": {
+        "text": "c = 5.6",
+        "c": 5.6,
+        "approximate": false
+      },
+      "390": {
+        "text": "c = 5.6",
+        "c": 5.6,
+        "approximate": false
+      },
+      "391": {
+        "text": "c = 5.6",
+        "c": 5.6,
+        "approximate": false
+      },
+      "392": {
+        "text": "c = 5.6",
+        "c": 5.6,
+        "approximate": false
+      },
+      "393": {
+        "text": "c = 5.6",
+        "c": 5.6,
+        "approximate": false
+      },
+      "394": {
+        "text": "c = 5.6",
+        "c": 5.6,
+        "approximate": false
+      },
+      "395": {
+        "text": "c = 5.6",
+        "c": 5.6,
+        "approximate": false
+      },
+      "396": {
+        "text": "c = 5.6",
+        "c": 5.6,
+        "approximate": false
+      },
+      "397": {
+        "text": "c = 5.6",
+        "c": 5.6,
+        "approximate": false
+      },
+      "398": {
+        "text": "c = 5.6",
+        "c": 5.6,
+        "approximate": false
+      },
+      "399": {
+        "text": "c = 5.6",
+        "c": 5.6,
+        "approximate": false
+      },
+      "400": {
+        "text": "c = 5.6",
+        "c": 5.6,
+        "approximate": false
+      },
+      "401": {
+        "text": "c = 5.6",
+        "c": 5.6,
+        "approximate": false
+      },
+      "402": {
+        "text": "c = 5.6",
+        "c": 5.6,
+        "approximate": false
+      },
+      "403": {
+        "text": "c = 5.6",
+        "c": 5.6,
+        "approximate": false
+      },
+      "404": {
+        "text": "c = 5.6",
+        "c": 5.6,
+        "approximate": false
+      },
+      "405": {
+        "text": "c = 5.6",
+        "c": 5.6,
+        "approximate": false
+      },
+      "406": {
+        "text": "c = 5.6",
+        "c": 5.6,
+        "approximate": false
+      },
+      "407": {
+        "text": "c = 5.6",
+        "c": 5.6,
+        "approximate": false
+      },
+      "408": {
+        "text": "c = 5.6",
+        "c": 5.6,
+        "approximate": false
+      },
+      "409": {
+        "text": "c = 5.6",
+        "c": 5.6,
+        "approximate": false
+      },
+      "410": {
+        "text": "c = 5.88",
+        "c": 5.88,
+        "approximate": false
+      },
+      "411": {
+        "text": "c = 5.88",
+        "c": 5.88,
+        "approximate": false
+      },
+      "412": {
+        "text": "c = 5.88",
+        "c": 5.88,
+        "approximate": false
+      },
+      "413": {
+        "text": "c = 5.88",
+        "c": 5.88,
+        "approximate": false
+      },
+      "414": {
+        "text": "c = 5.88",
+        "c": 5.88,
+        "approximate": false
+      },
+      "415": {
+        "text": "c = 5.88",
+        "c": 5.88,
+        "approximate": false
+      },
+      "416": {
+        "text": "c = 5.88",
+        "c": 5.88,
+        "approximate": false
+      },
+      "417": {
+        "text": "c = 5.88",
+        "c": 5.88,
+        "approximate": false
+      },
+      "418": {
+        "text": "c = 5.88",
+        "c": 5.88,
+        "approximate": false
+      },
+      "419": {
+        "text": "c = 5.88",
+        "c": 5.88,
+        "approximate": false
+      },
+      "420": {
+        "text": "c = 5.88",
+        "c": 5.88,
+        "approximate": false
+      },
+      "421": {
+        "text": "c = 5.88",
+        "c": 5.88,
+        "approximate": false
+      },
+      "422": {
+        "text": "c = 5.88",
+        "c": 5.88,
+        "approximate": false
+      },
+      "423": {
+        "text": "c = 5.88",
+        "c": 5.88,
+        "approximate": false
+      },
+      "424": {
+        "text": "c = 5.88",
+        "c": 5.88,
+        "approximate": false
+      },
+      "425": {
+        "text": "c = 5.88",
+        "c": 5.88,
+        "approximate": false
+      },
+      "426": {
+        "text": "c = 5.88",
+        "c": 5.88,
+        "approximate": false
+      },
+      "427": {
+        "text": "c = 5.88",
+        "c": 5.88,
+        "approximate": false
+      },
+      "428": {
+        "text": "c = 5.88",
+        "c": 5.88,
+        "approximate": false
+      },
+      "429": {
+        "text": "c = 5.88",
+        "c": 5.88,
+        "approximate": false
+      },
+      "430": {
+        "text": "c = 5.88",
+        "c": 5.88,
+        "approximate": false
+      },
+      "431": {
+        "text": "c = 6.16",
+        "c": 6.16,
+        "approximate": false
+      },
+      "432": {
+        "text": "c = 6.16",
+        "c": 6.16,
+        "approximate": false
+      },
+      "433": {
+        "text": "c = 6.16",
+        "c": 6.16,
+        "approximate": false
+      },
+      "434": {
+        "text": "c = 6.16",
+        "c": 6.16,
+        "approximate": false
+      },
+      "435": {
+        "text": "c = 6.16",
+        "c": 6.16,
+        "approximate": false
+      },
+      "436": {
+        "text": "c = 6.16",
+        "c": 6.16,
+        "approximate": false
+      },
+      "437": {
+        "text": "c = 6.16",
+        "c": 6.16,
+        "approximate": false
+      },
+      "438": {
+        "text": "c = 6.16",
+        "c": 6.16,
+        "approximate": false
+      },
+      "439": {
+        "text": "c = 6.16",
+        "c": 6.16,
+        "approximate": false
+      },
+      "440": {
+        "text": "c = 6.16",
+        "c": 6.16,
+        "approximate": false
+      },
+      "441": {
+        "text": "c = 6.16",
+        "c": 6.16,
+        "approximate": false
+      },
+      "442": {
+        "text": "c = 6.16",
+        "c": 6.16,
+        "approximate": false
+      },
+      "443": {
+        "text": "c = 6.16",
+        "c": 6.16,
+        "approximate": false
+      },
+      "444": {
+        "text": "c = 6.16",
+        "c": 6.16,
+        "approximate": false
+      },
+      "445": {
+        "text": "c = 6.16",
+        "c": 6.16,
+        "approximate": false
+      },
+      "446": {
+        "text": "c = 6.16",
+        "c": 6.16,
+        "approximate": false
+      },
+      "447": {
+        "text": "c = 6.16",
+        "c": 6.16,
+        "approximate": false
+      },
+      "448": {
+        "text": "c = 6.16",
+        "c": 6.16,
+        "approximate": false
+      },
+      "449": {
+        "text": "c = 6.16",
+        "c": 6.16,
+        "approximate": false
+      },
+      "450": {
+        "text": "c = 6.16",
+        "c": 6.16,
+        "approximate": false
+      },
+      "451": {
+        "text": "c = 6.16",
+        "c": 6.16,
+        "approximate": false
+      },
+      "452": {
+        "text": "c = 6.44",
+        "c": 6.44,
+        "approximate": false
+      },
+      "453": {
+        "text": "c = 6.44",
+        "c": 6.44,
+        "approximate": false
+      },
+      "454": {
+        "text": "c = 6.44",
+        "c": 6.44,
+        "approximate": false
+      },
+      "455": {
+        "text": "c = 6.44",
+        "c": 6.44,
+        "approximate": false
+      },
+      "456": {
+        "text": "c = 6.44",
+        "c": 6.44,
+        "approximate": false
+      },
+      "457": {
+        "text": "c = 6.44",
+        "c": 6.44,
+        "approximate": false
+      },
+      "458": {
+        "text": "c = 6.44",
+        "c": 6.44,
+        "approximate": false
+      },
+      "459": {
+        "text": "c = 6.44",
+        "c": 6.44,
+        "approximate": false
+      },
+      "460": {
+        "text": "c = 6.44",
+        "c": 6.44,
+        "approximate": false
+      },
+      "461": {
+        "text": "c = 6.44",
+        "c": 6.44,
+        "approximate": false
+      },
+      "462": {
+        "text": "c = 6.44",
+        "c": 6.44,
+        "approximate": false
+      },
+      "463": {
+        "text": "c = 6.44",
+        "c": 6.44,
+        "approximate": false
+      },
+      "464": {
+        "text": "c = 6.44",
+        "c": 6.44,
+        "approximate": false
+      },
+      "465": {
+        "text": "c = 6.44",
+        "c": 6.44,
+        "approximate": false
+      },
+      "466": {
+        "text": "c = 6.44",
+        "c": 6.44,
+        "approximate": false
+      },
+      "467": {
+        "text": "c = 6.44",
+        "c": 6.44,
+        "approximate": false
+      },
+      "468": {
+        "text": "c = 6.44",
+        "c": 6.44,
+        "approximate": false
+      },
+      "469": {
+        "text": "c = 6.44",
+        "c": 6.44,
+        "approximate": false
+      },
+      "470": {
+        "text": "c = 6.44",
+        "c": 6.44,
+        "approximate": false
+      },
+      "471": {
+        "text": "c = 6.44",
+        "c": 6.44,
+        "approximate": false
+      },
+      "472": {
+        "text": "c = 6.44",
+        "c": 6.44,
+        "approximate": false
+      },
+      "473": {
+        "text": "c = 6.72",
+        "c": 6.72,
+        "approximate": false
+      },
+      "474": {
+        "text": "c = 6.72",
+        "c": 6.72,
+        "approximate": false
+      },
+      "475": {
+        "text": "c = 6.72",
+        "c": 6.72,
+        "approximate": false
+      },
+      "476": {
+        "text": "c = 6.72",
+        "c": 6.72,
+        "approximate": false
+      },
+      "477": {
+        "text": "c = 6.72",
+        "c": 6.72,
+        "approximate": false
+      },
+      "478": {
+        "text": "c = 6.72",
+        "c": 6.72,
+        "approximate": false
+      },
+      "479": {
+        "text": "c = 6.72",
+        "c": 6.72,
+        "approximate": false
+      },
+      "480": {
+        "text": "c = 6.72",
+        "c": 6.72,
+        "approximate": false
+      },
+      "481": {
+        "text": "c = 6.72",
+        "c": 6.72,
+        "approximate": false
+      },
+      "482": {
+        "text": "c = 6.72",
+        "c": 6.72,
+        "approximate": false
+      },
+      "483": {
+        "text": "c = 6.72",
+        "c": 6.72,
+        "approximate": false
+      },
+      "484": {
+        "text": "c = 6.72",
+        "c": 6.72,
+        "approximate": false
+      },
+      "485": {
+        "text": "c = 6.72",
+        "c": 6.72,
+        "approximate": false
+      },
+      "486": {
+        "text": "c = 6.72",
+        "c": 6.72,
+        "approximate": false
+      },
+      "487": {
+        "text": "c = 6.72",
+        "c": 6.72,
+        "approximate": false
+      },
+      "488": {
+        "text": "c = 6.72",
+        "c": 6.72,
+        "approximate": false
+      },
+      "489": {
+        "text": "c = 6.72",
+        "c": 6.72,
+        "approximate": false
+      },
+      "490": {
+        "text": "c = 6.72",
+        "c": 6.72,
+        "approximate": false
+      },
+      "491": {
+        "text": "c = 6.72",
+        "c": 6.72,
+        "approximate": false
+      },
+      "492": {
+        "text": "c = 6.72",
+        "c": 6.72,
+        "approximate": false
+      },
+      "493": {
+        "text": "c = 6.72",
+        "c": 6.72,
+        "approximate": false
+      },
+      "494": {
+        "text": "c = 7",
+        "c": 7.0,
+        "approximate": false
+      },
+      "495": {
+        "text": "c = 7",
+        "c": 7.0,
+        "approximate": false
+      },
+      "496": {
+        "text": "c = 7",
+        "c": 7.0,
+        "approximate": false
+      },
+      "497": {
+        "text": "c = 7",
+        "c": 7.0,
+        "approximate": false
+      },
+      "498": {
+        "text": "c = 7",
+        "c": 7.0,
+        "approximate": false
+      },
+      "499": {
+        "text": "c = 7",
+        "c": 7.0,
+        "approximate": false
+      },
+      "500": {
+        "text": "c = 7",
+        "c": 7.0,
+        "approximate": false
+      },
+      "501": {
+        "text": "c = 7",
+        "c": 7.0,
+        "approximate": false
+      },
+      "502": {
+        "text": "c = 7",
+        "c": 7.0,
+        "approximate": false
+      },
+      "503": {
+        "text": "c = 7",
+        "c": 7.0,
+        "approximate": false
+      },
+      "504": {
+        "text": "c = 7",
+        "c": 7.0,
+        "approximate": false
+      },
+      "505": {
+        "text": "c = 7",
+        "c": 7.0,
+        "approximate": false
+      },
+      "506": {
+        "text": "c = 7",
+        "c": 7.0,
+        "approximate": false
+      },
+      "507": {
+        "text": "c = 7",
+        "c": 7.0,
+        "approximate": false
+      },
+      "508": {
+        "text": "c = 7",
+        "c": 7.0,
+        "approximate": false
+      },
+      "509": {
+        "text": "c = 7",
+        "c": 7.0,
+        "approximate": false
+      },
+      "510": {
+        "text": "c = 7",
+        "c": 7.0,
+        "approximate": false
+      },
+      "511": {
+        "text": "c = 7",
+        "c": 7.0,
+        "approximate": false
+      },
+      "512": {
+        "text": "c = 7",
+        "c": 7.0,
+        "approximate": false
+      },
+      "513": {
+        "text": "c = 7",
+        "c": 7.0,
+        "approximate": false
+      },
+      "514": {
+        "text": "c = 7",
+        "c": 7.0,
+        "approximate": false
+      },
+      "515": {
+        "text": "c = 7.28",
+        "c": 7.28,
+        "approximate": false
+      },
+      "516": {
+        "text": "c = 7.28",
+        "c": 7.28,
+        "approximate": false
+      },
+      "517": {
+        "text": "c = 7.28",
+        "c": 7.28,
+        "approximate": false
+      },
+      "518": {
+        "text": "c = 7.28",
+        "c": 7.28,
+        "approximate": false
+      },
+      "519": {
+        "text": "c = 7.28",
+        "c": 7.28,
+        "approximate": false
+      },
+      "520": {
+        "text": "c = 7.28",
+        "c": 7.28,
+        "approximate": false
+      },
+      "521": {
+        "text": "c = 7.28",
+        "c": 7.28,
+        "approximate": false
+      },
+      "522": {
+        "text": "c = 7.28",
+        "c": 7.28,
+        "approximate": false
+      },
+      "523": {
+        "text": "c = 7.28",
+        "c": 7.28,
+        "approximate": false
+      },
+      "524": {
+        "text": "c = 7.28",
+        "c": 7.28,
+        "approximate": false
+      },
+      "525": {
+        "text": "c = 7.28",
+        "c": 7.28,
+        "approximate": false
+      },
+      "526": {
+        "text": "c = 7.28",
+        "c": 7.28,
+        "approximate": false
+      },
+      "527": {
+        "text": "c = 7.28",
+        "c": 7.28,
+        "approximate": false
+      },
+      "528": {
+        "text": "c = 7.28",
+        "c": 7.28,
+        "approximate": false
+      },
+      "529": {
+        "text": "c = 7.28",
+        "c": 7.28,
+        "approximate": false
+      },
+      "530": {
+        "text": "c = 7.28",
+        "c": 7.28,
+        "approximate": false
+      },
+      "531": {
+        "text": "c = 7.28",
+        "c": 7.28,
+        "approximate": false
+      },
+      "532": {
+        "text": "c = 7.28",
+        "c": 7.28,
+        "approximate": false
+      },
+      "533": {
+        "text": "c = 7.28",
+        "c": 7.28,
+        "approximate": false
+      },
+      "534": {
+        "text": "c = 7.28",
+        "c": 7.28,
+        "approximate": false
+      },
+      "535": {
+        "text": "c = 7.28",
+        "c": 7.28,
+        "approximate": false
+      }
+    },
+    "basis": "将半圆端点按26条实际水平基线归组，对应原书标准行高0.28。"
+  },
+  "75": {
+    "records": {
+      "26": {
+        "text": "c = 0.28 · y 在 0.28 与 0.58 之间交替",
+        "c": 0.28,
+        "approximate": false
+      },
+      "27": {
+        "text": "c = 0.56 · y 在 0.56 与 0.86 之间交替",
+        "c": 0.56,
+        "approximate": false
+      },
+      "28": {
+        "text": "c = 0.84 · y 在 0.84 与 1.14 之间交替",
+        "c": 0.84,
+        "approximate": false
+      },
+      "29": {
+        "text": "c = 1.12 · y 在 1.12 与 1.42 之间交替",
+        "c": 1.12,
+        "approximate": false
+      },
+      "30": {
+        "text": "c = 1.4 · y 在 1.4 与 1.7 之间交替",
+        "c": 1.4,
+        "approximate": false
+      },
+      "31": {
+        "text": "c = 1.68 · y 在 1.68 与 1.98 之间交替",
+        "c": 1.68,
+        "approximate": false
+      },
+      "32": {
+        "text": "c = 1.96 · y 在 1.96 与 2.26 之间交替",
+        "c": 1.96,
+        "approximate": false
+      },
+      "33": {
+        "text": "c = 2.24 · y 在 2.24 与 2.54 之间交替",
+        "c": 2.24,
+        "approximate": false
+      },
+      "34": {
+        "text": "c = 2.52 · y 在 2.52 与 2.82 之间交替",
+        "c": 2.52,
+        "approximate": false
+      },
+      "35": {
+        "text": "c = 2.8 · y 在 2.8 与 3.1 之间交替",
+        "c": 2.8,
+        "approximate": false
+      },
+      "36": {
+        "text": "c = 3.08 · y 在 3.08 与 3.38 之间交替",
+        "c": 3.08,
+        "approximate": false
+      },
+      "37": {
+        "text": "c = 3.36 · y 在 3.36 与 3.66 之间交替",
+        "c": 3.36,
+        "approximate": false
+      },
+      "38": {
+        "text": "c = 3.64 · y 在 3.64 与 3.94 之间交替",
+        "c": 3.64,
+        "approximate": false
+      },
+      "39": {
+        "text": "c = 3.92 · y 在 3.92 与 4.22 之间交替",
+        "c": 3.92,
+        "approximate": false
+      },
+      "40": {
+        "text": "c = 4.2 · y 在 4.2 与 4.5 之间交替",
+        "c": 4.2,
+        "approximate": false
+      },
+      "41": {
+        "text": "c = 4.48 · y 在 4.48 与 4.78 之间交替",
+        "c": 4.48,
+        "approximate": false
+      },
+      "42": {
+        "text": "c = 4.76 · y 在 4.76 与 5.06 之间交替",
+        "c": 4.76,
+        "approximate": false
+      },
+      "43": {
+        "text": "c = 5.04 · y 在 5.04 与 5.34 之间交替",
+        "c": 5.04,
+        "approximate": false
+      },
+      "44": {
+        "text": "c = 5.32 · y 在 5.32 与 5.62 之间交替",
+        "c": 5.32,
+        "approximate": false
+      },
+      "45": {
+        "text": "c = 5.6 · y 在 5.6 与 5.9 之间交替",
+        "c": 5.6,
+        "approximate": false
+      },
+      "46": {
+        "text": "c = 5.88 · y 在 5.88 与 6.18 之间交替",
+        "c": 5.88,
+        "approximate": false
+      },
+      "47": {
+        "text": "c = 6.16 · y 在 6.16 与 6.46 之间交替",
+        "c": 6.16,
+        "approximate": false
+      },
+      "48": {
+        "text": "c = 6.44 · y 在 6.44 与 6.74 之间交替",
+        "c": 6.44,
+        "approximate": false
+      },
+      "49": {
+        "text": "c = 6.72 · y 在 6.72 与 7.02 之间交替",
+        "c": 6.72,
+        "approximate": false
+      },
+      "50": {
+        "text": "c = 7 · y 在 7 与 7.3 之间交替",
+        "c": 7.0,
+        "approximate": false
+      }
+    },
+    "basis": "原图25条可见折线按标准行高；每条折线高差原书明示0.3。"
+  },
+  "79": {
+    "records": {
+      "0": {
+        "text": "c = 1 · 0.2c = 0.2；0.3c = 0.3",
+        "c": 1,
+        "approximate": false
+      },
+      "1": {
+        "text": "c = 2 · 0.2c = 0.4；0.3c = 0.6",
+        "c": 2,
+        "approximate": false
+      },
+      "2": {
+        "text": "c = 3 · 0.2c = 0.6；0.3c = 0.9",
+        "c": 3,
+        "approximate": false
+      },
+      "3": {
+        "text": "c = 4 · 0.2c = 0.8；0.3c = 1.2",
+        "c": 4,
+        "approximate": false
+      },
+      "4": {
+        "text": "c = 5 · 0.2c = 1；0.3c = 1.5",
+        "c": 5,
+        "approximate": false
+      },
+      "5": {
+        "text": "c = 6 · 0.2c = 1.2；0.3c = 1.8",
+        "c": 6,
+        "approximate": false
+      },
+      "6": {
+        "text": "c = 7 · 0.2c = 1.4；0.3c = 2.1",
+        "c": 7,
+        "approximate": false
+      },
+      "7": {
+        "text": "c = 8 · 0.2c = 1.6；0.3c = 2.4",
+        "c": 8,
+        "approximate": false
+      },
+      "8": {
+        "text": "c = 9 · 0.2c = 1.8；0.3c = 2.7",
+        "c": 9,
+        "approximate": false
+      },
+      "9": {
+        "text": "c = 10 · 0.2c = 2；0.3c = 3",
+        "c": 10,
+        "approximate": false
+      },
+      "10": {
+        "text": "c = 11 · 0.2c = 2.2；0.3c = 3.3",
+        "c": 11,
+        "approximate": false
+      },
+      "11": {
+        "text": "c = 12 · 0.2c = 2.4；0.3c = 3.6",
+        "c": 12,
+        "approximate": false
+      },
+      "12": {
+        "text": "c = 13 · 0.2c = 2.6；0.3c = 3.9",
+        "c": 13,
+        "approximate": false
+      },
+      "13": {
+        "text": "c = 14 · 0.2c = 2.8；0.3c = 4.2",
+        "c": 14,
+        "approximate": false
+      },
+      "14": {
+        "text": "c = 15 · 0.2c = 3；0.3c = 4.5",
+        "c": 15,
+        "approximate": false
+      },
+      "15": {
+        "text": "c = 16 · 0.2c = 3.2；0.3c = 4.8",
+        "c": 16,
+        "approximate": false
+      },
+      "16": {
+        "text": "c = 17 · 0.2c = 3.4；0.3c = 5.1",
+        "c": 17,
+        "approximate": false
+      },
+      "17": {
+        "text": "c = 18 · 0.2c = 3.6；0.3c = 5.4",
+        "c": 18,
+        "approximate": false
+      },
+      "18": {
+        "text": "c = 19 · 0.2c = 3.8；0.3c = 5.7",
+        "c": 19,
+        "approximate": false
+      },
+      "19": {
+        "text": "c = 20 · 0.2c = 4；0.3c = 6",
+        "c": 20,
+        "approximate": false
+      },
+      "20": {
+        "text": "c = 21 · 0.2c = 4.2；0.3c = 6.3",
+        "c": 21,
+        "approximate": false
+      },
+      "21": {
+        "text": "c = 22 · 0.2c = 4.4；0.3c = 6.6",
+        "c": 22,
+        "approximate": false
+      },
+      "22": {
+        "text": "c = 23 · 0.2c = 4.6；0.3c = 6.9",
+        "c": 23,
+        "approximate": false
+      },
+      "23": {
+        "text": "c = 24 · 0.2c = 4.8；0.3c = 7.2",
+        "c": 24,
+        "approximate": false
+      }
+    },
+    "basis": "x=0处截距每次增加0.3，频率同步增加0.2；两项共同验证c=1…24。"
+  },
+  "88": {
+    "records": {
+      "0": {
+        "text": "c = 3.765",
+        "c": 3.765,
+        "approximate": false
+      },
+      "1": {
+        "text": "c = 5.5075",
+        "c": 5.5075,
+        "approximate": false
+      },
+      "2": {
+        "text": "c = 6.37875",
+        "c": 6.37875,
+        "approximate": false
+      },
+      "3": {
+        "text": "c = 6.81438",
+        "c": 6.814375,
+        "approximate": false
+      },
+      "4": {
+        "text": "c = 7.03219",
+        "c": 7.0321875,
+        "approximate": false
+      },
+      "5": {
+        "text": "c = 7.25 − 6.97/2^6 ≈ 7.141093750",
+        "c": 7.14109375,
+        "approximate": false
+      },
+      "6": {
+        "text": "c = 7.25 − 6.97/2^7 ≈ 7.195546875",
+        "c": 7.195546875,
+        "approximate": false
+      },
+      "7": {
+        "text": "c = 7.25 − 6.97/2^8 ≈ 7.222773437",
+        "c": 7.222773437,
+        "approximate": false
+      },
+      "8": {
+        "text": "c = 7.25 − 6.97/2^9 ≈ 7.236386719",
+        "c": 7.236386719,
+        "approximate": false
+      },
+      "9": {
+        "text": "c = 7.25 − 6.97/2^10 ≈ 7.243193359",
+        "c": 7.243193359,
+        "approximate": false
+      },
+      "10": {
+        "text": "c = 7.25 − 6.97/2^11 ≈ 7.246596680",
+        "c": 7.24659668,
+        "approximate": false
+      },
+      "11": {
+        "text": "c = 7.25 − 6.97/2^12 ≈ 7.248298340",
+        "c": 7.24829834,
+        "approximate": false
+      },
+      "12": {
+        "text": "c = 7.25 − 6.97/2^13 ≈ 7.249149170",
+        "c": 7.24914917,
+        "approximate": false
+      },
+      "13": {
+        "text": "c = 7.25 − 6.97/2^14 ≈ 7.249574585",
+        "c": 7.249574585,
+        "approximate": false
+      },
+      "14": {
+        "text": "c = 7.25 − 6.97/2^15 ≈ 7.249787292",
+        "c": 7.249787292,
+        "approximate": false
+      },
+      "15": {
+        "text": "c = 7.25 − 6.97/2^16 ≈ 7.249893646",
+        "c": 7.249893646,
+        "approximate": false
+      },
+      "16": {
+        "text": "c = 7.25 − 6.97/2^17 ≈ 7.249946823",
+        "c": 7.249946823,
+        "approximate": false
+      },
+      "17": {
+        "text": "c = 7.25 − 6.97/2^18 ≈ 7.249973412",
+        "c": 7.249973412,
+        "approximate": false
+      },
+      "18": {
+        "text": "c = 7.25 − 6.97/2^19 ≈ 7.249986706",
+        "c": 7.249986706,
+        "approximate": false
+      },
+      "19": {
+        "text": "c = 7.25 − 6.97/2^20 ≈ 7.249993353",
+        "c": 7.249993353,
+        "approximate": false
+      },
+      "20": {
+        "text": "c = 7.25 − 6.97/2^21 ≈ 7.249996676",
+        "c": 7.249996676,
+        "approximate": false
+      },
+      "21": {
+        "text": "c = 7.25 − 6.97/2^22 ≈ 7.249998338",
+        "c": 7.249998338,
+        "approximate": false
+      },
+      "22": {
+        "text": "c = 7.25 − 6.97/2^23 ≈ 7.249999169",
+        "c": 7.249999169,
+        "approximate": false
+      },
+      "23": {
+        "text": "c = 7.25 − 6.97/2^24 ≈ 7.249999585",
+        "c": 7.249999585,
+        "approximate": false
+      },
+      "24": {
+        "text": "c = 7.25 − 6.97/2^25 ≈ 7.249999792",
+        "c": 7.249999792,
+        "approximate": false
+      }
+    },
+    "basis": "原书明确递推 c←(c+7.25)/2，从c=.28开始；首条可见线是3.765。"
+  },
+  "97": {
+    "records": {
+      "0": {
+        "text": "c = 2.5",
+        "c": 2.5,
+        "approximate": false
+      },
+      "1": {
+        "text": "c = 5",
+        "c": 5.0,
+        "approximate": false
+      },
+      "2": {
+        "text": "c = 7.5",
+        "c": 7.5,
+        "approximate": false
+      },
+      "3": {
+        "text": "c = 10",
+        "c": 10.0,
+        "approximate": false
+      },
+      "4": {
+        "text": "c = 12.5",
+        "c": 12.5,
+        "approximate": false
+      },
+      "5": {
+        "text": "c = 15",
+        "c": 15.0,
+        "approximate": false
+      },
+      "6": {
+        "text": "c = 17.5",
+        "c": 17.5,
+        "approximate": false
+      },
+      "7": {
+        "text": "c = 20",
+        "c": 20.0,
+        "approximate": false
+      },
+      "8": {
+        "text": "c = 22.5",
+        "c": 22.5,
+        "approximate": false
+      },
+      "9": {
+        "text": "c = 25",
+        "c": 25.0,
+        "approximate": false
+      },
+      "10": {
+        "text": "c = 27.5",
+        "c": 27.5,
+        "approximate": false
+      },
+      "11": {
+        "text": "c = 30",
+        "c": 30.0,
+        "approximate": false
+      },
+      "12": {
+        "text": "c = 32.5",
+        "c": 32.5,
+        "approximate": false
+      },
+      "13": {
+        "text": "c = 35",
+        "c": 35.0,
+        "approximate": false
+      },
+      "14": {
+        "text": "c = 37.5",
+        "c": 37.5,
+        "approximate": false
+      },
+      "15": {
+        "text": "c = 40",
+        "c": 40.0,
+        "approximate": false
+      },
+      "16": {
+        "text": "c = 42.5",
+        "c": 42.5,
+        "approximate": false
+      },
+      "17": {
+        "text": "c = 45",
+        "c": 45.0,
+        "approximate": false
+      },
+      "18": {
+        "text": "c = 47.5",
+        "c": 47.5,
+        "approximate": false
+      },
+      "19": {
+        "text": "c = 50",
+        "c": 50.0,
+        "approximate": false
+      },
+      "20": {
+        "text": "c = 52.5",
+        "c": 52.5,
+        "approximate": false
+      },
+      "21": {
+        "text": "c = 55",
+        "c": 55.0,
+        "approximate": false
+      },
+      "22": {
+        "text": "c = 57.5",
+        "c": 57.5,
+        "approximate": false
+      },
+      "23": {
+        "text": "c = 60",
+        "c": 60.0,
+        "approximate": false
+      },
+      "24": {
+        "text": "c = 62.5",
+        "c": 62.5,
+        "approximate": false
+      }
+    },
+    "basis": "由x=0截距与共同的11/12竖直平移反解；黑色直线y=5/4作为校准。"
+  },
+  "100": {
+    "records": {
+      "0": {
+        "text": "c = 1 · x = −exp(cy/12)",
+        "c": 1,
+        "approximate": false
+      },
+      "1": {
+        "text": "c = 1 · x = −exp(−cy/12)",
+        "c": 1,
+        "approximate": false
+      },
+      "2": {
+        "text": "c = 2 · x = −exp(cy/12)",
+        "c": 2,
+        "approximate": false
+      },
+      "3": {
+        "text": "c = 2 · x = −exp(−cy/12)",
+        "c": 2,
+        "approximate": false
+      },
+      "4": {
+        "text": "c = 3 · x = −exp(cy/12)",
+        "c": 3,
+        "approximate": false
+      },
+      "5": {
+        "text": "c = 3 · x = −exp(−cy/12)",
+        "c": 3,
+        "approximate": false
+      },
+      "6": {
+        "text": "c = 4 · x = −exp(cy/12)",
+        "c": 4,
+        "approximate": false
+      },
+      "7": {
+        "text": "c = 4 · x = −exp(−cy/12)",
+        "c": 4,
+        "approximate": false
+      },
+      "8": {
+        "text": "c = 5 · x = −exp(cy/12)",
+        "c": 5,
+        "approximate": false
+      },
+      "9": {
+        "text": "c = 5 · x = −exp(−cy/12)",
+        "c": 5,
+        "approximate": false
+      },
+      "10": {
+        "text": "c = 6 · x = −exp(cy/12)",
+        "c": 6,
+        "approximate": false
+      },
+      "11": {
+        "text": "c = 6 · x = −exp(−cy/12)",
+        "c": 6,
+        "approximate": false
+      },
+      "12": {
+        "text": "c = 7 · x = −exp(cy/12)",
+        "c": 7,
+        "approximate": false
+      },
+      "13": {
+        "text": "c = 7 · x = −exp(−cy/12)",
+        "c": 7,
+        "approximate": false
+      },
+      "14": {
+        "text": "c = 8 · x = −exp(cy/12)",
+        "c": 8,
+        "approximate": false
+      },
+      "15": {
+        "text": "c = 8 · x = −exp(−cy/12)",
+        "c": 8,
+        "approximate": false
+      },
+      "16": {
+        "text": "c = 9 · x = −exp(cy/12)",
+        "c": 9,
+        "approximate": false
+      },
+      "17": {
+        "text": "c = 9 · x = −exp(−cy/12)",
+        "c": 9,
+        "approximate": false
+      },
+      "18": {
+        "text": "c = 10 · x = −exp(cy/12)",
+        "c": 10,
+        "approximate": false
+      },
+      "19": {
+        "text": "c = 10 · x = −exp(−cy/12)",
+        "c": 10,
+        "approximate": false
+      },
+      "20": {
+        "text": "c = 11 · x = −exp(cy/12)",
+        "c": 11,
+        "approximate": false
+      },
+      "21": {
+        "text": "c = 11 · x = −exp(−cy/12)",
+        "c": 11,
+        "approximate": false
+      },
+      "22": {
+        "text": "c = 12 · x = −exp(cy/12)",
+        "c": 12,
+        "approximate": false
+      },
+      "23": {
+        "text": "c = 12 · x = −exp(−cy/12)",
+        "c": 12,
+        "approximate": false
+      },
+      "24": {
+        "text": "c = 13 · x = −exp(cy/12)",
+        "c": 13,
+        "approximate": false
+      },
+      "25": {
+        "text": "c = 13 · x = −exp(−cy/12)",
+        "c": 13,
+        "approximate": false
+      },
+      "26": {
+        "text": "c = 14 · x = −exp(cy/12)",
+        "c": 14,
+        "approximate": false
+      },
+      "27": {
+        "text": "c = 14 · x = −exp(−cy/12)",
+        "c": 14,
+        "approximate": false
+      },
+      "28": {
+        "text": "c = 15 · x = −exp(cy/12)",
+        "c": 15,
+        "approximate": false
+      },
+      "29": {
+        "text": "c = 15 · x = −exp(−cy/12)",
+        "c": 15,
+        "approximate": false
+      },
+      "30": {
+        "text": "c = 16 · x = −exp(cy/12)",
+        "c": 16,
+        "approximate": false
+      },
+      "31": {
+        "text": "c = 16 · x = −exp(−cy/12)",
+        "c": 16,
+        "approximate": false
+      },
+      "32": {
+        "text": "c = 17 · x = −exp(cy/12)",
+        "c": 17,
+        "approximate": false
+      },
+      "33": {
+        "text": "c = 17 · x = −exp(−cy/12)",
+        "c": 17,
+        "approximate": false
+      },
+      "34": {
+        "text": "c = 18 · x = −exp(cy/12)",
+        "c": 18,
+        "approximate": false
+      },
+      "35": {
+        "text": "c = 18 · x = −exp(−cy/12)",
+        "c": 18,
+        "approximate": false
+      },
+      "36": {
+        "text": "c = 19 · x = −exp(cy/12)",
+        "c": 19,
+        "approximate": false
+      },
+      "37": {
+        "text": "c = 19 · x = −exp(−cy/12)",
+        "c": 19,
+        "approximate": false
+      },
+      "38": {
+        "text": "c = 20 · x = −exp(cy/12)",
+        "c": 20,
+        "approximate": false
+      },
+      "39": {
+        "text": "c = 20 · x = −exp(−cy/12)",
+        "c": 20,
+        "approximate": false
+      },
+      "40": {
+        "text": "c = 21 · x = −exp(cy/12)",
+        "c": 21,
+        "approximate": false
+      },
+      "41": {
+        "text": "c = 21 · x = −exp(−cy/12)",
+        "c": 21,
+        "approximate": false
+      },
+      "42": {
+        "text": "c = 22 · x = −exp(cy/12)",
+        "c": 22,
+        "approximate": false
+      },
+      "43": {
+        "text": "c = 22 · x = −exp(−cy/12)",
+        "c": 22,
+        "approximate": false
+      },
+      "44": {
+        "text": "c = 23 · x = −exp(cy/12)",
+        "c": 23,
+        "approximate": false
+      },
+      "45": {
+        "text": "c = 23 · x = −exp(−cy/12)",
+        "c": 23,
+        "approximate": false
+      },
+      "46": {
+        "text": "c = 24 · x = −exp(cy/12)",
+        "c": 24,
+        "approximate": false
+      },
+      "47": {
+        "text": "c = 24 · x = −exp(−cy/12)",
+        "c": 24,
+        "approximate": false
+      },
+      "48": {
+        "text": "c = 25 · x = −exp(cy/12)",
+        "c": 25,
+        "approximate": false
+      },
+      "49": {
+        "text": "c = 25 · x = −exp(−cy/12)",
+        "c": 25,
+        "approximate": false
+      }
+    },
+    "basis": "对原图每条指数曲线取log，斜率×12×72恢复c；所有可见路径取值为1…25。"
+  },
+  "96": {
+    "records": {
+      "0": {
+        "text": "c = 0.28",
+        "c": 0.28,
+        "approximate": false
+      },
+      "1": {
+        "text": "c = 0.28",
+        "c": 0.28,
+        "approximate": false
+      },
+      "2": {
+        "text": "c = 0.56",
+        "c": 0.56,
+        "approximate": false
+      },
+      "3": {
+        "text": "c = 0.56",
+        "c": 0.56,
+        "approximate": false
+      },
+      "4": {
+        "text": "c = 0.84",
+        "c": 0.84,
+        "approximate": false
+      },
+      "5": {
+        "text": "c = 0.84",
+        "c": 0.84,
+        "approximate": false
+      },
+      "6": {
+        "text": "c = 1.12",
+        "c": 1.12,
+        "approximate": false
+      },
+      "7": {
+        "text": "c = 1.12",
+        "c": 1.12,
+        "approximate": false
+      },
+      "8": {
+        "text": "c = 1.12",
+        "c": 1.12,
+        "approximate": false
+      },
+      "9": {
+        "text": "c = 1.4",
+        "c": 1.4,
+        "approximate": false
+      },
+      "10": {
+        "text": "c = 1.4",
+        "c": 1.4,
+        "approximate": false
+      },
+      "11": {
+        "text": "c = 1.4",
+        "c": 1.4,
+        "approximate": false
+      },
+      "12": {
+        "text": "c = 1.68",
+        "c": 1.68,
+        "approximate": false
+      },
+      "13": {
+        "text": "c = 1.68",
+        "c": 1.68,
+        "approximate": false
+      },
+      "14": {
+        "text": "c = 1.68",
+        "c": 1.68,
+        "approximate": false
+      },
+      "15": {
+        "text": "c = 1.96",
+        "c": 1.96,
+        "approximate": false
+      },
+      "16": {
+        "text": "c = 1.96",
+        "c": 1.96,
+        "approximate": false
+      },
+      "17": {
+        "text": "c = 1.96",
+        "c": 1.96,
+        "approximate": false
+      },
+      "18": {
+        "text": "c = 2.24",
+        "c": 2.24,
+        "approximate": false
+      },
+      "19": {
+        "text": "c = 2.24",
+        "c": 2.24,
+        "approximate": false
+      },
+      "20": {
+        "text": "c = 2.24",
+        "c": 2.24,
+        "approximate": false
+      },
+      "21": {
+        "text": "c = 2.52",
+        "c": 2.52,
+        "approximate": false
+      },
+      "22": {
+        "text": "c = 2.52",
+        "c": 2.52,
+        "approximate": false
+      },
+      "23": {
+        "text": "c = 2.52",
+        "c": 2.52,
+        "approximate": false
+      },
+      "24": {
+        "text": "c = 2.8",
+        "c": 2.8,
+        "approximate": false
+      },
+      "25": {
+        "text": "c = 2.8",
+        "c": 2.8,
+        "approximate": false
+      },
+      "26": {
+        "text": "c = 2.8",
+        "c": 2.8,
+        "approximate": false
+      },
+      "27": {
+        "text": "c = 3.08",
+        "c": 3.08,
+        "approximate": false
+      },
+      "28": {
+        "text": "c = 3.08",
+        "c": 3.08,
+        "approximate": false
+      },
+      "29": {
+        "text": "c = 3.08",
+        "c": 3.08,
+        "approximate": false
+      },
+      "30": {
+        "text": "c = 3.36",
+        "c": 3.36,
+        "approximate": false
+      },
+      "31": {
+        "text": "c = 3.36",
+        "c": 3.36,
+        "approximate": false
+      },
+      "32": {
+        "text": "c = 3.36",
+        "c": 3.36,
+        "approximate": false
+      },
+      "33": {
+        "text": "c = 3.64",
+        "c": 3.64,
+        "approximate": false
+      },
+      "34": {
+        "text": "c = 3.64",
+        "c": 3.64,
+        "approximate": false
+      },
+      "35": {
+        "text": "c = 3.64",
+        "c": 3.64,
+        "approximate": false
+      },
+      "36": {
+        "text": "c = 3.92",
+        "c": 3.92,
+        "approximate": false
+      },
+      "37": {
+        "text": "c = 3.92",
+        "c": 3.92,
+        "approximate": false
+      },
+      "38": {
+        "text": "c = 3.92",
+        "c": 3.92,
+        "approximate": false
+      },
+      "39": {
+        "text": "c = 4.2",
+        "c": 4.2,
+        "approximate": false
+      },
+      "40": {
+        "text": "c = 4.2",
+        "c": 4.2,
+        "approximate": false
+      },
+      "41": {
+        "text": "c = 4.2",
+        "c": 4.2,
+        "approximate": false
+      },
+      "42": {
+        "text": "c = 4.48",
+        "c": 4.48,
+        "approximate": false
+      },
+      "43": {
+        "text": "c = 4.48",
+        "c": 4.48,
+        "approximate": false
+      },
+      "44": {
+        "text": "c = 4.48",
+        "c": 4.48,
+        "approximate": false
+      },
+      "45": {
+        "text": "c = 4.76",
+        "c": 4.76,
+        "approximate": false
+      },
+      "46": {
+        "text": "c = 4.76",
+        "c": 4.76,
+        "approximate": false
+      },
+      "47": {
+        "text": "c = 4.76",
+        "c": 4.76,
+        "approximate": false
+      },
+      "48": {
+        "text": "c = 5.04",
+        "c": 5.04,
+        "approximate": false
+      },
+      "49": {
+        "text": "c = 5.04",
+        "c": 5.04,
+        "approximate": false
+      },
+      "50": {
+        "text": "c = 5.04",
+        "c": 5.04,
+        "approximate": false
+      },
+      "51": {
+        "text": "c = 5.32",
+        "c": 5.32,
+        "approximate": false
+      },
+      "52": {
+        "text": "c = 5.32",
+        "c": 5.32,
+        "approximate": false
+      },
+      "53": {
+        "text": "c = 5.32",
+        "c": 5.32,
+        "approximate": false
+      },
+      "54": {
+        "text": "c = 5.6",
+        "c": 5.6,
+        "approximate": false
+      },
+      "55": {
+        "text": "c = 5.6",
+        "c": 5.6,
+        "approximate": false
+      },
+      "56": {
+        "text": "c = 5.6",
+        "c": 5.6,
+        "approximate": false
+      },
+      "57": {
+        "text": "c = 5.88",
+        "c": 5.88,
+        "approximate": false
+      },
+      "58": {
+        "text": "c = 5.88",
+        "c": 5.88,
+        "approximate": false
+      },
+      "59": {
+        "text": "c = 5.88",
+        "c": 5.88,
+        "approximate": false
+      },
+      "60": {
+        "text": "c = 6.16",
+        "c": 6.16,
+        "approximate": false
+      },
+      "61": {
+        "text": "c = 6.16",
+        "c": 6.16,
+        "approximate": false
+      },
+      "62": {
+        "text": "c = 6.16",
+        "c": 6.16,
+        "approximate": false
+      },
+      "63": {
+        "text": "c = 6.44",
+        "c": 6.44,
+        "approximate": false
+      },
+      "64": {
+        "text": "c = 6.44",
+        "c": 6.44,
+        "approximate": false
+      },
+      "65": {
+        "text": "c = 6.44",
+        "c": 6.44,
+        "approximate": false
+      },
+      "66": {
+        "text": "c = 6.72",
+        "c": 6.72,
+        "approximate": false
+      },
+      "67": {
+        "text": "c = 6.72",
+        "c": 6.72,
+        "approximate": false
+      },
+      "68": {
+        "text": "c = 6.72",
+        "c": 6.72,
+        "approximate": false
+      },
+      "69": {
+        "text": "c = 7",
+        "c": 7.0,
+        "approximate": false
+      },
+      "70": {
+        "text": "c = 7",
+        "c": 7.0,
+        "approximate": false
+      },
+      "71": {
+        "text": "c = 7",
+        "c": 7.0,
+        "approximate": false
+      },
+      "72": {
+        "text": "c = 7.28",
+        "c": 7.28,
+        "approximate": false
+      },
+      "73": {
+        "text": "c = 7.28",
+        "c": 7.28,
+        "approximate": false
+      },
+      "74": {
+        "text": "c = 7.28",
+        "c": 7.28,
+        "approximate": false
+      }
+    },
+    "basis": "由各支正切曲线反解竖直位移，匹配原书标准0.28档位；同一c的不同分支保持相同数值。"
+  },
+  "99": {
+    "records": {
+      "0": {
+        "text": "c = 2.24",
+        "c": 2.24,
+        "approximate": false
+      },
+      "1": {
+        "text": "c = 2.52",
+        "c": 2.52,
+        "approximate": false
+      },
+      "2": {
+        "text": "c = 2.8",
+        "c": 2.8,
+        "approximate": false
+      },
+      "3": {
+        "text": "c = 3.08",
+        "c": 3.08,
+        "approximate": false
+      },
+      "4": {
+        "text": "c = 3.36",
+        "c": 3.36,
+        "approximate": false
+      },
+      "5": {
+        "text": "c = 3.64",
+        "c": 3.64,
+        "approximate": false
+      },
+      "6": {
+        "text": "c = 3.92",
+        "c": 3.92,
+        "approximate": false
+      },
+      "7": {
+        "text": "c = 4.2",
+        "c": 4.2,
+        "approximate": false
+      },
+      "8": {
+        "text": "c = 4.48",
+        "c": 4.48,
+        "approximate": false
+      },
+      "9": {
+        "text": "c = 4.76",
+        "c": 4.76,
+        "approximate": false
+      },
+      "10": {
+        "text": "c = 5.04",
+        "c": 5.04,
+        "approximate": false
+      },
+      "11": {
+        "text": "c = 5.32",
+        "c": 5.32,
+        "approximate": false
+      },
+      "12": {
+        "text": "c = 5.6",
+        "c": 5.6,
+        "approximate": false
+      },
+      "13": {
+        "text": "c = 5.88",
+        "c": 5.88,
+        "approximate": false
+      },
+      "14": {
+        "text": "c = 6.16",
+        "c": 6.16,
+        "approximate": false
+      },
+      "15": {
+        "text": "c = 6.44",
+        "c": 6.44,
+        "approximate": false
+      },
+      "16": {
+        "text": "c = 6.72",
+        "c": 6.72,
+        "approximate": false
+      },
+      "17": {
+        "text": "c = 7",
+        "c": 7.0,
+        "approximate": false
+      },
+      "18": {
+        "text": "c = 7.28",
+        "c": 7.28,
+        "approximate": false
+      }
+    },
+    "basis": "逻辑函数上下渐近线相差1；第一条可见曲线的下渐近线对应标准第8档c=2.24，随后加0.28。"
+  },
+  "23": {
+    "records": {},
+    "unresolved": true,
+    "displayNote": "原书未列出具体取值，当前图形的 c 尚不能可靠反求。"
+  },
+  "25": {
+    "records": {},
+    "unresolved": true,
+    "displayNote": "原书未列出具体取值，当前图形的 c 尚不能可靠反求。"
+  },
+  "28": {
+    "records": {},
+    "unresolved": true,
+    "displayNote": "原书未列出具体取值，当前图形的 c 尚不能可靠反求。"
+  },
+  "29": {
+    "records": {},
+    "unresolved": true,
+    "displayNote": "原书未列出具体取值，当前图形的 c 尚不能可靠反求。"
+  },
+  "30": {
+    "records": {},
+    "unresolved": true,
+    "displayNote": "原书未列出具体取值，当前图形的 c 尚不能可靠反求。"
+  },
+  "33": {
+    "records": {},
+    "unresolved": true,
+    "displayNote": "原书未列出具体取值，当前图形的 c 尚不能可靠反求。"
+  },
+  "39": {
+    "records": {},
+    "unresolved": true,
+    "displayNote": "原书未列出具体取值，当前图形的 c 尚不能可靠反求。"
+  },
+  "76": {
+    "records": {},
+    "unresolved": true,
+    "displayNote": "原书未列出具体取值，当前图形的 c 尚不能可靠反求。"
+  },
+  "78": {
+    "records": {},
+    "unresolved": true,
+    "displayNote": "原书未列出具体取值，当前图形的 c 尚不能可靠反求。"
+  },
+  "80": {
+    "records": {},
+    "unresolved": true,
+    "displayNote": "原书未列出具体取值，当前图形的 c 尚不能可靠反求。"
+  },
+  "81": {
+    "records": {},
+    "unresolved": true,
+    "displayNote": "原书未列出具体取值，当前图形的 c 尚不能可靠反求。"
+  },
+  "83": {
+    "records": {},
+    "unresolved": true,
+    "displayNote": "原书未列出具体取值，当前图形的 c 尚不能可靠反求。"
+  },
+  "84": {
+    "records": {},
+    "unresolved": true,
+    "displayNote": "原书未列出具体取值，当前图形的 c 尚不能可靠反求。"
+  },
+  "86": {
+    "records": {},
+    "unresolved": true,
+    "displayNote": "原书未列出具体取值，当前图形的 c 尚不能可靠反求。"
+  },
+  "90": {
+    "records": {},
+    "unresolved": true,
+    "displayNote": "原书未列出具体取值，当前图形的 c 尚不能可靠反求。"
+  },
+  "92": {
+    "records": {},
+    "unresolved": true,
+    "displayNote": "原书未列出具体取值，当前图形的 c 尚不能可靠反求。"
+  },
+  "93": {
+    "records": {},
+    "unresolved": true,
+    "displayNote": "原书未列出具体取值，当前图形的 c 尚不能可靠反求。"
+  },
+  "94": {
+    "records": {},
+    "unresolved": true,
+    "displayNote": "原书未列出具体取值，当前图形的 c 尚不能可靠反求。"
+  },
+  "95": {
+    "records": {},
+    "unresolved": true,
+    "displayNote": "原书未列出具体取值，当前图形的 c 尚不能可靠反求。"
+  },
+  "101": {
+    "records": {},
+    "unresolved": true,
+    "displayNote": "原书未列出具体取值，当前图形的 c 尚不能可靠反求。"
+  },
+  "102": {
+    "records": {},
+    "unresolved": true,
+    "displayNote": "原书未列出具体取值，当前图形的 c 尚不能可靠反求。"
+  }
+}
